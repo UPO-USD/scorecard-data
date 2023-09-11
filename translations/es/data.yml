@@ -1,0 +1,19 @@
+# Column names
+Sex: Sexo
+Study_level: Nivel de estudios
+University_members: Miembros de la universidad
+# Serie names
+disaggregated: Desagregado
+junta_andalucia: Becas generales concedidas por Junta de Andalucía
+linguistic_accreditations: Acreditaciones lingüísticas concedidas
+# Disaggregation names
+men: Hombres
+women: Mujeres
+degree: Grado
+degree_double: Grado y Doble Grado
+master: Master
+doctorate: Doctorado
+undergraduate: Estudiantes de grado
+postgraduate: Estudiantes de CEDEP
+pas: PAS
+pdi: PDI

@@ -1,0 +1,17 @@
+percentage: 'Percentage (%)'
+total_number: Total number
+degree_satisfaction: Degree of satisfaction
+stundents_per_teacher: Students per full time teacher
+teacher_saturation_index: Teacher Saturation Index
+m3_per_person: m³ per person
+kWh_per_person: kWh per person
+accidents_sick_leave: Total accidents with sick leave per 1000 workers
+accidents_wo_sick_leave: Total accidents without sick leave per 1000 workers
+kg_food_waste: Kg of food waste per person
+kg_hazardous_waste: Kg of hazardous waste generated per person
+kg_electronic_waste: Kg of electronic waste per person
+kg_plastic_waste: Kg of plastic waste generated per person
+kg_paper_recovered: Kg of used paper recovered per person
+kg_glass_recovered: Kg of used glass recovered per person
+tons_co2_person: Tons of CO2 per person
+biodiversity_index: Biodiversity index
