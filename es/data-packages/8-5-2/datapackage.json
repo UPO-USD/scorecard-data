@@ -12,12 +12,36 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Año"
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Desagregado",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -26,5 +50,5 @@
   ],
   "profile": "data-package",
   "name": "8-5-2",
-  "title": "Unemployment rate, by sex, age and persons with disabilities"
+  "title": "Número de estudiantes que han sido atendidos por el servicio de orientación profesional o que han participado en las actividades de emprendimiento y empleabilidad de la FPO"
 }

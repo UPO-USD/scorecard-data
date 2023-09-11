@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Health and Occupational Risk Prevention",
+                "Healthy Campus and Sport area",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +35,5 @@
   ],
   "profile": "data-package",
   "name": "3-4-2",
-  "title": "Suicide mortality rate"
+  "title": "global_indicators.3-4-2-title"
 }

@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Año"
           },
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "3-4-1",
-  "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease"
+  "title": "Porcentaje de personas de la comunidad universitaria que utilizan las instalaciones deportivas y/o se inscriben en actividades físicas ofertadas por la universidad"
 }

@@ -12,8 +12,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "University_members",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PAS",
+                "PDI",
+                ""
+              ]
+            },
+            "title": "Miembros de la universidad"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Sexo"
           },
           {
             "name": "Value",
@@ -26,5 +50,5 @@
   ],
   "profile": "data-package",
   "name": "10-2-1",
-  "title": "Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities"
+  "title": "Porcentaje de personal con diversidad funcional respecto al total del personal de la UPO"
 }

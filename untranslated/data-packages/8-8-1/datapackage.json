@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "units.accidents_sick_leave",
+                "units.accidents_wo_sick_leave",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +35,5 @@
   ],
   "profile": "data-package",
   "name": "8-8-1",
-  "title": "Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status"
+  "title": "global_indicators.8-8-1-title"
 }

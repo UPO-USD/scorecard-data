@@ -12,12 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "12-7-1",
-  "title": "Number of countries implementing sustainable public procurement policies and action plans"
+  "title": "Percentage of tenders in which they have integrated ethical, social and environmental clauses (beyond the law)"
 }

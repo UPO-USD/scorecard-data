@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           },
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "9-5-2",
-  "title": "Researchers (in full-time equivalent) per million inhabitants"
+  "title": "Percentage of the UPO's annual budget dedicated to research and development (R&D)"
 }

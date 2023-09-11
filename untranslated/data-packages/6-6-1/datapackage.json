@@ -12,11 +12,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       }
@@ -24,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "6-6-1",
-  "title": "Change in the extent of water-related ecosystems over time"
+  "title": "global_indicators.6-6-1-title"
 }

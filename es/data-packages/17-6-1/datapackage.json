@@ -12,12 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Año"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "17-6-1",
-  "title": "Fixed Internet broadband subscriptions per 100 inhabitants, by speed"
+  "title": "Porcentaje de personas que participan en actividades de cooperación internacional y desarrollo respecto al total de la comunidad universitaria"
 }

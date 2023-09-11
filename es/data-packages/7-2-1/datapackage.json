@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Año"
           },
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "7-2-1",
-  "title": "Renewable energy share in the total final energy consumption"
+  "title": "Porcentaje de electricidad consumida procedente de fuentes renovables respecto al consumo total"
 }

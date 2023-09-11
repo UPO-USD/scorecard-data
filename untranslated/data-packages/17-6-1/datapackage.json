@@ -12,11 +12,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       }
@@ -24,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "17-6-1",
-  "title": "Fixed Internet broadband subscriptions per 100 inhabitants, by speed"
+  "title": "global_indicators.17-6-1-title"
 }

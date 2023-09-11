@@ -12,12 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "11-7-1",
-  "title": "Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities"
+  "title": "Percentage of campus surface university occupied by green areas and gardens"
 }

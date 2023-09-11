@@ -12,12 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Año"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "5-5-1",
-  "title": "Proportion of seats held by women in (a) national parliaments and (b) local governments"
+  "title": "Porcentaje de mujeres miembros de órganos colegiados y equipos directivos de respecto al total de miembros"
 }

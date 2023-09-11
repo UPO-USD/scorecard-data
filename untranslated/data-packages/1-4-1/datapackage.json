@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "junta_andalucia",
+                "linguistic_accreditations",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +35,5 @@
   ],
   "profile": "data-package",
   "name": "1-4-1",
-  "title": "Proportion of population living in households with access to basic services"
+  "title": "global_indicators.1-4-1-title"
 }

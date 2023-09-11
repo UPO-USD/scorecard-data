@@ -12,12 +12,36 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           },
           {
+            "name": "University_members",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Administrative and service personnel",
+                "Teaching and research personnel",
+                ""
+              ]
+            },
+            "title": "University members"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "men",
+                "women",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -26,5 +50,5 @@
   ],
   "profile": "data-package",
   "name": "5-4-1",
-  "title": "Proportion of time spent on unpaid domestic and care work, by sex, age and location"
+  "title": "Number of people (PDI+PAS) that welcomes conciliation plans"
 }

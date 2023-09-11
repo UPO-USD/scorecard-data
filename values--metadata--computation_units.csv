@@ -1,1 +1,17 @@
 Value,Number of indicators
+units.accidents_sick_leave,1
+units.biodiversity_index,1
+units.degree_satisfaction,1
+units.kg_electronic_waste,1
+units.kg_food_waste,1
+units.kg_glass_recovered,1
+units.kg_hazardous_waste,1
+units.kg_paper_recovered,1
+units.kg_plastic_waste,1
+units.kWh_per_person,1
+units.m3_per_person,1
+units.percentage,47
+units.stundents_per_teacher,1
+units.teacher_saturation_index,1
+units.tons_co2_person,1
+units.total_number,24

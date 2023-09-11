@@ -12,8 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total accidents with sick leave per 1000 workers",
+                "Total accidents without sick leave per 1000 workers",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
@@ -26,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "8-8-1",
-  "title": "Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status"
+  "title": "Accident and incident rate per capita for all UPO personnel"
 }

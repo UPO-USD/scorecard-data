@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Año"
           },
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "9-5-2",
-  "title": "Researchers (in full-time equivalent) per million inhabitants"
+  "title": "Porcentaje del presupuesto anual de la UPO dedicado a investigación y desarrollo (I+D)"
 }

@@ -12,12 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Año"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "14-2-1",
-  "title": "Number of countries using ecosystem-based approaches to managing marine areas"
+  "title": "Número de investigaciones sobre conservación de océanos, mares, lagos, ríos y recursos marinos"
 }

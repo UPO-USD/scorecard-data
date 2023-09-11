@@ -12,8 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total accidentes con baja por cada 1000 trabajadores",
+                "Total accidentes sin baja por cada 1000 trabajadores",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
@@ -26,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "8-8-1",
-  "title": "Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status"
+  "title": "Tasa de accidentes e incidentes per cápita de todo el personal de la UPO"
 }

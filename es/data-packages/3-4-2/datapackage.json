@@ -12,8 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Año"
+          },
+          {
+            "name": "Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Health and Occupational Risk Prevention",
+                "Healthy Campus and Sport area",
+                ""
+              ]
+            },
+            "title": "Area"
           },
           {
             "name": "Value",
@@ -26,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "3-4-2",
-  "title": "Suicide mortality rate"
+  "title": "Porcentaje del presupuesto anual de la UPO destinado al área de Salud y Prevención de Riesgos Laborales y Campus y Deportes Saludables"
 }

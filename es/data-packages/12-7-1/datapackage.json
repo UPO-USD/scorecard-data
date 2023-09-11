@@ -12,12 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Año"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "12-7-1",
-  "title": "Number of countries implementing sustainable public procurement policies and action plans"
+  "title": "Porcentaje de licitaciones en las que han integrado cláusulas éticas, sociales y medioambientales (más allá de la ley)"
 }

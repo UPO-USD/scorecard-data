@@ -1,0 +1,42 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Student Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estudiantes de grado",
+                "Estudiantes de CEDEP",
+                ""
+              ]
+            },
+            "title": "Student Type"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-3-4",
+  "title": "Grado de satisfacción de los alumnos con la enseñanza"
+}

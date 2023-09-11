@@ -12,11 +12,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
@@ -24,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "15-5-1",
-  "title": "Red List Index"
+  "title": "global_indicators.15-5-1-title"
 }

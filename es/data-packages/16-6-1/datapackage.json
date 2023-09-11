@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Año"
           },
           {
@@ -26,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "16-6-1",
-  "title": "Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)"
+  "title": "Índice de transparencia y rendición de cuentas en la UPO"
 }
