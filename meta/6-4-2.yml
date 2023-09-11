@@ -1,0 +1,35 @@
+# required
+SDG_GOAL: >-
+  global_goals.6-title
+
+# required
+SDG_TARGET: >-
+  global_targets.6-4-title
+
+# required
+SDG_INDICATOR: >-
+  global_indicators.6-4-2-title
+
+# optional
+SDG_INDICATOR_INFO: >-
+
+# optional
+CONTACT_ORGANISATION: >-
+  UPO
+
+# optional
+ORGANISATION_UNIT: >-
+
+# optional
+STAT_CONC_DEF: |
+
+# optional
+UNIT_MEASURE: >-
+  units.percentage
+
+# optional
+COVERAGE: >-
+
+# optional
+indicator_level: >-
+  metadata_values.result
