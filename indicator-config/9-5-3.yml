@@ -17,7 +17,9 @@ data_notice_text: ''
 # optional. Show map tab if configured
 data_show_map: false
 # optional
-data_start_values: []
+data_start_values:
+  - field: Units
+    value: units.percentage_rd_external_funds
 # optional
 embedded_feature_footer: ''
 # optional. Required if using embedded feature and not using embedded_feature_url
@@ -49,7 +51,7 @@ indicator_name: global_indicators.9-5-3-title
 # required
 indicator_number: '9.5.3'
 # optional
-national_geographical_coverage: ''
+national_geographical_coverage: 'Total'
 # optional
 page_content: ''
 # optional

@@ -33,3 +33,19 @@ COVERAGE: >-
 # optional
 indicator_level: >-
   metadata_values.process
+
+# optional
+indicator_type: >-
+  metadata_values.teaching_research
+
+# optional
+area_action: >-
+  metadata_values.biodiversity_preservation
+
+# optional
+five_ps: >-
+  metadata_values.planet
+
+# optional
+main_activity: >-
+  metadata_values.research

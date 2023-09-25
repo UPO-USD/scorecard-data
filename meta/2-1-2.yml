@@ -32,6 +32,20 @@ COVERAGE: >-
 
 # optional
 indicator_level: >-
+  metadata_values.process
 
 # optional
 indicator_type: >-
+  metadata_values.institutional_policy
+
+# optional
+area_action: >-
+  metadata_values.sustainable_goods_services
+
+# optional
+five_ps: >-
+  metadata_values.people
+
+# optional
+main_activity: >-
+  metadata_values.management

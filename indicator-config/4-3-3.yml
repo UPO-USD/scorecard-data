@@ -1,7 +1,7 @@
 # optional
 composite_breakdown_label: ''
 # required
-computation_units: units.teacher_saturation_index
+computation_units: units.total_number
 # optional
 copyright: ''
 # optional

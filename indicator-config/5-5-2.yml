@@ -45,7 +45,7 @@ graph_type: bar
 # optional. Alternate name for the indicator if it's name is not sufficiently precise
 indicator_available: ''
 # required
-indicator_name: global_indicators.5-2-2-title
+indicator_name: global_indicators.5-5-2-title
 # required
 indicator_number: '5.5.2'
 # optional

@@ -37,7 +37,7 @@ graph_limits: []
 # optional
 graph_stacked_disaggregation: ''
 # required
-graph_title: global_indicators.4-3-1-title
+graph_title: global_indicators.4-3-7-title
 # optional. Settings used if chart title depends on user-selected unit of measurement
 graph_titles: []
 # required
@@ -45,9 +45,9 @@ graph_type: bar
 # optional. Alternate name for the indicator if it's name is not sufficiently precise
 indicator_available: ''
 # required
-indicator_name: global_indicators.4-3-6-title
+indicator_name: global_indicators.4-3-7-title
 # required
-indicator_number: '4.3.6'
+indicator_number: '4.3.7'
 # optional
 national_geographical_coverage: ''
 # optional

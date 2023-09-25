@@ -33,3 +33,19 @@ COVERAGE: >-
 # optional
 indicator_level: >-
   metadata_values.process
+
+# optional
+indicator_type: >-
+  metadata_values.institutional_policy
+
+# optional
+area_action: >-
+  metadata_values.gobernance_participation
+
+# optional
+five_ps: >-
+  metadata_values.peace
+
+# optional
+main_activity: >-
+  metadata_values.management
