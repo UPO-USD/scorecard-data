@@ -25,7 +25,7 @@ STAT_CONC_DEF: |
 
 # optional
 UNIT_MEASURE: >-
-  units.kg_hazardous_waste
+  metadata_values.12_4_1_unit_measure
 
 # optional
 COVERAGE: >-
@@ -33,3 +33,19 @@ COVERAGE: >-
 # optional
 indicator_level: >-
   metadata_values.process
+
+# optional
+indicator_type: >-
+  metadata_values.institutional_policy
+
+# optional
+area_action: >-
+  metadata_values.resources_energy_waste
+
+# optional
+five_ps: >-
+  metadata_values.planet
+
+# optional
+main_activity: >-
+  metadata_values.management

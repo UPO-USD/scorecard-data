@@ -49,13 +49,14 @@ indicator_name: global_indicators.3-4-2-title
 # required
 indicator_number: '3.4.1'
 # optional
-national_geographical_coverage: ''
+national_geographical_coverage: 'Total'
 # optional
 page_content: ''
 # optional
 permalink: ''
 # optional
-precision: []
+precision:
+  - decimals: 4
 # required. Options: not_available, challenges_remain, approaching_target, target_achieved
 progress_status: not_available
 # optional. List of related indicators if any

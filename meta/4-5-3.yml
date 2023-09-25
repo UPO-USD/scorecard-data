@@ -32,4 +32,20 @@ COVERAGE: >-
 
 # optional
 indicator_level: >-
-  metadata_values.result
+  metadata_values.process
+
+# optional
+indicator_type: >-
+  metadata_values.teaching_research
+
+# optional
+area_action: >-
+  metadata_values.diversity_equity
+
+# optional
+five_ps: >-
+  metadata_values.people
+
+# optional
+main_activity: >-
+  metadata_values.community_services

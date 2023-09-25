@@ -2,6 +2,8 @@
 Sex: Sexo
 Study_level: Nivel de estudios
 University_members: Miembros de la universidad
+Area: Área
+Fund: Tipo de fondo
 # Serie names
 disaggregated: Desagregado
 junta_andalucia: Becas generales concedidas por Junta de Andalucía
@@ -10,10 +12,15 @@ linguistic_accreditations: Acreditaciones lingüísticas concedidas
 men: Hombres
 women: Mujeres
 degree: Grado
-degree_double: Grado y Doble Grado
+degree_and_double: Grado y Doble Grado
+degree_double: Doble Grado
 master: Master
 doctorate: Doctorado
 undergraduate: Estudiantes de grado
 postgraduate: Estudiantes de CEDEP
-pas: PAS
-pdi: PDI
+pas: Personal de administración y servicios
+pdi: Personal docente e investigador
+health_risk_prevention: Salud y Prevención de Riesgos Laborales
+healty_campus_sport: Campus saludable y Deportes
+public: Público
+private: Privado

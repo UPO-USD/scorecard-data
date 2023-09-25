@@ -49,7 +49,7 @@ indicator_name: global_indicators.2-1-1-title
 # required
 indicator_number: '2.1.1'
 # optional
-national_geographical_coverage: ''
+national_geographical_coverage: 'Total'
 # optional
 page_content: ''
 # optional
@@ -67,7 +67,7 @@ sort: ''
 # required 
 source_active_1: true
 # optional
-source_organisation_1: Periphery
+source_organisation_1: UPO
 # optional. If true the indicator will not be part of a goal (most likely indicators that are not part of the SDGs)
 standalone: false
 # optional. Keywords, useful for filtering the indicator when searching

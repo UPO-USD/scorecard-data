@@ -2,18 +2,25 @@
 Sex: Sex
 Study_level: Study level
 University_members: University members
+Area: Area
+Fund: Fund type
 # Serie names
 disaggregated: Disaggregated
 junta_andalucia: General Study scholarships awarded from Junta de Andalucía
 linguistic_accreditations: Linguistic accreditations granted
 # Disaggregation names
-men: men
-women: women
+men: Men
+women: Momen
 degree: Degree
-degree_double: Degree and Double Degree
+degree_and_double: Degree and Double Degree
+degree_double: Double Degree
 master: Master
 doctorate: Doctorate
 undergraduate: Undergraduate
 postgraduate: Postgraduate
 pas: Administrative and service personnel
 pdi: Teaching and research personnel
+health_risk_prevention: Health and Occupational Risk Prevention
+healty_campus_sport: Healthy Campus and Sport area
+public: Public
+private: Private

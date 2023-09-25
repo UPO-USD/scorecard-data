@@ -32,10 +32,20 @@ COVERAGE: >-
 
 # optional
 indicator_level: >-
-  metadata_values.result
+  metadata_values.process
 
 # optional
 indicator_type: >-
+  metadata_values.institutional_policy
 
 # optional
-linked_area_action: >-
+area_action: >-
+  metadata_values.grants_student_support
+
+# optional
+five_ps: >-
+  metadata_values.people
+
+# optional
+main_activity: >-
+  metadata_values.management

@@ -1,38 +1,42 @@
+# unit measure
+5_1_7_unit_measure: Total number; Percentage (%)
+8_8_1_unit_measure: |
+  - Total accidents with sick leave/1000 workers×year
+  - Total accidents without sick leave/1000 workers×year
+12_4_1_unit_measure: Total kg of hazardous waste generated×year; Kg of hazardous waste generated/(pax×year)
+# indicator level
 result: Result (offer information on compliance with the SDG objectives at the UPO level)
-process: Process (offer information about the effort (resources, decisions, actions...) that the UPO is making to comply with the SDG)
+process: Process (offer information about the effort, resources, decisions and actions that the UPO is making to comply with the SDG)
 # indicator type
 interest_groups: Interest groups
 institutional_policy: Institutional policy
 teaching_research: Teaching / Research
-# linked area of action
-scholarships_grants: Scholarships and grants
-social_responsability: Social responsability
-sustainable_responsible_recruitment: Sustainable and responsible recruitment
-prevention_health: Prevention Health
-training_offer: Training offer
-quality_education: Quality education
-improve_diversity: Improve Diversity
-education_sustainable_development: Education Sustainable Development
-gender_gap_reduction: Gender Gap Reduction
-antiharassment_measures: Anti-harassment measures
-reconciliation_measures: Reconciliation measures
-efficient_resource_management: Efficient resource management
-environment_protection: Environment Protection
-sustainable_energy: Sustainable energy
-energy_efficiency: Energy efficiency
+# area of action
+grants_student_support: Grants and Student support
+gender_equity: Gender Equity
+resources_energy_waste: Resources, energy and waste management
+quality_education: High Quality Education
+diversity_equity: Diversity and equity
+research_capacity: Research capacity
+biodiversity_preservation: Biodiversity preservation
+international_coop_education: International Cooperation and Education for Sustainability
+climate_action: Climate Action
 employability: Employability
-quality_employment: Quality in Employment
-occupational_health_safety: Occupational Health & Safety
-investigative_capacity: Investigative capacity
-social_inclusion: Social inclusion
-sustainable_mobility: Sustainable Mobility
-sustainable_urbanization: Sustainable Urbanization
-green_areas: Green areas
+gobernance_participation: Gobernance and Participation
+sustainable_cities_communities: Sustainable cities and communities
+sustainable_goods_services: Sustainable External Goods and Services
+sustainable_mobility: Sustainable mobility
+health_care: Health care
+health_safety: Health and Safety
 food_waste: Food waste
-waste_management: Waste management
-sustainable_responsible_recruitment: Sustainable and responsible recruitment
-climate_change_mitigation: Climate Change Mitigation
-biodiversity_protection: Biodiversity Protection
-governance: Governance
-stake: Stake
-development_cooperation: Development Cooperation
+# five P's
+partnerships: Partnerships
+people: People
+peace: Peace
+planet: Planet
+prosperity: Prosperity
+# main activity
+management: Management
+community_services: Community Services
+teaching: Teaching
+research: Research

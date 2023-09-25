@@ -1,2 +1,42 @@
+# unit measure
+5_1_7_unit_measure: Número total; Porcentaje (%)
+8_8_1_unit_measure: |
+  - Accidentes con baja/1000 trabajadores×año
+  - Total accidentes sin baja/1000 trabajadores×año
+12_4_1_unit_measure: Kg totales de residuos peligrosos generados×año; Kg de residuos peligrosos generados/(pax×año)
+# indicator level
 result: Resultado (ofrece información sobre el cumplimiento de los objetivos de los ODS a nivel de la UPO)
-process: Proceso (ofrecer información sobre el esfuerzo (recursos, decisiones, acciones...) que la UPO está realizando para cumplir con los ODS
+process: Proceso (ofrece información sobre el esfuerzo, recursos, decisiones y acciones que la UPO está realizando para cumplir con los ODS)
+# indicator type
+interest_groups: Colectivos de interés
+institutional_policy: Política institucional
+teaching_research: Docencia / Investigación
+# area of action
+grants_student_support: Becas y apoyo al estudiante
+gender_equity: Equidad de género
+resources_energy_waste: Gestión de recursos, energía y residuos
+quality_education: Educación de calidad
+diversity_equity: Diversidad y equidad
+research_capacity: Capacidad de investigación
+biodiversity_preservation: Preservación de la biodiversidad
+international_coop_education: Cooperación internacional y educación para la sostenibilidad
+climate_action: Acción por el clima
+employability: Empleabilidad
+gobernance_participation: Gobernanza y participación
+sustainable_cities_communities: Ciudades y comunidades sostenibles
+sustainable_goods_services: Bienes y servicios externos sostenibles
+sustainable_mobility: Movilidad sostenible
+health_care: Atención a la salud
+health_safety: Salud y seguridad
+food_waste: Desperdicio de alimentos
+# five P's
+partnerships: Alianzas
+people: Personas
+peace: Paz
+planet: Planeta
+prosperity: Prosperidad
+# main activity
+management: Administración
+community_services: Servicios comunitarios
+teaching: Docencia
+research: Investigación

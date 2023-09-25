@@ -17,7 +17,13 @@ data_notice_text: ''
 # optional. Show map tab if configured
 data_show_map: false
 # optional
-data_start_values: []
+data_start_values:
+  - field: University_members
+    value: pdi
+  - field: Sex
+    value: men
+  - field: Sex
+    value: women
 # optional
 embedded_feature_footer: ''
 # optional. Required if using embedded feature and not using embedded_feature_url

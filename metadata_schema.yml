@@ -1006,10 +1006,22 @@ prose:
             label: Indicator type
             translation_key: metadata_fields.indicator_type
             scope: national
-      - name: linked_area_action
+      - name: area_action
         field:
             element: text
-            label: Linked area of action
-            translation_key: metadata_fields.linked_area_action
+            label: Area of action
+            translation_key: metadata_fields.area_action
+            scope: national
+      - name: five_ps
+        field:
+            element: text
+            label: Five Ps of Sustainable Development
+            translation_key: metadata_fields.five_ps
+            scope: national
+      - name: main_activity
+        field:
+            element: text
+            label: Main activity
+            translation_key: metadata_fields.main_activity
             scope: national
   ignore: ['/scripts', '/.github']

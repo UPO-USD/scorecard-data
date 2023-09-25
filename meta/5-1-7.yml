@@ -25,7 +25,7 @@ STAT_CONC_DEF: |
 
 # optional
 UNIT_MEASURE: >-
-  units.total_number
+  metadata_values.5_1_7_unit_measure
 
 # optional
 COVERAGE: >-
@@ -33,3 +33,19 @@ COVERAGE: >-
 # optional
 indicator_level: >-
   metadata_values.process
+
+# optional
+indicator_type: >-
+  metadata_values.institutional_policy
+
+# optional
+area_action: >-
+  metadata_values.gender_equity
+
+# optional
+five_ps: >-
+  metadata_values.people
+
+# optional
+main_activity: >-
+  metadata_values.community_services

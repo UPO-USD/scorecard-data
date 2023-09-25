@@ -4,14 +4,14 @@
 2-1-2-title: Porcentaje de cafeterías del campus que ofrecen un menú con productos locales y de temporada y que además disponen de productos de comercio justo respecto al total de dichos establecimientos
 3-4-1-title: Porcentaje de personas de la comunidad universitaria que utilizan las instalaciones deportivas y/o se inscriben en actividades físicas ofertadas por la universidad
 3-4-2-title: Porcentaje del presupuesto anual de la UPO destinado al área de Salud y Prevención de Riesgos Laborales y Campus y Deportes Saludables
-3-4-3-title: Alumnos atendidos en el servicio de salud mental
+3-4-3-title: Estudiantes atendidos en el servicio de salud mental
 4-3-1-title: Número de estudiantes matriculados en cursos de grado y posgrado en la UPO
 4-3-2-title: Número de estudiantes que se matriculan por primera vez en un grado y posgrado de la UPO
 4-3-3-title: Número de estudiantes que finalizan sus estudios de grado y posgrado
 4-3-4-title: Grado de satisfacción de los alumnos con la enseñanza
 4-3-5-title: Tasa de alumnos por profesor a tiempo completo
 4-3-6-title: Índice de saturación docente (porcentaje de créditos asignados a un profesor respecto al total posible)
-4-3-7-title: Proporción de estudiantes universitarios por primera vez en la familia
+4-3-7-title: Proporción de estudiantes de primera generación (primera generación de estudios universitario en la familia)
 4-4-1-title: Tasa de éxito académico de Máster y Grado
 4-4-2-title: Tasa de rendimiento académico
 4-4-3-title: Tasa de abandono
@@ -23,15 +23,15 @@
 5-1-1-title: Porcentaje de mujeres matriculadas sobre el total de estudiantes
 5-1-2-title: Porcentaje de alumnas de nuevo ingreso sobre el total de alumnos de nuevo ingreso
 5-1-3-title: Porcentaje de mujeres que participan en proyectos de investigación e innovación
-5-1-4-title: Porcentaje de mujeres PDI sobre el total de PDI de la UPO
-5-1-5-title: Porcentaje de mujeres PAS sobre el total de PAS de la UPO
-5-1-6-title: Porcentaje del presupuesto anual de la UPO asignado al área de Igualdad
+5-1-4-title: Porcentaje de mujeres PDI (Personal Docente e Investigador) sobre el total de PDI de la UPO
+5-1-5-title: Porcentaje de mujeres PAS (Personal de Administración y Servicios) sobre el total de PAS de la UPO
+5-1-6-title: Porcentaje del presupuesto anual de la UPO asignado al Área de Igualdad de Género
 5-1-7-title: Porcentaje de personas en la universidad que participa en actividades de formación y sensibilización sobre la igualdad
 5-2-1-title: Número de intervenciones en aplicación del protocolo contra el acoso sexual y por razón de sexo en la UPO
-5-4-1-title: Número de personas (PDI+PAS) que acogen planes de conciliación
-5-5-1-title: Porcentaje de mujeres miembros de órganos colegiados y equipos directivos de respecto al total de miembros
+5-4-1-title: Número de personas (PDI+PAS) que se acogen a los planes de conciliación (incluyendo excedencia por cuidados)
+5-5-1-title: Porcentaje de mujeres miembros de órganos colegiados y equipos directivos respecto al total de miembros
 5-5-2-title: Porcentaje de grupos principales de investigación dirigidos por mujeres
-5-5-3-title: Porcentaje de mujeres profesoras respecto al número total de puestos
+5-5-3-title: Porcentaje de mujeres catedráticas respecto al total de cátedras
 6-4-1-title: Consumo medio de agua (m3) por persona de la comunidad universitaria al año
 6-4-2-title: Huella hídrica de la UPO
 6-6-1-title: Porcentaje del presupuesto anual de la UPO destinado a la gestión sostenible del agua y el saneamiento en las instalaciones universitarias y al cuidado de los ecosistemas acuáticos
@@ -41,7 +41,7 @@
 8-5-1-title: Número de estudiantes con prácticas curriculares y extracurriculares gestionadas por la UPO
 8-5-2-title: Número de estudiantes que han sido atendidos por el servicio de orientación profesional o que han participado en las actividades de emprendimiento y empleabilidad de la FPO
 8-5-3-title: Tasa de empleo de los estudiantes graduados al cabo de un año
-8-5-4-title: Porcentaje de personal de la UPO con contrato laboral indefinido o funcionarios
+8-5-4-title: Porcentaje de personal de la UPO con contrato laboral indefinido o funcionariado
 8-8-1-title: Tasa de accidentes e incidentes per cápita de todo el personal de la UPO
 8-8-2-title: Número de personas que participan en actividades de formación relacionadas con la prevención de riesgos y la seguridad laboral
 9-5-1-title: Número de empresas derivadas creadas en la UPO
@@ -52,13 +52,13 @@
 9-5-6-title: Número de patentes o licencias de explotación vinculadas a la investigación realizada en la UPO
 10-2-1-title: Porcentaje de personal con diversidad funcional respecto al total del personal de la UPO
 10-2-2-title: Porcentaje de alumnos con diversidad funcional respecto al total de alumnos
-10-2-3-title: Porcentaje de alumnos con diversidad funcional respecto al total de alumnos
+10-2-3-title: Porcentaje de instalaciones y servicios certificados como accesibilidad universal
 10-2-4-title: Número de personas mayores participantes en el programa "Aula Abierta para Mayores"
 10-2-5-title: Número de entidades del Tercer Sector con las que la UPO ha firmado convenios de colaboración para la promoción del Voluntariado Universitario
 10-2-6-title: Número de personas que participan en actividades de voluntariado a través de la Oficina de Voluntariado de la UPO
 11-2-1-title: Porcentaje de plazas de aparcamiento para bicicletas respecto al total de miembros de la comunidad universitaria
 11-2-2-title: Porcentaje de desplazamientos de la comunidad universitaria que se realiza en medios de transporte sostenible
-11-3-1-title: Porcentaje de ocupación de la residencia Flora Tristán
+11-3-1-title: Tasa de ocupación anual de la residencia Flora Tristán
 11-3-2-title: Personas que participan en el programa "Alojamiento compartido"
 11-7-1-title: Porcentaje de la superficie del campus universitario ocupada por zonas verdes y jardines
 12-3-1-title: Kg/año/persona de desperdicios alimentarios en las instalaciones de la UPO
@@ -73,8 +73,8 @@
 13-3-2-title: Número de investigaciones sobre el cambio climático
 13-3-3-title: Oferta académica en cambio climático
 14-2-1-title: Número de investigaciones sobre conservación de océanos, mares, lagos, ríos y recursos marinos
-14-2-2-title: Academic/training offer in aquatic ecosystems from a perspective of conservation and sustainable use of their resources
-15-5-1-title: Índice de biodiversidad en el campus (existentes y reintroducidas)
+14-2-2-title: Oferta académica/formativa en ecosistemas acuáticos desde una perspectiva de conservación y aprovechamiento sostenible de sus recursos
+15-5-1-title: Índice de biodiversidad en el campus (existente y reintroducida)
 15-5-2-title: Número de publicaciones sobre conservación y gestión de suelos y ecosistemas terrestres
 15-5-3-title: Oferta académica/formativa sobre conservación y usos sostenibles de los ecosistemas terrestres
 16-6-1-title: Índice de transparencia y rendición de cuentas en la UPO

@@ -1,2 +1,5 @@
-Year,Value
-2021-2022,0.36
+Year,Fund,Units,Value
+2021-2022,,units.percentage_total_rd,7.73
+2021-2022,,units.percentage_rd_external_funds,6.64
+2021-2022,public,units.percentage_rd_external_funds,6.28
+2021-2022,private,units.percentage_rd_external_funds,0.36

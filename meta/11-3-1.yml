@@ -33,3 +33,19 @@ COVERAGE: >-
 # optional
 indicator_level: >-
   metadata_values.result
+
+# optional
+indicator_type: >-
+  metadata_values.interest_groups
+
+# optional
+area_action: >-
+  metadata_values.sustainable_cities_communities
+
+# optional
+five_ps: >-
+  metadata_values.prosperity
+
+# optional
+main_activity: >-
+  metadata_values.community_services

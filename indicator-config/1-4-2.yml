@@ -49,7 +49,7 @@ indicator_name: global_indicators.1-4-2-title
 # required
 indicator_number: '1.4.2'
 # optional
-national_geographical_coverage: ''
+national_geographical_coverage: 'Total'
 # optional
 page_content: ''
 # optional
@@ -64,9 +64,10 @@ related_indicators: []
 reporting_status: complete
 # optional
 sort: ''
-# optional. Alternate way to provide sources
-sources: 
-  - organisation: UPO
+# required 
+source_active_1: true
+# optional
+source_organisation_1: UPO
 # optional. If true the indicator will not be part of a goal (most likely indicators that are not part of the SDGs)
 standalone: false
 # optional. Keywords, useful for filtering the indicator when searching

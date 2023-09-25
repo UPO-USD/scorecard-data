@@ -1,7 +1,7 @@
 # optional
 composite_breakdown_label: ''
 # required
-computation_units: units.percentage
+computation_units: units.teacher_saturation_index
 # optional
 copyright: ''
 # optional
@@ -37,7 +37,7 @@ graph_limits: []
 # optional
 graph_stacked_disaggregation: ''
 # required
-graph_title: global_indicators.4-3-1-title
+graph_title: global_indicators.4-3-6-title
 # optional. Settings used if chart title depends on user-selected unit of measurement
 graph_titles: []
 # required

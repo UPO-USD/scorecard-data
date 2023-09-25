@@ -33,3 +33,19 @@ COVERAGE: >-
 # optional
 indicator_level: >-
   metadata_values.result
+
+# optional
+indicator_type: >-
+  metadata_values.institutional_policy
+
+# optional
+area_action: >-
+  metadata_values.climate_action
+
+# optional
+five_ps: >-
+  metadata_values.planet
+
+# optional
+main_activity: >-
+  metadata_values.management
