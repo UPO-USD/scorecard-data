@@ -1,2 +1,5 @@
-Year,Value
-2021-2022,0.36
+Year,Fund type,Units,Value
+2021-2022,,Percentage of the annual budget of the UPO dedicated to R&D,7.73
+2021-2022,,Percentage of R&D income derived from external funds with respect to the total budget of the university allocated to R&D,6.64
+2021-2022,Public,Percentage of R&D income derived from external funds with respect to the total budget of the university allocated to R&D,6.28
+2021-2022,Private,Percentage of R&D income derived from external funds with respect to the total budget of the university allocated to R&D,0.36

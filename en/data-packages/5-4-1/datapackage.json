@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "men",
-                "women",
+                "Men",
+                "Momen",
                 ""
               ]
             },
@@ -50,5 +50,5 @@
   ],
   "profile": "data-package",
   "name": "5-4-1",
-  "title": "Number of people (PDI+PAS) that welcomes conciliation plans"
+  "title": "Number of people (PDI+PAS) that welcomes conciliation plans (including leave of absence for care)"
 }

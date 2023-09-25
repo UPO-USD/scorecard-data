@@ -1,2 +1,5 @@
-Year,Value
-2021-2022,7.73
+Year,Tipo de fondo,Units,Value
+2021-2022,,Porcentaje del presupuesto anual de la UPO dedicado a I+D,7.73
+2021-2022,,Porcentaje de ingresos por I+D derivados de fondos externos respecto al presupuesto total de la universidad destinado a I+D,6.64
+2021-2022,Público,Porcentaje de ingresos por I+D derivados de fondos externos respecto al presupuesto total de la universidad destinado a I+D,6.28
+2021-2022,Privado,Porcentaje de ingresos por I+D derivados de fondos externos respecto al presupuesto total de la universidad destinado a I+D,0.36

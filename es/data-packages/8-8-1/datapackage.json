@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total accidentes con baja por cada 1000 trabajadores",
-                "Total accidentes sin baja por cada 1000 trabajadores",
+                "Total accidentes con baja/1000 trabajadores×año",
+                "Total accidentes sin baja/1000 trabajadores×año",
                 ""
               ]
             },

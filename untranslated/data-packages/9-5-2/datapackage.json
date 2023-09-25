@@ -15,6 +15,28 @@
             "type": "string"
           },
           {
+            "name": "Fund",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "public",
+                "private",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "units.percentage_total_rd",
+                "units.percentage_rd_external_funds",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

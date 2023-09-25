@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Grado",
-                "Grado y Doble Grado",
+                "Doble Grado",
                 "Master",
                 ""
               ]
@@ -39,5 +39,5 @@
   ],
   "profile": "data-package",
   "name": "14-2-2",
-  "title": "Academic/training offer in aquatic ecosystems from a perspective of conservation and sustainable use of their resources"
+  "title": "Oferta académica/formativa en ecosistemas acuáticos desde una perspectiva de conservación y aprovechamiento sostenible de sus recursos"
 }

@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PAS",
-                "PDI",
+                "Personal de administración y servicios",
+                "Personal docente e investigador",
                 ""
               ]
             },

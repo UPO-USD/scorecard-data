@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Degree",
-                "Degree and Double Degree",
+                "Double Degree",
                 "Master",
                 ""
               ]

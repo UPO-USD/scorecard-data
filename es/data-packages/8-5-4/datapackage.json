@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "mac-roman",
       "schema": {
         "fields": [
           {
@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PAS",
-                "PDI",
+                "Personal de administración y servicios",
+                "Personal docente e investigador",
                 ""
               ]
             },
@@ -38,5 +38,5 @@
   ],
   "profile": "data-package",
   "name": "8-5-4",
-  "title": "Porcentaje de personal de la UPO con contrato laboral indefinido o funcionarios"
+  "title": "Porcentaje de personal de la UPO con contrato laboral indefinido o funcionariado"
 }

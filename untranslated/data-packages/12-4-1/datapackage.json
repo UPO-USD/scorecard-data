@@ -15,8 +15,19 @@
             "type": "string"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "units.kg_hazardous_waste_total",
+                "units.kg_hazardous_waste_person",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

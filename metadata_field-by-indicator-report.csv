@@ -1,6 +1,6 @@
 Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geographical coverage,Units,Graph type
 #1-4-1,complete,,,,,units.percentage,bar
-#1-4-2,complete,,,,,units.percentage,bar
+#1-4-2,complete,,,,Total,units.percentage,bar
 #10-2-1,complete,,,,,units.percentage,bar
 #10-2-2,complete,,,,,units.percentage,bar
 #10-2-3,notstarted,,,,,units.percentage,bar
@@ -34,17 +34,17 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #17-16-1,complete,,,,,units.percentage,bar
 #17-2-1,complete,,,,,units.percentage,bar
 #17-6-1,notstarted,,,,,units.percentage,bar
-#2-1-1,complete,,,,,units.percentage,bar
+#2-1-1,complete,,,,Total,units.percentage,bar
 #2-1-2,notstarted,,,,,units.percentage,bar
 #3-4-1,complete,,,,,units.percentage,bar
-#3-4-2,complete,,,,,units.percentage,bar
+#3-4-2,complete,,,,Total,units.percentage,bar
 #3-4-3,complete,,,,,units.total_number,bar
 #4-3-1,complete,,,,,units.total_number,bar
 #4-3-2,complete,,,,,units.total_number,bar
-#4-3-3,complete,,,,,units.teacher_saturation_index,bar
+#4-3-3,complete,,,,,units.total_number,bar
 #4-3-4,complete,,,,,units.degree_satisfaction,bar
 #4-3-5,complete,,,,,units.stundents_per_teacher,bar
-#4-3-6,notstarted,,,,,units.percentage,bar
+#4-3-6,notstarted,,,,,units.teacher_saturation_index,bar
 #4-3-7,notstarted,,,,,units.percentage,bar
 #4-4-1,complete,,,,,units.percentage,bar
 #4-4-2,complete,,,,,units.percentage,bar
@@ -79,8 +79,8 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #8-8-1,complete,,,,,units.accidents_sick_leave,bar
 #8-8-2,complete,,,,,units.total_number,bar
 #9-5-1,complete,,,,,units.total_number,bar
-#9-5-2,complete,,,,,units.percentage,bar
-#9-5-3,complete,,,,,units.percentage,bar
-#9-5-4,complete,,,,,units.percentage,bar
-#9-5-5,complete,,,,,units.percentage,bar
+#9-5-2,complete,,,,Total,units.percentage,bar
+#9-5-3,complete,,,,Total,units.percentage,bar
+#9-5-4,complete,,,,Total,units.percentage,bar
+#9-5-5,complete,,,,Total,units.percentage,bar
 #9-5-6,complete,,,,,units.total_number,bar

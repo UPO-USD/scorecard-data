@@ -16,8 +16,20 @@
             "title": "Año"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kg totales de residuos peligrosos generados×año",
+                "Kg de residuos peligrosos generados/(pax×año)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

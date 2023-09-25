@@ -1,1 +1,1 @@
-{"data":{"Year":["2021-2022"],"Value":[4006]},"edges":[]}
+{"data":{"Year":["2021-2022","2021-2022"],"Units":["units.kg_hazardous_waste_total","units.kg_hazardous_waste_person"],"Value":[4006.0,0.24]},"edges":[]}

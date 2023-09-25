@@ -20,12 +20,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Health and Occupational Risk Prevention",
-                "Healthy Campus and Sport area",
+                "Salud y Prevención de Riesgos Laborales",
+                "Campus saludable y Deportes",
                 ""
               ]
             },
-            "title": "Area"
+            "title": "Área"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Desagregado",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",

@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total accidents with sick leave per 1000 workers",
-                "Total accidents without sick leave per 1000 workers",
+                "Total accidents with sick leave/1000 workers×year",
+                "Total accidents without sick leave/1000 workers×year",
                 ""
               ]
             },

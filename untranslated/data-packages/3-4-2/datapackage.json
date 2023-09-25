@@ -19,8 +19,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Health and Occupational Risk Prevention",
-                "Healthy Campus and Sport area",
+                "health_risk_prevention",
+                "healty_campus_sport",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "disaggregated",
                 ""
               ]
             }

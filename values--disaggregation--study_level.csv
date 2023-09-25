@@ -1,5 +1,6 @@
 Value,Disaggregation combinations using this value,Number of indicators
 degree,4,4
-degree_double,6,4
+degree_and_double,3,1
+degree_double,3,3
 doctorate,1,1
 master,7,5

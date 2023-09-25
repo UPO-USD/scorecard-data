@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PAS",
-                "PDI",
+                "Personal de administración y servicios",
+                "Personal docente e investigador",
                 ""
               ]
             },
@@ -50,5 +50,5 @@
   ],
   "profile": "data-package",
   "name": "5-4-1",
-  "title": "Número de personas (PDI+PAS) que acogen planes de conciliación"
+  "title": "Número de personas (PDI+PAS) que se acogen a los planes de conciliación (incluyendo excedencia por cuidados)"
 }

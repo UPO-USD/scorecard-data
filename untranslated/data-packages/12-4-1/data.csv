@@ -1,2 +1,3 @@
-Year,Value
-2021-2022,4006
+Year,Units,Value
+2021-2022,units.kg_hazardous_waste_total,4006.0
+2021-2022,units.kg_hazardous_waste_person,0.24

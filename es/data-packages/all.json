@@ -3,8 +3,8 @@
   "title": "All indicators",
   "resources": [
     {
-      "path": "9-5-1/data.csv",
-      "name": "9-5-1",
+      "path": "5-2-1/data.csv",
+      "name": "5-2-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -24,11 +24,11 @@
           }
         ]
       },
-      "title": "Número de empresas derivadas creadas en la UPO"
+      "title": "Número de intervenciones en aplicación del protocolo contra el acoso sexual y por razón de sexo en la UPO"
     },
     {
-      "path": "4-4-2/data.csv",
-      "name": "4-4-2",
+      "path": "4-4-1/data.csv",
+      "name": "4-4-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -48,11 +48,35 @@
           }
         ]
       },
-      "title": "Tasa de rendimiento académico"
+      "title": "Tasa de éxito académico de Máster y Grado"
     },
     {
-      "path": "4-5-2/data.csv",
-      "name": "4-5-2",
+      "path": "5-5-1/data.csv",
+      "name": "5-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Porcentaje de mujeres miembros de órganos colegiados y equipos directivos respecto al total de miembros"
+    },
+    {
+      "path": "4-5-1/data.csv",
+      "name": "4-5-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -72,35 +96,11 @@
           }
         ]
       },
-      "title": "Número de estudiantes con diversidad funcional que finalizan sus estudios de grado y postgrado en la UPO"
+      "title": "Número de personas que utilizan el servicio SADF (anual)"
     },
     {
-      "path": "3-4-1/data.csv",
-      "name": "3-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Porcentaje de personas de la comunidad universitaria que utilizan las instalaciones deportivas y/o se inscriben en actividades físicas ofertadas por la universidad"
-    },
-    {
-      "path": "8-8-2/data.csv",
-      "name": "8-8-2",
+      "path": "11-7-1/data.csv",
+      "name": "11-7-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -120,11 +120,11 @@
           }
         ]
       },
-      "title": "Número de personas que participan en actividades de formación relacionadas con la prevención de riesgos y la seguridad laboral"
+      "title": "Porcentaje de la superficie del campus universitario ocupada por zonas verdes y jardines"
     },
     {
-      "path": "17-16-1/data.csv",
-      "name": "17-16-1",
+      "path": "10-2-3/data.csv",
+      "name": "10-2-3",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -139,12 +139,36 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
       },
-      "title": "Porcentaje de personas en la universidad que participan en programas de movilidad"
+      "title": "Porcentaje de instalaciones y servicios certificados como accesibilidad universal"
+    },
+    {
+      "path": "4-3-6/data.csv",
+      "name": "4-3-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Índice de saturación docente (porcentaje de créditos asignados a un profesor respecto al total posible)"
     },
     {
       "path": "9-5-6/data.csv",
@@ -171,8 +195,8 @@
       "title": "Número de patentes o licencias de explotación vinculadas a la investigación realizada en la UPO"
     },
     {
-      "path": "7-3-2/data.csv",
-      "name": "7-3-2",
+      "path": "6-4-2/data.csv",
+      "name": "6-4-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -187,21 +211,21 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
       },
-      "title": "Consumo de energía por estudiante matriculado y personal (PAS/PDI/contratistas)"
+      "title": "Huella hídrica de la UPO"
     },
     {
-      "path": "3-4-2/data.csv",
-      "name": "3-4-2",
+      "path": "9-5-2/data.csv",
+      "name": "9-5-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
@@ -210,16 +234,28 @@
             "title": "Año"
           },
           {
-            "name": "Area",
+            "name": "Fund",
             "type": "string",
             "constraints": {
               "enum": [
-                "Health and Occupational Risk Prevention",
-                "Healthy Campus and Sport area",
+                "Público",
+                "Privado",
                 ""
               ]
             },
-            "title": "Area"
+            "title": "Tipo de fondo"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje del presupuesto anual de la UPO dedicado a I+D",
+                "Porcentaje de ingresos por I+D derivados de fondos externos respecto al presupuesto total de la universidad destinado a I+D",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
@@ -228,7 +264,296 @@
           }
         ]
       },
-      "title": "Porcentaje del presupuesto anual de la UPO destinado al área de Salud y Prevención de Riesgos Laborales y Campus y Deportes Saludables"
+      "title": "Porcentaje del presupuesto anual de la UPO dedicado a investigación y desarrollo (I+D)"
+    },
+    {
+      "path": "4-7-1/data.csv",
+      "name": "4-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Porcentaje de la población universitaria que participa en programas/actividades que promueven la educación para el desarrollo sostenible"
+    },
+    {
+      "path": "13-3-3/data.csv",
+      "name": "13-3-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Study_level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Grado",
+                "Doble Grado",
+                "Master",
+                ""
+              ]
+            },
+            "title": "Nivel de estudios"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Oferta académica en cambio climático"
+    },
+    {
+      "path": "16-6-1/data.csv",
+      "name": "16-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Índice de transparencia y rendición de cuentas en la UPO"
+    },
+    {
+      "path": "11-3-2/data.csv",
+      "name": "11-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Personas que participan en el programa \"Alojamiento compartido\""
+    },
+    {
+      "path": "5-1-4/data.csv",
+      "name": "5-1-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Porcentaje de mujeres PDI (Personal Docente e Investigador) sobre el total de PDI de la UPO"
+    },
+    {
+      "path": "2-1-1/data.csv",
+      "name": "2-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Porcentaje de becas de comedor propias concedidas respecto a las solicitadas"
+    },
+    {
+      "path": "4-4-3/data.csv",
+      "name": "4-4-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Tasa de abandono"
+    },
+    {
+      "path": "1-4-2/data.csv",
+      "name": "1-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Porcentaje del presupuesto anual de la UPO dedicado a becas y ayudas sociales para estudiantes con bajos ingresos con respecto al presupuesto anual total de la UPO"
+    },
+    {
+      "path": "12-4-1/data.csv",
+      "name": "12-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kg totales de residuos peligrosos generados×año",
+                "Kg de residuos peligrosos generados/(pax×año)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Kg de residuos religrosos generados en laboratorios y talleres de la UPO a lo largo de un año"
+    },
+    {
+      "path": "16-10-1/data.csv",
+      "name": "16-10-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Porcentaje de casos resueltos con respecto a los denunciados al defensor universitario"
+    },
+    {
+      "path": "5-1-1/data.csv",
+      "name": "5-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Porcentaje de mujeres matriculadas sobre el total de estudiantes"
     },
     {
       "path": "15-5-2/data.csv",
@@ -303,607 +628,6 @@
       "title": "Número de personas mayores participantes en el programa \"Aula Abierta para Mayores\""
     },
     {
-      "path": "5-1-1/data.csv",
-      "name": "5-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Porcentaje de mujeres matriculadas sobre el total de estudiantes"
-    },
-    {
-      "path": "5-5-1/data.csv",
-      "name": "5-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "string",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Porcentaje de mujeres miembros de órganos colegiados y equipos directivos de respecto al total de miembros"
-    },
-    {
-      "path": "11-3-1/data.csv",
-      "name": "11-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Porcentaje de ocupación de la residencia Flora Tristán"
-    },
-    {
-      "path": "12-4-3/data.csv",
-      "name": "12-4-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "string",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Kg de residuos plásticos generados al año per cápita en el campus de la UPO"
-    },
-    {
-      "path": "4-4-3/data.csv",
-      "name": "4-4-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Tasa de abandono"
-    },
-    {
-      "path": "15-5-3/data.csv",
-      "name": "15-5-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Study_level",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Grado",
-                "Grado y Doble Grado",
-                "Master",
-                ""
-              ]
-            },
-            "title": "Nivel de estudios"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Oferta académica/formativa sobre conservación y usos sostenibles de los ecosistemas terrestres"
-    },
-    {
-      "path": "2-1-2/data.csv",
-      "name": "2-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "string",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Porcentaje de cafeterías del campus que ofrecen un menú con productos locales y de temporada y que además disponen de productos de comercio justo respecto al total de dichos establecimientos"
-    },
-    {
-      "path": "5-1-5/data.csv",
-      "name": "5-1-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Porcentaje de mujeres PAS sobre el total de PAS de la UPO"
-    },
-    {
-      "path": "13-3-1/data.csv",
-      "name": "13-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Hombres",
-                "Mujeres",
-                ""
-              ]
-            },
-            "title": "Sexo"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "Desagregado",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Número de personas que participan en actividades relacionadas con el cambio climático"
-    },
-    {
-      "path": "17-6-1/data.csv",
-      "name": "17-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "string",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Porcentaje de personas que participan en actividades de cooperación internacional y desarrollo respecto al total de la comunidad universitaria"
-    },
-    {
-      "path": "7-2-1/data.csv",
-      "name": "7-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Porcentaje de electricidad consumida procedente de fuentes renovables respecto al consumo total"
-    },
-    {
-      "path": "9-5-4/data.csv",
-      "name": "9-5-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Porcentaje de ingresos por I+D derivados de fondos públicos respecto al presupuesto total de la universidad destinado a I+D"
-    },
-    {
-      "path": "11-3-2/data.csv",
-      "name": "11-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "string",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Personas que participan en el programa \"Alojamiento compartido\""
-    },
-    {
-      "path": "12-4-4/data.csv",
-      "name": "12-4-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Kg de papel utilizado per cápita recuperados en las papeleras de recogida selectiva del campus de la UPO"
-    },
-    {
-      "path": "5-2-1/data.csv",
-      "name": "5-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Número de intervenciones en aplicación del protocolo contra el acoso sexual y por razón de sexo en la UPO"
-    },
-    {
-      "path": "11-7-1/data.csv",
-      "name": "11-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Porcentaje de la superficie del campus universitario ocupada por zonas verdes y jardines"
-    },
-    {
-      "path": "4-3-7/data.csv",
-      "name": "4-3-7",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "string",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Índice de saturación docente (porcentaje de créditos asignados a un profesor respecto al total posible)"
-    },
-    {
-      "path": "11-2-2/data.csv",
-      "name": "11-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Porcentaje de desplazamientos de la comunidad universitaria que se realiza en medios de transporte sostenible"
-    },
-    {
-      "path": "5-1-3/data.csv",
-      "name": "5-1-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Porcentaje de mujeres que participan en proyectos de investigación e innovación"
-    },
-    {
-      "path": "10-2-2/data.csv",
-      "name": "10-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Porcentaje de alumnos con diversidad funcional respecto al total de alumnos"
-    },
-    {
-      "path": "1-4-1/data.csv",
-      "name": "1-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Becas generales concedidas por Junta de Andalucía",
-                "Acreditaciones lingüísticas concedidas",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Porcentaje de estudiantes que reciben becas o ayudas para estudiantes con bajos ingresos respecto al total de estudiantes matriculados en UPO"
-    },
-    {
-      "path": "4-7-2/data.csv",
-      "name": "4-7-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Hombres",
-                "Mujeres",
-                ""
-              ]
-            },
-            "title": "Sexo"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "Desagregado",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Número de estudiantes matriculados en másteres específicos para el desarrollo sostenible, a través de la educación para el desarrollo sostenible y estilos de vida sostenibles, derechos humanos e igualdad de género"
-    },
-    {
       "path": "6-4-1/data.csv",
       "name": "6-4-1",
       "profile": "tabular-data-resource",
@@ -926,1004 +650,6 @@
         ]
       },
       "title": "Consumo medio de agua (m3) por persona de la comunidad universitaria al año"
-    },
-    {
-      "path": "7-3-1/data.csv",
-      "name": "7-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "string",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Porcentaje de edificios/instalaciones con certificado de eficiencia energética A, B o C según el RITE"
-    },
-    {
-      "path": "9-5-5/data.csv",
-      "name": "9-5-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Porcentaje de ingresos por I+D derivados de fondos privados respecto al presupuesto total de la universidad destinado a I+D"
-    },
-    {
-      "path": "8-8-1/data.csv",
-      "name": "8-8-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total accidentes con baja por cada 1000 trabajadores",
-                "Total accidentes sin baja por cada 1000 trabajadores",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Tasa de accidentes e incidentes per cápita de todo el personal de la UPO"
-    },
-    {
-      "path": "12-4-1/data.csv",
-      "name": "12-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Kg de residuos religrosos generados en laboratorios y talleres de la UPO a lo largo de un año"
-    },
-    {
-      "path": "16-10-1/data.csv",
-      "name": "16-10-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Porcentaje de casos resueltos con respecto a los denunciados al defensor universitario"
-    },
-    {
-      "path": "2-1-1/data.csv",
-      "name": "2-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Porcentaje de becas de comedor propias concedidas respecto a las solicitadas"
-    },
-    {
-      "path": "5-1-4/data.csv",
-      "name": "5-1-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Porcentaje de mujeres PDI sobre el total de PDI de la UPO"
-    },
-    {
-      "path": "4-3-5/data.csv",
-      "name": "4-3-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Tasa de alumnos por profesor a tiempo completo"
-    },
-    {
-      "path": "12-3-1/data.csv",
-      "name": "12-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "string",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Kg/año/persona de desperdicios alimentarios en las instalaciones de la UPO"
-    },
-    {
-      "path": "14-2-1/data.csv",
-      "name": "14-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Número de investigaciones sobre conservación de océanos, mares, lagos, ríos y recursos marinos"
-    },
-    {
-      "path": "9-5-3/data.csv",
-      "name": "9-5-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Porcentaje de ingresos por I+D derivados de fondos externos respecto al presupuesto total de la universidad destinado a I+D"
-    },
-    {
-      "path": "17-2-1/data.csv",
-      "name": "17-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Porcentaje del presupuesto anual de la UPO destinado a proyectos y acciones de Cooperación Internacional para el Desarrollo con fondos propios y externos"
-    },
-    {
-      "path": "6-6-1/data.csv",
-      "name": "6-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "string",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Porcentaje del presupuesto anual de la UPO destinado a la gestión sostenible del agua y el saneamiento en las instalaciones universitarias y al cuidado de los ecosistemas acuáticos"
-    },
-    {
-      "path": "4-3-6/data.csv",
-      "name": "4-3-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "string",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Índice de saturación docente (porcentaje de créditos asignados a un profesor respecto al total posible)"
-    },
-    {
-      "path": "5-5-3/data.csv",
-      "name": "5-5-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Porcentaje de mujeres profesoras respecto al número total de puestos"
-    },
-    {
-      "path": "11-2-1/data.csv",
-      "name": "11-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Porcentaje de plazas de aparcamiento para bicicletas respecto al total de miembros de la comunidad universitaria"
-    },
-    {
-      "path": "13-3-3/data.csv",
-      "name": "13-3-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Study_level",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Grado",
-                "Grado y Doble Grado",
-                "Master",
-                ""
-              ]
-            },
-            "title": "Nivel de estudios"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Oferta académica en cambio climático"
-    },
-    {
-      "path": "12-4-5/data.csv",
-      "name": "12-4-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "string",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Kg de vidrio utilizado per cápita recuperado en los contenedores selectivos del campus de la UPO"
-    },
-    {
-      "path": "6-4-2/data.csv",
-      "name": "6-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "string",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Huella hídrica de la UPO"
-    },
-    {
-      "path": "4-3-3/data.csv",
-      "name": "4-3-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Study_level",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Grado y Doble Grado",
-                "Master",
-                ""
-              ]
-            },
-            "title": "Nivel de estudios"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Hombres",
-                "Mujeres",
-                ""
-              ]
-            },
-            "title": "Sexo"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Número de estudiantes que finalizan sus estudios de grado y posgrado"
-    },
-    {
-      "path": "4-3-2/data.csv",
-      "name": "4-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Study_level",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Grado",
-                "Master",
-                "Doctorado",
-                ""
-              ]
-            },
-            "title": "Nivel de estudios"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Número de estudiantes que se matriculan por primera vez en un grado y posgrado de la UPO"
-    },
-    {
-      "path": "8-5-4/data.csv",
-      "name": "8-5-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "University_members",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PAS",
-                "PDI",
-                ""
-              ]
-            },
-            "title": "Miembros de la universidad"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Porcentaje de personal de la UPO con contrato laboral indefinido o funcionarios"
-    },
-    {
-      "path": "8-5-1/data.csv",
-      "name": "8-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Hombres",
-                "Mujeres",
-                ""
-              ]
-            },
-            "title": "Sexo"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "dissagregated",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Número de estudiantes con prácticas curriculares y extracurriculares gestionadas por la UPO"
-    },
-    {
-      "path": "10-2-5/data.csv",
-      "name": "10-2-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Número de entidades del Tercer Sector con las que la UPO ha firmado convenios de colaboración para la promoción del Voluntariado Universitario"
-    },
-    {
-      "path": "10-2-3/data.csv",
-      "name": "10-2-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "string",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Porcentaje de alumnos con diversidad funcional respecto al total de alumnos"
-    },
-    {
-      "path": "3-4-3/data.csv",
-      "name": "3-4-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "string",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Alumnos atendidos en el servicio de salud mental"
-    },
-    {
-      "path": "4-4-1/data.csv",
-      "name": "4-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Tasa de éxito académico de Máster y Grado"
-    },
-    {
-      "path": "8-5-2/data.csv",
-      "name": "8-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Hombres",
-                "Mujeres",
-                ""
-              ]
-            },
-            "title": "Sexo"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "Desagregado",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Número de estudiantes que han sido atendidos por el servicio de orientación profesional o que han participado en las actividades de emprendimiento y empleabilidad de la FPO"
-    },
-    {
-      "path": "16-6-1/data.csv",
-      "name": "16-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Índice de transparencia y rendición de cuentas en la UPO"
-    },
-    {
-      "path": "5-4-1/data.csv",
-      "name": "5-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "University_members",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PAS",
-                "PDI",
-                ""
-              ]
-            },
-            "title": "Miembros de la universidad"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Hombres",
-                "Mujeres",
-                ""
-              ]
-            },
-            "title": "Sexo"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Número de personas (PDI+PAS) que acogen planes de conciliación"
-    },
-    {
-      "path": "1-4-2/data.csv",
-      "name": "1-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Porcentaje del presupuesto anual de la UPO dedicado a becas y ayudas sociales para estudiantes con bajos ingresos con respecto al presupuesto anual total de la UPO"
-    },
-    {
-      "path": "8-5-3/data.csv",
-      "name": "8-5-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Tasa de empleo de los estudiantes graduados al cabo de un año"
-    },
-    {
-      "path": "4-7-1/data.csv",
-      "name": "4-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Porcentaje de la población universitaria que participa en programas/actividades que promueven la educación para el desarrollo sostenible"
-    },
-    {
-      "path": "4-3-4/data.csv",
-      "name": "4-3-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Student Type",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Estudiantes de grado",
-                "Estudiantes de CEDEP",
-                ""
-              ]
-            },
-            "title": "Student Type"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Grado de satisfacción de los alumnos con la enseñanza"
-    },
-    {
-      "path": "16-7-1/data.csv",
-      "name": "16-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Participación comunitaria en la toma de decisiones"
     },
     {
       "path": "5-1-7/data.csv",
@@ -1974,56 +700,8 @@
       "title": "Porcentaje de personas en la universidad que participa en actividades de formación y sensibilización sobre la igualdad"
     },
     {
-      "path": "12-4-2/data.csv",
-      "name": "12-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "string",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Kg de residuos eléctricos y electrónicos generados al año per cápita en el campus"
-    },
-    {
-      "path": "5-1-6/data.csv",
-      "name": "5-1-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Porcentaje del presupuesto anual de la UPO asignado al área de Igualdad"
-    },
-    {
-      "path": "13-3-2/data.csv",
-      "name": "13-3-2",
+      "path": "4-5-2/data.csv",
+      "name": "4-5-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2043,7 +721,92 @@
           }
         ]
       },
-      "title": "Número de investigaciones sobre el cambio climático"
+      "title": "Número de estudiantes con diversidad funcional que finalizan sus estudios de grado y postgrado en la UPO"
+    },
+    {
+      "path": "4-3-2/data.csv",
+      "name": "4-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Study_level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Grado",
+                "Master",
+                "Doctorado",
+                ""
+              ]
+            },
+            "title": "Nivel de estudios"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Número de estudiantes que se matriculan por primera vez en un grado y posgrado de la UPO"
+    },
+    {
+      "path": "12-4-4/data.csv",
+      "name": "12-4-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Kg de papel utilizado per cápita recuperados en las papeleras de recogida selectiva del campus de la UPO"
+    },
+    {
+      "path": "6-6-1/data.csv",
+      "name": "6-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Porcentaje del presupuesto anual de la UPO destinado a la gestión sostenible del agua y el saneamiento en las instalaciones universitarias y al cuidado de los ecosistemas acuáticos"
     },
     {
       "path": "5-1-2/data.csv",
@@ -2070,8 +833,8 @@
       "title": "Porcentaje de alumnas de nuevo ingreso sobre el total de alumnos de nuevo ingreso"
     },
     {
-      "path": "15-5-1/data.csv",
-      "name": "15-5-1",
+      "path": "10-2-2/data.csv",
+      "name": "10-2-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2086,12 +849,12 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
       },
-      "title": "Índice de biodiversidad en el campus (existentes y reintroducidas)"
+      "title": "Porcentaje de alumnos con diversidad funcional respecto al total de alumnos"
     },
     {
       "path": "5-5-2/data.csv",
@@ -2115,7 +878,127 @@
           }
         ]
       },
-      "title": "Proporción de mujeres y niñas a partir de 15 años de edad que han sufrido violencia sexual a manos de personas que no eran su pareja en los últimos12 meses, desglosada por edad y lugar del hecho"
+      "title": "Porcentaje de grupos principales de investigación dirigidos por mujeres"
+    },
+    {
+      "path": "4-7-2/data.csv",
+      "name": "4-7-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Desagregado",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Número de estudiantes matriculados en másteres específicos para el desarrollo sostenible, a través de la educación para el desarrollo sostenible y estilos de vida sostenibles, derechos humanos e igualdad de género"
+    },
+    {
+      "path": "12-4-5/data.csv",
+      "name": "12-4-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Kg de vidrio utilizado per cápita recuperado en los contenedores selectivos del campus de la UPO"
+    },
+    {
+      "path": "17-2-1/data.csv",
+      "name": "17-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Porcentaje del presupuesto anual de la UPO destinado a proyectos y acciones de Cooperación Internacional para el Desarrollo con fondos propios y externos"
+    },
+    {
+      "path": "16-7-1/data.csv",
+      "name": "16-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Participación comunitaria en la toma de decisiones"
     },
     {
       "path": "12-7-1/data.csv",
@@ -2142,8 +1025,8 @@
       "title": "Porcentaje de licitaciones en las que han integrado cláusulas éticas, sociales y medioambientales (más allá de la ley)"
     },
     {
-      "path": "9-5-2/data.csv",
-      "name": "9-5-2",
+      "path": "7-3-1/data.csv",
+      "name": "7-3-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2158,12 +1041,132 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
       },
-      "title": "Porcentaje del presupuesto anual de la UPO dedicado a investigación y desarrollo (I+D)"
+      "title": "Porcentaje de edificios/instalaciones con certificado de eficiencia energética A, B o C según el RITE"
+    },
+    {
+      "path": "14-2-1/data.csv",
+      "name": "14-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Número de investigaciones sobre conservación de océanos, mares, lagos, ríos y recursos marinos"
+    },
+    {
+      "path": "12-4-2/data.csv",
+      "name": "12-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Kg de residuos eléctricos y electrónicos generados al año per cápita en el campus"
+    },
+    {
+      "path": "9-5-1/data.csv",
+      "name": "9-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Número de empresas derivadas creadas en la UPO"
+    },
+    {
+      "path": "5-4-1/data.csv",
+      "name": "5-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "University_members",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Personal de administración y servicios",
+                "Personal docente e investigador",
+                ""
+              ]
+            },
+            "title": "Miembros de la universidad"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Número de personas (PDI+PAS) que se acogen a los planes de conciliación (incluyendo excedencia por cuidados)"
     },
     {
       "path": "4-3-1/data.csv",
@@ -2214,8 +1217,8 @@
       "title": "Número de estudiantes matriculados en cursos de grado y posgrado en la UPO"
     },
     {
-      "path": "4-5-3/data.csv",
-      "name": "4-5-3",
+      "path": "5-1-3/data.csv",
+      "name": "5-1-3",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2229,37 +1232,13 @@
             "title": "Año"
           },
           {
-            "name": "University_members",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "PAS",
-                "PDI",
-                ""
-              ]
-            },
-            "title": "Miembros de la universidad"
-          },
-          {
-            "name": "Sex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Hombres",
-                "Mujeres",
-                ""
-              ]
-            },
-            "title": "Sexo"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           }
         ]
       },
-      "title": "PDI y PAS participando en la formación para la atención a la diversidad"
+      "title": "Porcentaje de mujeres que participan en proyectos de investigación e innovación"
     },
     {
       "path": "10-2-6/data.csv",
@@ -2310,6 +1289,523 @@
       "title": "Número de personas que participan en actividades de voluntariado a través de la Oficina de Voluntariado de la UPO"
     },
     {
+      "path": "13-3-2/data.csv",
+      "name": "13-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Número de investigaciones sobre el cambio climático"
+    },
+    {
+      "path": "8-5-4/data.csv",
+      "name": "8-5-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "mac-roman",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "University_members",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Personal de administración y servicios",
+                "Personal docente e investigador",
+                ""
+              ]
+            },
+            "title": "Miembros de la universidad"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Porcentaje de personal de la UPO con contrato laboral indefinido o funcionariado"
+    },
+    {
+      "path": "8-5-2/data.csv",
+      "name": "8-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Desagregado",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Número de estudiantes que han sido atendidos por el servicio de orientación profesional o que han participado en las actividades de emprendimiento y empleabilidad de la FPO"
+    },
+    {
+      "path": "7-2-1/data.csv",
+      "name": "7-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Porcentaje de electricidad consumida procedente de fuentes renovables respecto al consumo total"
+    },
+    {
+      "path": "15-5-1/data.csv",
+      "name": "15-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Índice de biodiversidad en el campus (existente y reintroducida)"
+    },
+    {
+      "path": "4-3-4/data.csv",
+      "name": "4-3-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Student Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estudiantes de grado",
+                "Estudiantes de CEDEP",
+                ""
+              ]
+            },
+            "title": "Student Type"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Grado de satisfacción de los alumnos con la enseñanza"
+    },
+    {
+      "path": "5-1-5/data.csv",
+      "name": "5-1-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Porcentaje de mujeres PAS (Personal de Administración y Servicios) sobre el total de PAS de la UPO"
+    },
+    {
+      "path": "4-3-5/data.csv",
+      "name": "4-3-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Tasa de alumnos por profesor a tiempo completo"
+    },
+    {
+      "path": "10-2-5/data.csv",
+      "name": "10-2-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Número de entidades del Tercer Sector con las que la UPO ha firmado convenios de colaboración para la promoción del Voluntariado Universitario"
+    },
+    {
+      "path": "17-16-1/data.csv",
+      "name": "17-16-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Porcentaje de personas en la universidad que participan en programas de movilidad"
+    },
+    {
+      "path": "4-4-2/data.csv",
+      "name": "4-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Tasa de rendimiento académico"
+    },
+    {
+      "path": "15-5-3/data.csv",
+      "name": "15-5-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Study_level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Grado",
+                "Doble Grado",
+                "Master",
+                ""
+              ]
+            },
+            "title": "Nivel de estudios"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Oferta académica/formativa sobre conservación y usos sostenibles de los ecosistemas terrestres"
+    },
+    {
+      "path": "2-1-2/data.csv",
+      "name": "2-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Porcentaje de cafeterías del campus que ofrecen un menú con productos locales y de temporada y que además disponen de productos de comercio justo respecto al total de dichos establecimientos"
+    },
+    {
+      "path": "13-2-1/data.csv",
+      "name": "13-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Huella de carbono. Emisiones directas e indirectas. Alcance 1, 2 y 3"
+    },
+    {
+      "path": "9-5-3/data.csv",
+      "name": "9-5-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "iso8859-1",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Fund",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Público",
+                "Privado",
+                ""
+              ]
+            },
+            "title": "Tipo de fondo"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje del presupuesto anual de la UPO dedicado a I+D",
+                "Porcentaje de ingresos por I+D derivados de fondos externos respecto al presupuesto total de la universidad destinado a I+D",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Porcentaje de ingresos por I+D derivados de fondos externos respecto al presupuesto total de la universidad destinado a I+D"
+    },
+    {
+      "path": "8-5-1/data.csv",
+      "name": "8-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "dissagregated",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Número de estudiantes con prácticas curriculares y extracurriculares gestionadas por la UPO"
+    },
+    {
+      "path": "11-2-2/data.csv",
+      "name": "11-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Porcentaje de desplazamientos de la comunidad universitaria que se realiza en medios de transporte sostenible"
+    },
+    {
       "path": "10-2-1/data.csv",
       "name": "10-2-1",
       "profile": "tabular-data-resource",
@@ -2329,8 +1825,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PAS",
-                "PDI",
+                "Personal de administración y servicios",
+                "Personal docente e investigador",
                 ""
               ]
             },
@@ -2358,8 +1854,56 @@
       "title": "Porcentaje de personal con diversidad funcional respecto al total del personal de la UPO"
     },
     {
-      "path": "4-5-1/data.csv",
-      "name": "4-5-1",
+      "path": "4-3-3/data.csv",
+      "name": "4-3-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Study_level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Grado y Doble Grado",
+                "Master",
+                ""
+              ]
+            },
+            "title": "Nivel de estudios"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Número de estudiantes que finalizan sus estudios de grado y posgrado"
+    },
+    {
+      "path": "8-8-2/data.csv",
+      "name": "8-8-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2379,7 +1923,463 @@
           }
         ]
       },
-      "title": "Número de personas que utilizan el servicio SADF (anual)"
+      "title": "Número de personas que participan en actividades de formación relacionadas con la prevención de riesgos y la seguridad laboral"
+    },
+    {
+      "path": "13-3-1/data.csv",
+      "name": "13-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Desagregado",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Número de personas que participan en actividades relacionadas con el cambio climático"
+    },
+    {
+      "path": "4-5-3/data.csv",
+      "name": "4-5-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "University_members",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Personal de administración y servicios",
+                "Personal docente e investigador",
+                ""
+              ]
+            },
+            "title": "Miembros de la universidad"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "PDI y PAS participando en la formación para la atención a la diversidad"
+    },
+    {
+      "path": "9-5-5/data.csv",
+      "name": "9-5-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "iso8859-1",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Fund",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Público",
+                "Privado",
+                ""
+              ]
+            },
+            "title": "Tipo de fondo"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje del presupuesto anual de la UPO dedicado a I+D",
+                "Porcentaje de ingresos por I+D derivados de fondos externos respecto al presupuesto total de la universidad destinado a I+D",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Porcentaje de ingresos por I+D derivados de fondos privados respecto al presupuesto total de la universidad destinado a I+D"
+    },
+    {
+      "path": "12-4-3/data.csv",
+      "name": "12-4-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Kg de residuos plásticos generados al año per cápita en el campus de la UPO"
+    },
+    {
+      "path": "3-4-2/data.csv",
+      "name": "3-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Area",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Salud y Prevención de Riesgos Laborales",
+                "Campus saludable y Deportes",
+                ""
+              ]
+            },
+            "title": "Área"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Desagregado",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Porcentaje del presupuesto anual de la UPO destinado al área de Salud y Prevención de Riesgos Laborales y Campus y Deportes Saludables"
+    },
+    {
+      "path": "3-4-3/data.csv",
+      "name": "3-4-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Estudiantes atendidos en el servicio de salud mental"
+    },
+    {
+      "path": "3-4-1/data.csv",
+      "name": "3-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Porcentaje de personas de la comunidad universitaria que utilizan las instalaciones deportivas y/o se inscriben en actividades físicas ofertadas por la universidad"
+    },
+    {
+      "path": "11-3-1/data.csv",
+      "name": "11-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Tasa de ocupación anual de la residencia Flora Tristán"
+    },
+    {
+      "path": "5-1-6/data.csv",
+      "name": "5-1-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Porcentaje del presupuesto anual de la UPO asignado al Área de Igualdad de Género"
+    },
+    {
+      "path": "9-5-4/data.csv",
+      "name": "9-5-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "iso8859-1",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Fund",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Público",
+                "Privado",
+                ""
+              ]
+            },
+            "title": "Tipo de fondo"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Porcentaje del presupuesto anual de la UPO dedicado a I+D",
+                "Porcentaje de ingresos por I+D derivados de fondos externos respecto al presupuesto total de la universidad destinado a I+D",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Porcentaje de ingresos por I+D derivados de fondos públicos respecto al presupuesto total de la universidad destinado a I+D"
+    },
+    {
+      "path": "11-2-1/data.csv",
+      "name": "11-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Porcentaje de plazas de aparcamiento para bicicletas respecto al total de miembros de la comunidad universitaria"
+    },
+    {
+      "path": "4-3-7/data.csv",
+      "name": "4-3-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proporción de estudiantes de primera generación (primera generación de estudios universitario en la familia)"
+    },
+    {
+      "path": "8-5-3/data.csv",
+      "name": "8-5-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Tasa de empleo de los estudiantes graduados al cabo de un año"
+    },
+    {
+      "path": "17-6-1/data.csv",
+      "name": "17-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Porcentaje de personas que participan en actividades de cooperación internacional y desarrollo respecto al total de la comunidad universitaria"
     },
     {
       "path": "14-2-2/data.csv",
@@ -2402,7 +2402,7 @@
             "constraints": {
               "enum": [
                 "Grado",
-                "Grado y Doble Grado",
+                "Doble Grado",
                 "Master",
                 ""
               ]
@@ -2416,11 +2416,71 @@
           }
         ]
       },
-      "title": "Academic/training offer in aquatic ecosystems from a perspective of conservation and sustainable use of their resources"
+      "title": "Oferta académica/formativa en ecosistemas acuáticos desde una perspectiva de conservación y aprovechamiento sostenible de sus recursos"
     },
     {
-      "path": "13-2-1/data.csv",
-      "name": "13-2-1",
+      "path": "5-5-3/data.csv",
+      "name": "5-5-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Porcentaje de mujeres catedráticas respecto al total de cátedras"
+    },
+    {
+      "path": "8-8-1/data.csv",
+      "name": "8-8-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total accidentes con baja/1000 trabajadores×año",
+                "Total accidentes sin baja/1000 trabajadores×año",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Tasa de accidentes e incidentes per cápita de todo el personal de la UPO"
+    },
+    {
+      "path": "7-3-2/data.csv",
+      "name": "7-3-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2440,7 +2500,67 @@
           }
         ]
       },
-      "title": "Huella de carbono. Emisiones directas e indirectas. Alcance 1, 2 y 3"
+      "title": "Consumo de energía por estudiante matriculado y personal (PAS/PDI/contratistas)"
+    },
+    {
+      "path": "12-3-1/data.csv",
+      "name": "12-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Kg/año/persona de desperdicios alimentarios en las instalaciones de la UPO"
+    },
+    {
+      "path": "1-4-1/data.csv",
+      "name": "1-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Becas generales concedidas por Junta de Andalucía",
+                "Acreditaciones lingüísticas concedidas",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Porcentaje de estudiantes que reciben becas o ayudas para estudiantes con bajos ingresos respecto al total de estudiantes matriculados en UPO"
     }
   ]
 }
