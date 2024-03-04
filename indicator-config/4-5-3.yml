@@ -41,6 +41,9 @@ graph_annotations: []
 # optional
 graph_limits: []
 # optional
+graph_target_lines:
+  - value: 10
+# optional
 graph_stacked_disaggregation: ''
 # required
 graph_title: global_indicators.4-5-3-title

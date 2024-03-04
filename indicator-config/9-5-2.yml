@@ -36,6 +36,19 @@ graph_annotations: []
 graph_limits: []
 # optional
 graph_stacked_disaggregation: ''
+# optional
+graph_target_lines:
+  - series: percentage_total_rd
+    value: 9
+  - series: percentage_rd_external_funds
+    label_content: public
+    value: 7
+  - series: percentage_rd_external_funds
+    label_content: private
+    value: 1
+  - series: percentage_rd_external_funds
+    label_content: total
+    value: 8
 # required
 graph_title: global_indicators.9-5-2-title
 # optional. Settings used if chart title depends on user-selected unit of measurement
