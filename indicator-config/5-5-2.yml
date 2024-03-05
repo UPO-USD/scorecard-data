@@ -36,6 +36,12 @@ graph_annotations: []
 graph_limits: []
 # optional
 graph_stacked_disaggregation: ''
+# optional
+graph_target_lines:
+  - series: 'Maximum'
+    value: 60
+  - series: 'Minimum'
+    value: 40
 # required
 graph_title: global_indicators.5-5-2-title
 # optional. Settings used if chart title depends on user-selected unit of measurement

@@ -4,10 +4,15 @@ Study_level: Nivel de estudios
 University_members: Miembros de la universidad
 Area: Área
 Fund: Tipo de fondo
+university_members:
+  pdi: Personal docente e investigador
+  pas: Personal de administración y servicios
 # Serie names
 disaggregated: Desagregado
 junta_andalucia: Becas generales concedidas por Junta de Andalucía
 linguistic_accreditations: Acreditaciones lingüísticas concedidas
+percentage_total_rd: Porcentaje del presupuesto anual de la UPO dedicado a I+D
+percentage_rd_external_funds: Porcentaje de ingresos de I+D derivados de fondos externos respecto al presupuesto total de la universidad destinado a I+D
 # Disaggregation names
 men: Hombres
 women: Mujeres
@@ -24,3 +29,4 @@ health_risk_prevention: Salud y Prevención de Riesgos Laborales
 healty_campus_sport: Campus saludable y Deportes
 public: Público
 private: Privado
+total: Total

@@ -33,6 +33,9 @@ expected_disaggregations: []
 # optional
 graph_annotations: []
 # optional
+graph_target_lines:
+  - value: 0.20
+# optional
 graph_limits: []
 # optional
 graph_stacked_disaggregation: ''

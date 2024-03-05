@@ -36,6 +36,8 @@ graph_annotations: []
 graph_limits: []
 # optional
 graph_stacked_disaggregation: ''
+graph_target_lines:
+  - value: 10
 # required
 graph_title: global_indicators.17-16-1-title
 # optional. Settings used if chart title depends on user-selected unit of measurement

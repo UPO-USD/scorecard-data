@@ -4,10 +4,15 @@ Study_level: Study level
 University_members: University members
 Area: Area
 Fund: Fund type
+university_members:
+  pdi: Teaching and research personnel
+  pas: Administrative and service personnel
 # Serie names
 disaggregated: Disaggregated
 junta_andalucia: General Study scholarships awarded from Junta de Andalucía
 linguistic_accreditations: Linguistic accreditations granted
+percentage_total_rd: Percentage of the annual budget of the UPO dedicated to R&D
+percentage_rd_external_funds: Percentage of R&D income derived from external funds with respect to the total budget of the university allocated to R&D
 # Disaggregation names
 men: Men
 women: Momen
@@ -24,3 +29,4 @@ health_risk_prevention: Health and Occupational Risk Prevention
 healty_campus_sport: Healthy Campus and Sport area
 public: Public
 private: Private
+total: Total

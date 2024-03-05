@@ -18,8 +18,8 @@ data_notice_text: ''
 data_show_map: false
 # optional
 data_start_values:
-  - field: Units
-    value: units.percentage_rd_external_funds
+  - field: Series
+    value: percentage_rd_external_funds
   - field: Fund
     value: public
 # optional
@@ -38,6 +38,19 @@ expected_disaggregations: []
 graph_annotations: []
 # optional
 graph_limits: []
+# optional
+graph_target_lines:
+  - series: percentage_total_rd
+    value: 9
+  - series: percentage_rd_external_funds
+    label_content: public
+    value: 7
+  - series: percentage_rd_external_funds
+    label_content: private
+    value: 1
+  - series: percentage_rd_external_funds
+    label_content: total
+    value: 8
 # optional
 graph_stacked_disaggregation: ''
 # required
