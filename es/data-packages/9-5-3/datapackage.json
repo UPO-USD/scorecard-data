@@ -28,16 +28,16 @@
             "title": "Tipo de fondo"
           },
           {
-            "name": "Units",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
                 "Porcentaje del presupuesto anual de la UPO dedicado a I+D",
-                "Porcentaje de ingresos por I+D derivados de fondos externos respecto al presupuesto total de la universidad destinado a I+D",
+                "Porcentaje de ingresos de I+D derivados de fondos externos respecto al presupuesto total de la universidad destinado a I+D",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Series"
           },
           {
             "name": "Value",
