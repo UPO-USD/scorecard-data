@@ -46,3 +46,32 @@
     Comercio justo: sello de comercio justo acreditado.
   OTHER_DOC: >-
     <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_2_vDEF.docx" target="_blank">Información detallada</a></b>
+
+3-4-1:
+  SDG_INDICATOR_INFO: Medir contribución de la UPO a la mejora de la salud y bienestar de la comunidad universitaria
+  DATA_COMP: >-
+    Numerador: personas inscritas en las diversas instalaciones y actividades físicas
+    Denominador: total personas de la comunidad universitaria
+  STAT_CONC_DEF: >-
+    Comunidad universitaria: PDI y PAS + estudiantes matriculados
+    Listado de servicios/programas de salud y bienestar incluidos: Gimnasio y actividades dirigidas
+  OTHER_DOC: >-
+    <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_3_vDEF.docx" target="_blank">Información detallada</a></b>
+3-4-2:
+  SDG_INDICATOR_INFO: Medir contribución de la UPO a la mejora de la salud y bienestar de la comunidad universitaria
+  DATA_COMP: >-
+    Numerador: euros presupuestados anualmente para el área de Salud y Prevención de Riesgos Laborales + euros presupuestados anualmente para Campus Saludable y Deporte
+    Denominador: Presupuesto anual total de la UPO
+  STAT_CONC_DEF: >-
+    Presupuesto anual UPO: partidas destinadas al área de Salud y Prevención de Riesgos Laborales y al Campus Saludable y Deporte.
+  OTHER_DOC: >-
+    <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_3_vDEF.docx" target="_blank">Información detallada</a></b>
+3-4-3:
+  SDG_INDICATOR_INFO: Medir contribución de la UPO a la mejora de la salud y bienestar de la comunidad universitaria
+  DATA_COMP: >-
+    Numerador: estudiantes usuarias del servicio
+    Denominador: total de estudiantes matriculados en la UPO
+  STAT_CONC_DEF: >-
+    "Encuentrolavide punto de encuentro de emociones" es un servicio de atención y formación en salud mental y emocional para el estudiantado.
+  OTHER_DOC: >-
+    <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_3_vDEF.docx" target="_blank">Información detallada</a></b>
