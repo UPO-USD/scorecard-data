@@ -1,0 +1,23 @@
+1-4-1:
+  SDG_INDICATOR_INFO: Medir apoyo que se realiza en la UPO para favorecer el acceso a la universidad de estudiantes en contextos personales/familiares de bajos ingresos o en situación de vulnerabilidad.
+  DATA_COMP: >-
+    Numerador: número de ayudas concedidas en un año académico determinado.
+    Denominador: número total de solicitudes recibidas
+  STAT_CONC_DEF: >-
+    Se contabilizarán las ayudas concedidas en los siguientes programas: 
+    - Ayudas al Estudio de carácter General Junta de Andalucía-UPO
+    - AYUDAS PARA ACREDITACIÓN LINGÜÍSTICA
+
+    Estas son las ayudas en las que la UPO interviene ya sea con fondos propios o mediante la Junta de Andalucía.
+  OTHER_DOC: >-
+    <b><a style="text-decoration: underline;" href="/assets/docs/Ficha-indicadores_UPO_ODS1.docx" target="_blank">Información detallada</a></b>
+
+1-4-2:
+  SDG_INDICATOR_INFO: Medir apoyo que se realiza en la UPO para favorecer el acceso a la universidad de estudiantes en contextos personales/familiares de bajos ingresos o en situación de vulnerabilidad.
+  DATA_COMP: >-
+    Numerador: Euros presupuestados en UPO para financiar becas o ayudas en un año (presupuesto de becas incluido en el presupuesto total anual de la UPO).
+    Denominador: presupuesto total anual de la UPO en Euros
+  STAT_CONC_DEF: >-
+    Este indicador mide el esfuerzo presupuestario que hace la UPO con fondos propios para favorecer el acceso a la universidad a estudiantado en sit
+  OTHER_DOC: >-
+    <b><a style="text-decoration: underline;" href="/assets/docs/Ficha-indicadores_UPO_ODS1.docx" target="_blank">Información detallada</a></b>

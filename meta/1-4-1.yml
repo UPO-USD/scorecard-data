@@ -12,6 +12,7 @@ SDG_INDICATOR: >-
 
 # optional
 SDG_INDICATOR_INFO: >-
+  meta.1-4-1.SDG_INDICATOR_INFO
 
 # optional
 CONTACT_ORGANISATION: >-
@@ -21,7 +22,12 @@ CONTACT_ORGANISATION: >-
 ORGANISATION_UNIT: >-
 
 # optional
-STAT_CONC_DEF: |
+DATA_COMP: >-
+  meta.1-4-1.DATA_COMP
+
+# optional
+STAT_CONC_DEF: >-
+  meta.1-4-1.STAT_CONC_DEF
 
 # optional
 UNIT_MEASURE: >-
@@ -49,3 +55,6 @@ five_ps: >-
 # optional
 main_activity: >-
   metadata_values.management
+
+OTHER_DOC: >-
+  meta.1-4-1.OTHER_DOC
