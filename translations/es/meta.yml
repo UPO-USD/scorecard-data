@@ -10,7 +10,7 @@
 
     Estas son las ayudas en las que la UPO interviene ya sea con fondos propios o mediante la Junta de Andalucía.
   OTHER_DOC: >-
-    <b><a style="text-decoration: underline;" href="/assets/docs/Ficha-indicadores_UPO_ODS1.docx" target="_blank">Información detallada</a></b>
+    <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_1_vDEF.docx" target="_blank">Información detallada</a></b>
 
 1-4-2:
   SDG_INDICATOR_INFO: Medir apoyo que se realiza en la UPO para favorecer el acceso a la universidad de estudiantes en contextos personales/familiares de bajos ingresos o en situación de vulnerabilidad.
@@ -20,4 +20,29 @@
   STAT_CONC_DEF: >-
     Este indicador mide el esfuerzo presupuestario que hace la UPO con fondos propios para favorecer el acceso a la universidad a estudiantado en sit
   OTHER_DOC: >-
-    <b><a style="text-decoration: underline;" href="/assets/docs/Ficha-indicadores_UPO_ODS1.docx" target="_blank">Información detallada</a></b>
+    <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_1_vDEF.docx" target="_blank">Información detallada</a></b>
+
+2-1-1:
+  SDG_INDICATOR_INFO: Medir apoyo que se realiza en la UPO para favorecer el acceso a una alimentación sana, nutritiva y suficiente de estudiantes en contextos personales/familiares de bajos ingresos o en situación de vulnerabilidad
+  DATA_COMP: >-
+    Numerador: Número de becas-comedor otorgadas en un año académico
+    Denominador: Número total de solicitudes de becas-comedor recibidas en un año académico
+  STAT_CONC_DEF: >-
+    Becas comedor: ayuda económica entregada a estudiantes matriculados en la UPO para cubrir parcialmente, o totalmente, el coste del comedor en horario universitario durante el curso académico.
+    Se contabilizarán:
+    Ayudas de Bonos de Comedor
+  OTHER_DOC: >-
+    <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_2_vDEF.docx" target="_blank">Información detallada</a></b>
+
+2-1-2:
+  SDG_INDICATOR_INFO: Medir la inclusión de alimentos sanos y sostenibles en la dieta ofrecida a la comunidad educativa en las instalaciones de la UPO
+  DATA_COMP: >-
+    Numerador: número de cafeterías del campus cuyos menús contienen algunos platos o snacks preparados con productos locales o de temporada y además disponen de productos de comercio justo.
+    Denominador: número total de cafeterías del campus
+  STAT_CONC_DEF: >-
+    Cafeterías del campus son 3: Santa Clara, Rectorado y Comedor del Celestino Mutis. Dejamos fuera servicios de vending y quiosco por considerarlos incompatibles con comer sano.
+    Descripción de cláusulas obligatorias:
+    Local y de temporada: aquellos productos andaluces (principalmente fruta, verdura, setas y pescado) que, de manera natural y debido a su ciclo biológico, se encuentran en el punto óptimo de consumo en algún momento preciso del año (tomates en verano, coles en invierno)
+    Comercio justo: sello de comercio justo acreditado.
+  OTHER_DOC: >-
+    <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_2_vDEF.docx" target="_blank">Información detallada</a></b>
