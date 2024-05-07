@@ -61,7 +61,7 @@ progress_status: not_available
 # optional. List of related indicators if any
 related_indicators: []
 # required. Options: complete, inprogress, notstarted, notapplicable
-reporting_status: notstarted
+reporting_status: complete
 # optional
 sort: ''
 # required 
