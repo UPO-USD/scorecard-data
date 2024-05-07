@@ -9,8 +9,8 @@
     - AYUDAS PARA ACREDITACIÓN LINGÜÍSTICA
 
     Estas son las ayudas en las que la UPO interviene ya sea con fondos propios o mediante la Junta de Andalucía.
-  OTHER_DOC: >-
-    <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_1_vDEF.docx" target="_blank">Información detallada</a></b>
+  # OTHER_DOC: >-
+  #   <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_1_vDEF.docx" target="_blank">Información detallada</a></b>
 
 1-4-2:
   SDG_INDICATOR_INFO: Medir apoyo que se realiza en la UPO para favorecer el acceso a la universidad de estudiantes en contextos personales/familiares de bajos ingresos o en situación de vulnerabilidad.
@@ -19,8 +19,8 @@
     Denominador: presupuesto total anual de la UPO en Euros
   STAT_CONC_DEF: >-
     Este indicador mide el esfuerzo presupuestario que hace la UPO con fondos propios para favorecer el acceso a la universidad a estudiantado en sit
-  OTHER_DOC: >-
-    <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_1_vDEF.docx" target="_blank">Información detallada</a></b>
+  # OTHER_DOC: >-
+  #   <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_1_vDEF.docx" target="_blank">Información detallada</a></b>
 
 2-1-1:
   SDG_INDICATOR_INFO: Medir apoyo que se realiza en la UPO para favorecer el acceso a una alimentación sana, nutritiva y suficiente de estudiantes en contextos personales/familiares de bajos ingresos o en situación de vulnerabilidad
@@ -31,8 +31,8 @@
     Becas comedor: ayuda económica entregada a estudiantes matriculados en la UPO para cubrir parcialmente, o totalmente, el coste del comedor en horario universitario durante el curso académico.
     Se contabilizarán:
     Ayudas de Bonos de Comedor
-  OTHER_DOC: >-
-    <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_2_vDEF.docx" target="_blank">Información detallada</a></b>
+  # OTHER_DOC: >-
+  #   <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_2_vDEF.docx" target="_blank">Información detallada</a></b>
 
 2-1-2:
   SDG_INDICATOR_INFO: Medir la inclusión de alimentos sanos y sostenibles en la dieta ofrecida a la comunidad educativa en las instalaciones de la UPO
@@ -44,8 +44,8 @@
     Descripción de cláusulas obligatorias:
     Local y de temporada: aquellos productos andaluces (principalmente fruta, verdura, setas y pescado) que, de manera natural y debido a su ciclo biológico, se encuentran en el punto óptimo de consumo en algún momento preciso del año (tomates en verano, coles en invierno)
     Comercio justo: sello de comercio justo acreditado.
-  OTHER_DOC: >-
-    <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_2_vDEF.docx" target="_blank">Información detallada</a></b>
+  # OTHER_DOC: >-
+  #   <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_2_vDEF.docx" target="_blank">Información detallada</a></b>
 
 3-4-1:
   SDG_INDICATOR_INFO: Medir contribución de la UPO a la mejora de la salud y bienestar de la comunidad universitaria
@@ -55,8 +55,8 @@
   STAT_CONC_DEF: >-
     Comunidad universitaria: PDI y PAS + estudiantes matriculados
     Listado de servicios/programas de salud y bienestar incluidos: Gimnasio y actividades dirigidas
-  OTHER_DOC: >-
-    <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_3_vDEF.docx" target="_blank">Información detallada</a></b>
+  # OTHER_DOC: >-
+  #   <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_3_vDEF.docx" target="_blank">Información detallada</a></b>
 3-4-2:
   SDG_INDICATOR_INFO: Medir contribución de la UPO a la mejora de la salud y bienestar de la comunidad universitaria
   DATA_COMP: >-
@@ -64,8 +64,8 @@
     Denominador: Presupuesto anual total de la UPO
   STAT_CONC_DEF: >-
     Presupuesto anual UPO: partidas destinadas al área de Salud y Prevención de Riesgos Laborales y al Campus Saludable y Deporte.
-  OTHER_DOC: >-
-    <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_3_vDEF.docx" target="_blank">Información detallada</a></b>
+  # OTHER_DOC: >-
+  #   <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_3_vDEF.docx" target="_blank">Información detallada</a></b>
 3-4-3:
   SDG_INDICATOR_INFO: Medir contribución de la UPO a la mejora de la salud y bienestar de la comunidad universitaria
   DATA_COMP: >-
@@ -73,8 +73,8 @@
     Denominador: total de estudiantes matriculados en la UPO
   STAT_CONC_DEF: >-
     "Encuentrolavide punto de encuentro de emociones" es un servicio de atención y formación en salud mental y emocional para el estudiantado.
-  OTHER_DOC: >-
-    <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_3_vDEF.docx" target="_blank">Información detallada</a></b>
+  # OTHER_DOC: >-
+  #   <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_3_vDEF.docx" target="_blank">Información detallada</a></b>
 
 4-3-1:
   SDG_INDICATOR_INFO: Medir la capacidad de la UPO para ampliar el acceso a una enseñanza universitaria de calidad.
@@ -85,8 +85,8 @@
     - En Grado/Doble Grado
     - En Postgrados Oficiales: Master Universitario/ Doctorado
     - En Títulos Propios
-  OTHER_DOC: >-
-    <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
+  # OTHER_DOC: >-
+  #   <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
 
 4-3-2:
   SDG_INDICATOR_INFO: Medir la capacidad de la UPO para ampliar el acceso a una enseñanza universitaria de calidad.
@@ -96,8 +96,8 @@
     Se contabilizarán los estudiantes matriculados por primera vez:
     - En Grado/Doble Grado
     - En Postgrados Oficiales: Master Universitario/ Doctorado
-  OTHER_DOC: >-
-    <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
+  # OTHER_DOC: >-
+  #   <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
 
 4-3-3:
   SDG_INDICATOR_INFO: Conocer el número de estudiantes que finalizan sus grados y postgrados.
@@ -108,8 +108,8 @@
     - En Grado/Doble Grado
     - En Postgrados Oficiales: Master Universitario/ Doctorado 
     - En Títulos Propios
-  OTHER_DOC: >-
-    <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
+  # OTHER_DOC: >-
+  #   <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
 
 4-3-4:
   SDG_INDICATOR_INFO: Medir satisfacción global del alumnado con la UPO
@@ -123,8 +123,8 @@
     2 - regular
     1 - mala
     0 - muy mala
-  OTHER_DOC: >-
-    <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
+  # OTHER_DOC: >-
+  #   <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
 
 4-3-5:
   SDG_INDICATOR_INFO: Asegurar una ratio que garantiza la calidad de la enseñanza impartida.
@@ -134,8 +134,8 @@
   STAT_CONC_DEF: >-
     Se contabilizarán el número total de estudiantes matriculados en grados/doble grados y postgrados en un curso académico.
     Para el denominado se contabilizará el personal PDI a tiempo completo, tanto personal funcionario como contratado.
-  OTHER_DOC: >-
-    <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
+  # OTHER_DOC: >-
+  #   <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
 
 4-3-6:
   SDG_INDICATOR_INFO: Medir un aspecto de la calidad de la enseñanza impartida
@@ -143,8 +143,8 @@
     (Número de créditos totales potencialmente impartibles / número de créditos totales realmente impartidos) * 100
   STAT_CONC_DEF: >-
     El Índice de Saturación Docente constituye un indicador de calidad en la educación, pues relaciona la capacidad de impartir docencia y los créditos efectivos que se imparten. El profesorado no puede invertir el 100% de su tiempo en docencia, pues existen otras actividades, como investigación, dirección de tesis, gestión, etc. que requieren dedicación.
-  OTHER_DOC: >-
-    <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
+  # OTHER_DOC: >-
+  #   <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
 
 4-3-7:
   SDG_INDICATOR_INFO: Promover que haya estudiantes de primera generación familiar en el ámbito universitario
@@ -154,8 +154,8 @@
   STAT_CONC_DEF: >-
     Se considera a un estudiante como “de primera generación” en el caso de que ninguno de sus progenitores haya cursado estudios superiores (grado o superior).
     Nuevo ingreso: número de estudiantes que se matriculan por primera vez en un año académico en la totalidad de grados y postgrado ofertados en la UPO
-  OTHER_DOC: >-
-    <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
+  # OTHER_DOC: >-
+  #   <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
 
 4-4-1:
   SDG_INDICATOR_INFO: Medir la capacidad de la UPO de desarrollar las competencias profesionales requeridas para la obtención de una titulación entre los estudiantes matriculados
@@ -165,8 +165,8 @@
   STAT_CONC_DEF: >-
     Se define como la relación porcentual entre el número total de créditos superados por los alumnos en un estudio y el número total de créditos presentados a examen
     Se calcula para Grado y Doble Grado
-  OTHER_DOC: >-
-    <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
+  # OTHER_DOC: >-
+  #   <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
 4-4-2:
   SDG_INDICATOR_INFO: Medir la capacidad de la UPO de desarrollar las competencias profesionales requeridas para la obtención de una titulación entre los estudiantes matriculados
   DATA_COMP: >-
@@ -175,8 +175,8 @@
   STAT_CONC_DEF: >-
     Se define como la relación porcentual entre el número total de créditos superados por los alumnos en un estudio y el número total de créditos matriculados
     Se calcula para Grado y Doble Grado
-  OTHER_DOC: >-
-    <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
+  # OTHER_DOC: >-
+  #   <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
 4-4-3:
   SDG_INDICATOR_INFO: Medir la capacidad de la UPO de desarrollar las competencias profesionales requeridas para la obtención de una titulación entre los estudiantes matriculados
   DATA_COMP: >-
@@ -185,8 +185,8 @@
   STAT_CONC_DEF: >-
     Igual que detallada
     Se calcula para Grado y Doble Grado
-  OTHER_DOC: >-
-    <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
+  # OTHER_DOC: >-
+  #   <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
 4-5-1:
   SDG_INDICATOR_INFO: Medir la capacidad de la UPO para asegurar apoyo a las personas con diversidad para promover una universidad más inclusiva.
   DATA_COMP: >-
@@ -194,16 +194,16 @@
   STAT_CONC_DEF: >-
     El Servicio de Atención a la Diversidad Funcional (SADF) se dirige a las personas de la comunidad universitaria (estudiantes, PAS y PDI) con diversidad funcional, temporal o permanente, asociada a alguna discapacidad o necesidades educativas especiales, y asesoran en la resolución de los apoyos necesarios en su vida universitaria.
     Aquellas sin certificado de discapacidad igual o mayor al 33 % o que no presenten un informe de diagnóstico o educativo que acredite las necesidades educativas especiales no las podrá atender el SADF.
-  OTHER_DOC: >-
-    <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
+  # OTHER_DOC: >-
+  #   <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
 4-5-2:
   SDG_INDICATOR_INFO: Conocer el nivel de éxito de los estudiantes con diversidad funcional en la UPO.
   DATA_COMP: >-
     Cuenta del número de estudiantes con diversidad funcional que finalizan sus estudios de grado y postgrado en la UPO.
   STAT_CONC_DEF: >-
     Se contabilizarán los estudiantes con diversidad funcional que han obtenido el título de Grado/Doble Grado y Master Universitario/ Doctorado
-  OTHER_DOC: >-
-    <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
+  # OTHER_DOC: >-
+  #   <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
 4-5-3:
   SDG_INDICATOR_INFO: Fomentar una comunidad universitaria inclusiva y diversa.
   DATA_COMP: >-
@@ -211,8 +211,8 @@
     Denominador: Número total PDI/PAS.
   STAT_CONC_DEF: >-
     Cursos de formación organizados por la SADF para el profesorado y el PAS
-  OTHER_DOC: >-
-    <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
+  # OTHER_DOC: >-
+  #   <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
 4-7-1:
   SDG_INDICATOR_INFO: Contribuir a una ciudadanía comprometida con el desarrollo sostenible.
   DATA_COMP: >-
@@ -220,8 +220,8 @@
     Denominador: Número total de personas que conforman la comunidad universitaria en un año académico.
   STAT_CONC_DEF: >-
     Las actividades vinculadas a la educación para el desarrollo sostenible computables para este indicador son las reportadas por la Delegación del Rector para el Campus Sostenible en su memoria anual.
-  OTHER_DOC: >-
-    <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
+  # OTHER_DOC: >-
+  #   <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
 4-7-2:
   SDG_INDICATOR_INFO: Contribuir a una ciudadanía comprometida con el desarrollo sostenible, los derechos humanos y la igualdad de género.
   DATA_COMP: >-
@@ -240,5 +240,5 @@
     - Educación para el Desarrollo, Sensibilización Social y Cultura de Paz 
     - Género e Igualdad 
     - Intervención Social, Cultura y Diversidad
-  OTHER_DOC: >-
-    <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
+  # OTHER_DOC: >-
+  #   <b><a style="text-decoration: underline;" href="/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
