@@ -11,26 +11,23 @@ SDG_INDICATOR: >-
   global_indicators.1-4-2-title
 
 # optional
-SDG_INDICATOR_INFO: >-
-
-# optional
 CONTACT_ORGANISATION: >-
   UPO
 
 # optional
 SDG_INDICATOR_INFO: >-
-  meta.1-4-1.SDG_INDICATOR_INFO
+  meta.1-4-2.SDG_INDICATOR_INFO
 
 # optional
 DATA_COMP: >-
-  meta.1-4-1.DATA_COMP
+  meta.1-4-2.DATA_COMP
 
 # optional
 STAT_CONC_DEF: >-
-  meta.1-4-1.STAT_CONC_DEF
+  meta.1-4-2.STAT_CONC_DEF
 
 OTHER_DOC: >-
-  meta.1-4-1.OTHER_DOC
+  meta.1-4-2.OTHER_DOC
 
 # optional
 ORGANISATION_UNIT: >-
