@@ -10,18 +10,23 @@ SDG_TARGET: >-
 SDG_INDICATOR: >-
   global_indicators.3-4-3-title
 
-# optional
-SDG_INDICATOR_INFO: >-
-
-# optional
 CONTACT_ORGANISATION: >-
   UPO
 
-# optional
-ORGANISATION_UNIT: >-
+SDG_INDICATOR_INFO: >-
+  meta.3-4-3.SDG_INDICATOR_INFO
+
+DATA_COMP: >-
+  meta.3-4-3.DATA_COMP
+
+STAT_CONC_DEF: >-
+  meta.3-4-3.STAT_CONC_DEF
+
+OTHER_DOC: >-
+  meta.3-4-3.OTHER_DOC
 
 # optional
-STAT_CONC_DEF: |
+ORGANISATION_UNIT: >-
 
 # optional
 UNIT_MEASURE: >-

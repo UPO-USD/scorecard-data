@@ -11,9 +11,6 @@ SDG_INDICATOR: >-
   global_indicators.2-1-2-title
 
 # optional
-SDG_INDICATOR_INFO: >-
-
-# optional
 CONTACT_ORGANISATION: >-
   UPO
 
@@ -21,7 +18,19 @@ CONTACT_ORGANISATION: >-
 ORGANISATION_UNIT: >-
 
 # optional
-STAT_CONC_DEF: |
+SDG_INDICATOR_INFO: >-
+  meta.2-1-2.SDG_INDICATOR_INFO
+
+# optional
+DATA_COMP: >-
+  meta.2-1-2.DATA_COMP
+
+# optional
+STAT_CONC_DEF: >-
+  meta.2-1-2.STAT_CONC_DEF
+
+OTHER_DOC: >-
+  meta.2-1-2.OTHER_DOC
 
 # optional
 UNIT_MEASURE: >-

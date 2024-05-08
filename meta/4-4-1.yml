@@ -10,8 +10,17 @@ SDG_TARGET: >-
 SDG_INDICATOR: >-
   global_indicators.4-4-1-title
 
-# optional
 SDG_INDICATOR_INFO: >-
+  meta.4-4-1.SDG_INDICATOR_INFO
+
+DATA_COMP: >-
+  meta.4-4-1.DATA_COMP
+
+STAT_CONC_DEF: >-
+  meta.4-4-1.STAT_CONC_DEF
+
+OTHER_DOC: >-
+  meta.4-4-1.OTHER_DOC
 
 # optional
 CONTACT_ORGANISATION: >-
@@ -19,9 +28,6 @@ CONTACT_ORGANISATION: >-
 
 # optional
 ORGANISATION_UNIT: >-
-
-# optional
-STAT_CONC_DEF: |
 
 # optional
 UNIT_MEASURE: >-

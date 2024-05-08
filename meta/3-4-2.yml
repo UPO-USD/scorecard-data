@@ -11,9 +11,6 @@ SDG_INDICATOR: >-
   global_indicators.3-4-2-title
 
 # optional
-SDG_INDICATOR_INFO: >-
-
-# optional
 CONTACT_ORGANISATION: >-
   UPO
 
@@ -21,14 +18,26 @@ CONTACT_ORGANISATION: >-
 ORGANISATION_UNIT: >-
 
 # optional
-STAT_CONC_DEF: |
+SDG_INDICATOR_INFO: >-
+  meta.3-4-2.SDG_INDICATOR_INFO
+
+# optional
+DATA_COMP: >-
+  meta.3-4-2.DATA_COMP
+
+# optional
+STAT_CONC_DEF: >-
+  meta.3-4-2.STAT_CONC_DEF
+
+OTHER_DOC: >-
+  meta.3-4-2.OTHER_DOC
 
 # optional
 UNIT_MEASURE: >-
   units.percentage
 
 # optional
-COVERAGE: >- 
+COVERAGE: >-
 
 # optional
 indicator_level: >-
