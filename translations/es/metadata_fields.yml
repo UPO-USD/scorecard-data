@@ -4,3 +4,8 @@ indicator_type: Tipo de indicador
 area_action: Area de acción
 five_ps: 5P del Desarrollo Sostenible
 main_activity: Actividad principal
+SDG_INDICATOR_INFO: Propósito
+SDG_INDICATOR: Descripción detallada
+FREQ_COLL: Frecuencia de recogida
+REL_CAL_POLICY: Fecha de disponibilidad del dato
+DATA_SOURCE: Responsable del dato
