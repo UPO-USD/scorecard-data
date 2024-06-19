@@ -87,6 +87,9 @@
     - En Títulos Propios
   OTHER_DOC: >-
     <b><a style="text-decoration: underline;" href="https://upo-usd.github.io/scorecard-site/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
+  FREQ_COLL: Anual
+  source_release_date_1: Septiembre
+  DATA_SOURCE: Vicerrectorado de Estudiantes, CUI, Área de Relaciones Internacionales, CEDEP
 
 4-3-2:
   SDG_INDICATOR_INFO: Medir la capacidad de la UPO para ampliar el acceso a una enseñanza universitaria de calidad.

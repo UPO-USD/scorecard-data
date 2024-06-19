@@ -19,8 +19,8 @@ DATA_COMP: >-
 STAT_CONC_DEF: >-
   meta.4-3-1.STAT_CONC_DEF
 
-OTHER_DOC: >-
-  meta.4-3-1.OTHER_DOC
+# OTHER_DOC: >-
+#   meta.4-3-1.OTHER_DOC
 
 # optional
 CONTACT_ORGANISATION: >-
@@ -37,12 +37,12 @@ UNIT_MEASURE: >-
 COVERAGE: >-
 
 # optional
-indicator_level: >-
-  metadata_values.result
+# indicator_level: >-
+#   metadata_values.result
 
 # optional
-indicator_type: >-
-  metadata_values.interest_groups
+# indicator_type: >-
+#   metadata_values.interest_groups
 
 # optional
 area_action: >-
@@ -55,3 +55,12 @@ five_ps: >-
 # optional
 main_activity: >-
   metadata_values.teaching
+
+FREQ_COLL: >-
+  meta.4-3-1.FREQ_COLL
+
+REL_CAL_POLICY: >-
+  meta.4-3-1.REL_CAL_POLICY
+
+DATA_SOURCE: >-
+  meta.4-3-1.DATA_SOURCE
