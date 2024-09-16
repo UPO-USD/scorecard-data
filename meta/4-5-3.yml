@@ -41,8 +41,8 @@ COVERAGE: >-
 #   metadata_values.process
 
 # optional
-indicator_type: >-
-  metadata_values.teaching_research
+# indicator_type: >-
+#   metadata_values.teaching_research
 
 # optional
 area_action: >-

@@ -35,8 +35,8 @@ COVERAGE: >-
 #   metadata_values.result
 
 # optional
-indicator_type: >-
-  metadata_values.institutional_policy
+# indicator_type: >-
+#   metadata_values.institutional_policy
 
 # optional
 area_action: >-

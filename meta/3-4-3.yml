@@ -40,8 +40,8 @@ COVERAGE: >-
 #   metadata_values.process
 
 # optional
-indicator_type: >-
-  metadata_values.interest_groups
+# indicator_type: >-
+#   metadata_values.interest_groups
 
 # optional
 area_action: >-
