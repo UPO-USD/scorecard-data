@@ -10,8 +10,8 @@ SDG_TARGET: >-
 SDG_INDICATOR: >-
   global_indicators.3-4-3-title
 
-CONTACT_ORGANISATION: >-
-  UPO
+# CONTACT_ORGANISATION: >-
+#   UPO
 
 SDG_INDICATOR_INFO: >-
   meta.3-4-3.SDG_INDICATOR_INFO
@@ -36,8 +36,8 @@ UNIT_MEASURE: >-
 COVERAGE: >-
 
 # optional
-indicator_level: >-
-  metadata_values.process
+# indicator_level: >-
+#   metadata_values.process
 
 # optional
 indicator_type: >-

@@ -23,8 +23,8 @@ STAT_CONC_DEF: >-
 #   meta.4-3-1.OTHER_DOC
 
 # optional
-CONTACT_ORGANISATION: >-
-  UPO
+# CONTACT_ORGANISATION: >-
+#   UPO
 
 # optional
 ORGANISATION_UNIT: >-
