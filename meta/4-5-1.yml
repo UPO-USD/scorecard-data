@@ -45,8 +45,8 @@ COVERAGE: >-
 #   metadata_values.interest_groups
 
 # optional
-area_action: >-
-  metadata_values.diversity_equity
+# area_action: >-
+#   metadata_values.diversity_equity
 
 # optional
 five_ps: >-

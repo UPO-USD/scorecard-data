@@ -39,8 +39,8 @@ COVERAGE: >-
 #   metadata_values.institutional_policy
 
 # optional
-area_action: >-
-  metadata_values.climate_action
+# area_action: >-
+#   metadata_values.climate_action
 
 # optional
 five_ps: >-

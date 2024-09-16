@@ -39,8 +39,8 @@ COVERAGE: >-
 #   metadata_values.institutional_policy
 
 # optional
-area_action: >-
-  metadata_values.health_safety
+# area_action: >-
+#   metadata_values.health_safety
 
 # optional
 five_ps: >-

@@ -51,8 +51,8 @@ COVERAGE: >-
 #   metadata_values.institutional_policy
 
 # optional
-area_action: >-
-  metadata_values.grants_student_support
+# area_action: >-
+#   metadata_values.grants_student_support
 
 # optional
 five_ps: >-

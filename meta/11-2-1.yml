@@ -39,8 +39,8 @@ COVERAGE: >-
 #   metadata_values.interest_groups
 
 # optional
-area_action: >-
-  metadata_values.sustainable_mobility
+# area_action: >-
+#   metadata_values.sustainable_mobility
 
 # optional
 five_ps: >-

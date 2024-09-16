@@ -39,8 +39,8 @@ COVERAGE: >-
 #   metadata_values.teaching_research
 
 # optional
-area_action: >-
-  metadata_values.research_capacity
+# area_action: >-
+#   metadata_values.research_capacity
 
 # optional
 five_ps: >-

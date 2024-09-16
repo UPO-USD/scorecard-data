@@ -39,8 +39,8 @@ COVERAGE: >-
 #   metadata_values.interest_groups
 
 # optional
-area_action: >-
-  metadata_values.food_waste
+# area_action: >-
+#   metadata_values.food_waste
 
 # optional
 five_ps: >-

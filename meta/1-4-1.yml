@@ -48,8 +48,8 @@ COVERAGE: >-
 #   metadata_values.interest_groups
 
 # optional
-area_action: >-
-  metadata_values.grants_student_support
+# area_action: >-
+#   metadata_values.grants_student_support
 
 # optional
 five_ps: >-
