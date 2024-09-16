@@ -52,8 +52,8 @@ COVERAGE: >-
 #   metadata_values.grants_student_support
 
 # optional
-five_ps: >-
-  metadata_values.people
+# five_ps: >-
+#   metadata_values.people
 
 # optional
 main_activity: >-

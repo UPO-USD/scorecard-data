@@ -43,8 +43,8 @@ COVERAGE: >-
 #   metadata_values.gender_equity
 
 # optional
-five_ps: >-
-  metadata_values.planet
+# five_ps: >-
+#   metadata_values.planet
 
 # optional
 main_activity: >-

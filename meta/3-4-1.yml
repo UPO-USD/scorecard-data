@@ -49,8 +49,8 @@ COVERAGE: >-
 #   metadata_values.sustainable_goods_services
 
 # optional
-five_ps: >-
-  metadata_values.people
+# five_ps: >-
+#   metadata_values.people
 
 # optional
 main_activity: >-

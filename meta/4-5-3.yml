@@ -49,8 +49,8 @@ COVERAGE: >-
 #   metadata_values.diversity_equity
 
 # optional
-five_ps: >-
-  metadata_values.people
+# five_ps: >-
+#   metadata_values.people
 
 # optional
 main_activity: >-

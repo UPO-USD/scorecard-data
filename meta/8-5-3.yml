@@ -43,8 +43,8 @@ COVERAGE: >-
 #   metadata_values.employability
 
 # optional
-five_ps: >-
-  metadata_values.prosperity
+# five_ps: >-
+#   metadata_values.prosperity
 
 # optional
 main_activity: >-

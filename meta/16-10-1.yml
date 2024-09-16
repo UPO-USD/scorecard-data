@@ -43,8 +43,8 @@ COVERAGE: >-
 #   metadata_values.gobernance_participation
 
 # optional
-five_ps: >-
-  metadata_values.peace
+# five_ps: >-
+#   metadata_values.peace
 
 # optional
 main_activity: >-

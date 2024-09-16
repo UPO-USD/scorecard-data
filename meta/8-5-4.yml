@@ -43,8 +43,8 @@ COVERAGE: >-
 #   metadata_values.sustainable_goods_services
 
 # optional
-five_ps: >-
-  metadata_values.prosperity
+# five_ps: >-
+#   metadata_values.prosperity
 
 # optional
 main_activity: >-
