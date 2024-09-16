@@ -53,8 +53,8 @@ COVERAGE: >-
 #   metadata_values.people
 
 # optional
-main_activity: >-
-  metadata_values.teaching
+# main_activity: >-
+#   metadata_values.teaching
 
 FREQ_COLL: >-
   meta.4-3-1.FREQ_COLL

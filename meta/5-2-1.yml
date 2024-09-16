@@ -47,5 +47,5 @@ COVERAGE: >-
 #   metadata_values.people
 
 # optional
-main_activity: >-
-  metadata_values.management
+# main_activity: >-
+#   metadata_values.management

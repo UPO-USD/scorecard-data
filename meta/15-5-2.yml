@@ -47,5 +47,5 @@ COVERAGE: >-
 #   metadata_values.planet
 
 # optional
-main_activity: >-
-  metadata_values.research
+# main_activity: >-
+#   metadata_values.research

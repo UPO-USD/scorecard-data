@@ -47,5 +47,5 @@ COVERAGE: >-
 #   metadata_values.prosperity
 
 # optional
-main_activity: >-
-  metadata_values.community_services
+# main_activity: >-
+#   metadata_values.community_services
