@@ -48,8 +48,7 @@ COVERAGE: >-
 #   metadata_values.institutional_policy
 
 # optional
-# area_action: >-
-#   metadata_values.sustainable_goods_services
+area_action: meta.2-1-2.area_action
 
 # optional
 # five_ps: >-

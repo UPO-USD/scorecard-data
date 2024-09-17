@@ -45,8 +45,7 @@ COVERAGE: >-
 #   metadata_values.interest_groups
 
 # optional
-# area_action: >-
-#   metadata_values.quality_education
+area_action: meta.4-3-7.area_action
 
 # optional
 # five_ps: >-

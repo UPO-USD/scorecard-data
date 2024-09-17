@@ -45,8 +45,7 @@ COVERAGE: >-
 #   metadata_values.teaching_research
 
 # optional
-# area_action: >-
-#   metadata_values.quality_education
+area_action: meta.4-3-6.area_action
 
 # optional
 # five_ps: >-

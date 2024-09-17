@@ -39,8 +39,7 @@ COVERAGE: >-
 #   metadata_values.institutional_policy
 
 # optional
-# area_action: >-
-#   metadata_values.international_coop_education
+area_action: meta.17-2-1.area_action
 
 # optional
 # five_ps: >-

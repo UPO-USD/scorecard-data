@@ -39,8 +39,7 @@ COVERAGE: >-
 #   metadata_values.teaching_research
 
 # optional
-# area_action: >-
-#   metadata_values.employability
+area_action: meta.8-5-1.area_action
 
 # optional
 # five_ps: >-

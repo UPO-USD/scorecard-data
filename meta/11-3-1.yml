@@ -39,8 +39,7 @@ COVERAGE: >-
 #   metadata_values.interest_groups
 
 # optional
-# area_action: >-
-#   metadata_values.sustainable_cities_communities
+area_action: meta.11-3-1.area_action
 
 # optional
 # five_ps: >-

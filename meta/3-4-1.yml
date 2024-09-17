@@ -45,8 +45,7 @@ COVERAGE: >-
 #   metadata_values.interest_groups
 
 # optional
-# area_action: >-
-#   metadata_values.sustainable_goods_services
+area_action: meta.3-4-1.area_action
 
 # optional
 # five_ps: >-

@@ -48,8 +48,7 @@ COVERAGE: >-
 #   metadata_values.institutional_policy
 
 # optional
-# area_action: >-
-#   metadata_values.health_care
+area_action: meta.3-4-2.area_action
 
 # optional
 # five_ps: >-

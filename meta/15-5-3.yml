@@ -39,8 +39,7 @@ COVERAGE: >-
 #   metadata_values.teaching_research
 
 # optional
-# area_action: >-
-#   metadata_values.biodiversity_preservation
+area_action: meta.15-5-3.area_action
 
 # optional
 # five_ps: >-

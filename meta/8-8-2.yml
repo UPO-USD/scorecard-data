@@ -39,8 +39,7 @@ COVERAGE: >-
 #   metadata_values.interest_groups
 
 # optional
-# area_action: >-
-#   metadata_values.health_safety
+area_action: meta.8-8-2.area_action
 
 # optional
 # five_ps: >-

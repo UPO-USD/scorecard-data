@@ -39,8 +39,7 @@ COVERAGE: >-
 #   metadata_values.institutional_policy
 
 # optional
-# area_action: >-
-#   metadata_values.sustainable_cities_communities
+area_action: meta.11-7-1.area_action
 
 # optional
 # five_ps: >-

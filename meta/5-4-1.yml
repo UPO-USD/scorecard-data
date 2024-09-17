@@ -39,8 +39,7 @@ COVERAGE: >-
 #   metadata_values.institutional_policy
 
 # optional
-# area_action: >-
-#   metadata_values.gender_equity
+area_action: meta.5-4-1.area_action
 
 # optional
 # five_ps: >-

@@ -39,8 +39,7 @@ COVERAGE: >-
 #   metadata_values.interest_groups
 
 # optional
-# area_action: >-
-#   metadata_values.employability
+area_action: meta.8-5-2.area_action
 
 # optional
 # five_ps: >-

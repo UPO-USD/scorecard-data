@@ -45,8 +45,7 @@ COVERAGE: >-
 #   metadata_values.teaching_research
 
 # optional
-# area_action: >-
-#   metadata_values.diversity_equity
+area_action: meta.4-5-3.area_action
 
 # optional
 # five_ps: >-
