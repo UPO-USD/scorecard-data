@@ -49,7 +49,6 @@ COVERAGE: >-
 
 # optional
 area_action: meta.3-4-2.area_action
-
 # optional
 # five_ps: >-
 #   metadata_values.people
@@ -57,3 +56,15 @@ area_action: meta.3-4-2.area_action
 # optional
 # main_activity: >-
 #   metadata_values.management
+
+SOURCE_TYPE: >-
+  meta.3-4-2.SOURCE_TYPE
+
+DATA_SOURCE: >-
+  meta.3-4-2.DATA_SOURCE
+
+FREQ_COLL: >-
+  meta.3-4-2.FREQ_COLL
+  
+REL_CAL_POLICY: >-
+  meta.3-4-2.REL_CAL_POLICY

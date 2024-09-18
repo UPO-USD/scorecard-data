@@ -49,7 +49,6 @@ COVERAGE: >-
 
 # optional
 area_action: meta.1-4-1.area_action
-
 # optional
 # five_ps: >-
 #   metadata_values.people

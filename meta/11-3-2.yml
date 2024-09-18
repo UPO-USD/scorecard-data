@@ -40,7 +40,6 @@ COVERAGE: >-
 
 # optional
 area_action: meta.11-3-2.area_action
-
 # optional
 # five_ps: >-
 #   metadata_values.prosperity
@@ -48,3 +47,15 @@ area_action: meta.11-3-2.area_action
 # optional
 # main_activity: >-
 #   metadata_values.community_services
+
+SOURCE_TYPE: >-
+  meta.11-3-2.SOURCE_TYPE
+
+DATA_SOURCE: >-
+  meta.11-3-2.DATA_SOURCE
+
+FREQ_COLL: >-
+  meta.11-3-2.FREQ_COLL
+  
+REL_CAL_POLICY: >-
+  meta.11-3-2.REL_CAL_POLICY
