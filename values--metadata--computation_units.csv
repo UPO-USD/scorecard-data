@@ -10,7 +10,7 @@ units.kg_paper_recovered,1
 units.kg_plastic_waste,1
 units.kWh_per_person,1
 units.m3_per_person,1
-units.percentage,46
+units.percentage,45
 units.stundents_per_teacher,1
 units.teacher_saturation_index,1
 units.tons_co2_person,1

@@ -31,7 +31,7 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #16-10-1,complete,,,,,units.percentage,bar
 #16-6-1,complete,,,,,units.percentage,bar
 #16-7-1,complete,,,,,units.percentage,bar
-#17-16-1,complete,,,,,units.percentage,bar
+#17-16-1,complete,,,,,,line
 #17-2-1,complete,,,,,units.percentage,bar
 #17-6-1,complete,,,,,units.percentage,bar
 #2-1-1,complete,,,,Total,units.percentage,bar
