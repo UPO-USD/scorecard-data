@@ -14,8 +14,8 @@ SDG_INDICATOR: >-
 SDG_INDICATOR_INFO: >-
 
 # optional
-CONTACT_ORGANISATION: >-
-  UPO
+# CONTACT_ORGANISATION: >-
+#   UPO
 
 # optional
 ORGANISATION_UNIT: >-
@@ -31,21 +31,31 @@ UNIT_MEASURE: >-
 COVERAGE: >-
 
 # optional
-indicator_level: >-
-  metadata_values.result
+# indicator_level: >-
+#   metadata_values.result
 
 # optional
-indicator_type: >-
-  metadata_values.institutional_policy
+# indicator_type: >-
+#   metadata_values.institutional_policy
 
 # optional
-area_action: >-
-  metadata_values.gender_equity
+area_action: meta.5-5-1.area_action
+# optional
+# five_ps: >-
+#   metadata_values.people
 
 # optional
-five_ps: >-
-  metadata_values.people
+# main_activity: >-
+#   metadata_values.management
 
-# optional
-main_activity: >-
-  metadata_values.management
+SOURCE_TYPE: >-
+  meta.5-5-1.SOURCE_TYPE
+
+DATA_SOURCE: >-
+  meta.5-5-1.DATA_SOURCE
+
+FREQ_COLL: >-
+  meta.5-5-1.FREQ_COLL
+  
+REL_CAL_POLICY: >-
+  meta.5-5-1.REL_CAL_POLICY

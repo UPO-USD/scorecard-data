@@ -11,8 +11,8 @@ SDG_INDICATOR: >-
   global_indicators.2-1-2-title
 
 # optional
-CONTACT_ORGANISATION: >-
-  UPO
+# CONTACT_ORGANISATION: >-
+#   UPO
 
 # optional
 ORGANISATION_UNIT: >-
@@ -40,21 +40,31 @@ UNIT_MEASURE: >-
 COVERAGE: >-
 
 # optional
-indicator_level: >-
-  metadata_values.process
+# indicator_level: >-
+#   metadata_values.process
 
 # optional
-indicator_type: >-
-  metadata_values.institutional_policy
+# indicator_type: >-
+#   metadata_values.institutional_policy
 
 # optional
-area_action: >-
-  metadata_values.sustainable_goods_services
+area_action: meta.2-1-2.area_action
+# optional
+# five_ps: >-
+#   metadata_values.people
 
 # optional
-five_ps: >-
-  metadata_values.people
+# main_activity: >-
+#   metadata_values.management
 
-# optional
-main_activity: >-
-  metadata_values.management
+SOURCE_TYPE: >-
+  meta.2-1-2.SOURCE_TYPE
+
+DATA_SOURCE: >-
+  meta.2-1-2.DATA_SOURCE
+
+FREQ_COLL: >-
+  meta.2-1-2.FREQ_COLL
+  
+REL_CAL_POLICY: >-
+  meta.2-1-2.REL_CAL_POLICY

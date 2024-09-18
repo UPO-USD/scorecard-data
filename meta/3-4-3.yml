@@ -10,8 +10,8 @@ SDG_TARGET: >-
 SDG_INDICATOR: >-
   global_indicators.3-4-3-title
 
-CONTACT_ORGANISATION: >-
-  UPO
+# CONTACT_ORGANISATION: >-
+#   UPO
 
 SDG_INDICATOR_INFO: >-
   meta.3-4-3.SDG_INDICATOR_INFO
@@ -36,21 +36,31 @@ UNIT_MEASURE: >-
 COVERAGE: >-
 
 # optional
-indicator_level: >-
-  metadata_values.process
+# indicator_level: >-
+#   metadata_values.process
 
 # optional
-indicator_type: >-
-  metadata_values.interest_groups
+# indicator_type: >-
+#   metadata_values.interest_groups
 
 # optional
-area_action: >-
-  metadata_values.sustainable_goods_services
+area_action: meta.3-4-3.area_action
+# optional
+# five_ps: >-
+#   metadata_values.people
 
 # optional
-five_ps: >-
-  metadata_values.people
+# main_activity: >-
+#   metadata_values.management
 
-# optional
-main_activity: >-
-  metadata_values.management
+SOURCE_TYPE: >-
+  meta.3-4-3.SOURCE_TYPE
+
+DATA_SOURCE: >-
+  meta.3-4-3.DATA_SOURCE
+
+FREQ_COLL: >-
+  meta.3-4-3.FREQ_COLL
+  
+REL_CAL_POLICY: >-
+  meta.3-4-3.REL_CAL_POLICY

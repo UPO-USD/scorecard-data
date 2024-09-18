@@ -23,8 +23,8 @@ OTHER_DOC: >-
   meta.4-5-3.OTHER_DOC
 
 # optional
-CONTACT_ORGANISATION: >-
-  UPO
+# CONTACT_ORGANISATION: >-
+#   UPO
 
 # optional
 ORGANISATION_UNIT: >-
@@ -37,21 +37,31 @@ UNIT_MEASURE: >-
 COVERAGE: >-
 
 # optional
-indicator_level: >-
-  metadata_values.process
+# indicator_level: >-
+#   metadata_values.process
 
 # optional
-indicator_type: >-
-  metadata_values.teaching_research
+# indicator_type: >-
+#   metadata_values.teaching_research
 
 # optional
-area_action: >-
-  metadata_values.diversity_equity
+area_action: meta.4-5-3.area_action
+# optional
+# five_ps: >-
+#   metadata_values.people
 
 # optional
-five_ps: >-
-  metadata_values.people
+# main_activity: >-
+#   metadata_values.community_services
 
-# optional
-main_activity: >-
-  metadata_values.community_services
+SOURCE_TYPE: >-
+  meta.4-5-3.SOURCE_TYPE
+
+DATA_SOURCE: >-
+  meta.4-5-3.DATA_SOURCE
+
+FREQ_COLL: >-
+  meta.4-5-3.FREQ_COLL
+  
+REL_CAL_POLICY: >-
+  meta.4-5-3.REL_CAL_POLICY

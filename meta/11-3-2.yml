@@ -14,8 +14,8 @@ SDG_INDICATOR: >-
 SDG_INDICATOR_INFO: >-
 
 # optional
-CONTACT_ORGANISATION: >-
-  UPO
+# CONTACT_ORGANISATION: >-
+#   UPO
 
 # optional
 ORGANISATION_UNIT: >-
@@ -31,21 +31,31 @@ UNIT_MEASURE: >-
 COVERAGE: >-
 
 # optional
-indicator_level: >-
-  metadata_values.process
+# indicator_level: >-
+#   metadata_values.process
 
 # optional
-indicator_type: >-
-  metadata_values.interest_groups
+# indicator_type: >-
+#   metadata_values.interest_groups
 
 # optional
-area_action: >-
-  metadata_values.sustainable_cities_communities
+area_action: meta.11-3-2.area_action
+# optional
+# five_ps: >-
+#   metadata_values.prosperity
 
 # optional
-five_ps: >-
-  metadata_values.prosperity
+# main_activity: >-
+#   metadata_values.community_services
 
-# optional
-main_activity: >-
-  metadata_values.community_services
+SOURCE_TYPE: >-
+  meta.11-3-2.SOURCE_TYPE
+
+DATA_SOURCE: >-
+  meta.11-3-2.DATA_SOURCE
+
+FREQ_COLL: >-
+  meta.11-3-2.FREQ_COLL
+  
+REL_CAL_POLICY: >-
+  meta.11-3-2.REL_CAL_POLICY

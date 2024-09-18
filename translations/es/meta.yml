@@ -11,6 +11,17 @@
     Estas son las ayudas en las que la UPO interviene ya sea con fondos propios o mediante la Junta de Andalucía.
   OTHER_DOC: >-
     <b><a style="text-decoration: underline;" href="https://upo-usd.github.io/scorecard-site/assets/docs/Ficha_Indicadores_UPO_ODS_1_vDEF.docx" target="_blank">Información detallada</a></b>
+  SOURCE_TYPE: Registros del Servicio de Becas y ayudas
+  DATA_SOURCE: Servicio de Becas y ayudas
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: junio
+  area_action: >-
+    <ul>
+      <li>Becas y Ayudas</li>
+      <li>Ampliación de portfolio de ayudas o becas (nuevos tipos de ayuda)</li>
+      <li>Ampliación de presupuesto para ayudas y becas (más personas)</li>
+      <li>Ampliación de criterios para elegibilidad de las ayudas (nuevos perfiles, umbrales de ingresos máximos…)</li>
+    </ul>
 
 1-4-2:
   SDG_INDICATOR_INFO: Medir apoyo que se realiza en la UPO para favorecer el acceso a la universidad de estudiantes en contextos personales/familiares de bajos ingresos o en situación de vulnerabilidad.
@@ -21,6 +32,17 @@
     Este indicador mide el esfuerzo presupuestario que hace la UPO con fondos propios para favorecer el acceso a la universidad a estudiantado en sit
   OTHER_DOC: >-
     <b><a style="text-decoration: underline;" href="https://upo-usd.github.io/scorecard-site/assets/docs/Ficha_Indicadores_UPO_ODS_1_vDEF.docx" target="_blank">Información detallada</a></b>
+  SOURCE_TYPE: Euros presupuestados en UPO para financiar becas o ayudas dentro del presupuesto anual de la UPO
+  DATA_SOURCE: Área de Gestión Presupuestaria y Tesorería
+  FREQ_COLL: Anual (año presupuestario)
+  REL_CAL_POLICY: Enero
+  area_action: >-
+    <ul>
+      <li>Becas y Ayudas</li>
+      <li>Ampliación de portfolio de ayudas o becas (nuevos tipos de ayuda)</li>
+      <li>Ampliación de presupuesto para ayudas y becas (más personas)</li>
+      <li>Ampliación de criterios para elegibilidad de las ayudas (nuevos perfiles, umbrales de ingresos máximos…)</li>
+    </ul>
 
 2-1-1:
   SDG_INDICATOR_INFO: Medir apoyo que se realiza en la UPO para favorecer el acceso a una alimentación sana, nutritiva y suficiente de estudiantes en contextos personales/familiares de bajos ingresos o en situación de vulnerabilidad
@@ -33,6 +55,16 @@
     Ayudas de Bonos de Comedor
   OTHER_DOC: >-
     <b><a style="text-decoration: underline;" href="https://upo-usd.github.io/scorecard-site/assets/docs/Ficha_Indicadores_UPO_ODS_2_vDEF.docx" target="_blank">Información detallada</a></b>
+  SOURCE_TYPE: Registro de becas comedor otorgadas recogido por el Área de Acceso y Asistencia al Estudiante de Grado
+  DATA_SOURCE: Área de Acceso y Asistencia al Estudiante de Grado
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: junio
+  area_action: >-
+    <ul>
+      <li>Aprobación de presupuesto UPO para becas comedor</li>
+      <li>Ampliación de criterios para la concesión de las becas</li>
+      <li>Acciones de divulgación de las becas comedor entre estudiantes</li>
+    </ul>
 
 2-1-2:
   SDG_INDICATOR_INFO: Medir la inclusión de alimentos sanos y sostenibles en la dieta ofrecida a la comunidad educativa en las instalaciones de la UPO
@@ -46,6 +78,15 @@
     Comercio justo: sello de comercio justo acreditado.
   OTHER_DOC: >-
     <b><a style="text-decoration: underline;" href="https://upo-usd.github.io/scorecard-site/assets/docs/Ficha_Indicadores_UPO_ODS_2_vDEF.docx" target="_blank">Información detallada</a></b>
+  SOURCE_TYPE: Registro de becas comedor otorgadas recogido por el Área de Acceso y Asistencia al Estudiante de Grado
+  DATA_SOURCE: Área de Acceso y Asistencia al Estudiante de Grado
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: junio
+  area_action: >-
+    <ul>
+      <li>Apertura de nuevas cafeterías</li>
+      <li>Renegociación contratos con proveedores de servicios de cafetería o sustitución por nuevos</li>
+    </ul>
 
 3-4-1:
   SDG_INDICATOR_INFO: Medir contribución de la UPO a la mejora de la salud y bienestar de la comunidad universitaria
@@ -57,6 +98,16 @@
     Listado de servicios/programas de salud y bienestar incluidos: Gimnasio y actividades dirigidas
   OTHER_DOC: >-
     <b><a style="text-decoration: underline;" href="https://upo-usd.github.io/scorecard-site/assets/docs/Ficha_Indicadores_UPO_ODS_3_vDEF.docx" target="_blank">Información detallada</a></b>
+  SOURCE_TYPE: Memoria anual del vicerrectorado de Campus Saludable y Deporte
+  DATA_SOURCE: Vicerrectorado de Campus Saludable y Deportes
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: junio
+  area_action: >-
+    <ul>
+      <li>Creación en el campus de nuevas instalaciones deportivas</li>
+      <li>Campañas de difusión de la práctica deportiva y de las instalaciones existentes</li>
+      <li>Presupuesto destinado a salud y bienestar</li>
+    </ul>
 3-4-2:
   SDG_INDICATOR_INFO: Medir contribución de la UPO a la mejora de la salud y bienestar de la comunidad universitaria
   DATA_COMP: >-
@@ -66,6 +117,15 @@
     Presupuesto anual UPO: partidas destinadas al área de Salud y Prevención de Riesgos Laborales y al Campus Saludable y Deporte.
   OTHER_DOC: >-
     <b><a style="text-decoration: underline;" href="https://upo-usd.github.io/scorecard-site/assets/docs/Ficha_Indicadores_UPO_ODS_3_vDEF.docx" target="_blank">Información detallada</a></b>
+  SOURCE_TYPE: >-
+    Presupuesto anual UPO: partidas destinadas al área de Salud y Prevención de Riesgos Laborales y al Campus Saludable y Deporte
+  DATA_SOURCE: Gerencia
+  FREQ_COLL: Anual (año presupuestario)
+  REL_CAL_POLICY: diciembre
+  area_action: >-
+    <ul>
+      <li>Ampliación de presupuesto destinado a salud, bienestar y prevención de riesgos laborales</li>
+    </ul>
 3-4-3:
   SDG_INDICATOR_INFO: Medir contribución de la UPO a la mejora de la salud y bienestar de la comunidad universitaria
   DATA_COMP: >-
@@ -75,6 +135,14 @@
     "Encuentrolavide punto de encuentro de emociones" es un servicio de atención y formación en salud mental y emocional para el estudiantado.
   OTHER_DOC: >-
     <b><a style="text-decoration: underline;" href="https://upo-usd.github.io/scorecard-site/assets/docs/Ficha_Indicadores_UPO_ODS_3_vDEF.docx" target="_blank">Información detallada</a></b>
+  SOURCE_TYPE: Memoria anual del Vicerrectorado de Estudiantes
+  DATA_SOURCE: Vicerrectorado de Estudiantes - Encuentrolavide
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: septiembre
+  area_action: >-
+    <ul>
+      <li>Posible ampliación de la atención a PTGAS y PDI</li>
+    </ul>
 
 4-3-1:
   SDG_INDICATOR_INFO: Medir la capacidad de la UPO para ampliar el acceso a una enseñanza universitaria de calidad.
@@ -82,14 +150,20 @@
     Contabilizar el número de estudiantes que se matriculan en un año académico en la totalidad de grados y postgrado ofertados en la UPO.
   STAT_CONC_DEF: >-
     Se contabilizarán los estudiantes matriculados:
-    - En Grado/Doble Grado
-    - En Postgrados Oficiales: Master Universitario/ Doctorado
-    - En Títulos Propios
+    • En Grado/Doble Grado
+    • En Postgrados Oficiales: Master Universitario/ Doctorado
+    • En Títulos Propios
   OTHER_DOC: >-
     <b><a style="text-decoration: underline;" href="https://upo-usd.github.io/scorecard-site/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
-  FREQ_COLL: Anual
-  source_release_date_1: Septiembre
+  SOURCE_TYPE: Memoria anual de actividades de los servicios involucrado
   DATA_SOURCE: Vicerrectorado de Estudiantes, CUI, Área de Relaciones Internacionales, CEDEP
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: Septiembre
+  area_action: >-
+    <ul>
+      <li>Ampliación plazas en grados/posgrados existentes</li>
+      <li>Creación de nuevos grados y posgrados</li>
+    </ul>
 
 4-3-2:
   SDG_INDICATOR_INFO: Medir la capacidad de la UPO para ampliar el acceso a una enseñanza universitaria de calidad.
@@ -101,6 +175,14 @@
     - En Postgrados Oficiales: Master Universitario/ Doctorado
   OTHER_DOC: >-
     <b><a style="text-decoration: underline;" href="https://upo-usd.github.io/scorecard-site/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
+  SOURCE_TYPE: Cuadro de mando del Perfil del Alumnado de Nuevo Ingreso disponible en la web https://www.upo.es/area-calidad/servicios/Elaboracion-de-Estudios-e-Informes-Tecnicos/Informes-de-Perfil-Nuevo-Ingreso/
+  DATA_SOURCE: Área de Calidad
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: Septiembre
+  area_action: >-
+    <ul>
+      <li>Campañas de comunicación para captar nuevos estudiantes</li>
+    </ul>
 
 4-3-3:
   SDG_INDICATOR_INFO: Conocer el número de estudiantes que finalizan sus grados y postgrados.
@@ -113,6 +195,14 @@
     - En Títulos Propios
   OTHER_DOC: >-
     <b><a style="text-decoration: underline;" href="https://upo-usd.github.io/scorecard-site/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
+  SOURCE_TYPE: https://www.upo.es/area-calidad/servicios/Elaboracion-de-Estudios-e-Informes-Tecnicos/Informes-de-Perfil-de-Egreso-por-Titulo/index.html
+  DATA_SOURCE: Área de Calidad
+  FREQ_COLL: Anual (año académico) con 3 cursos de retraso
+  REL_CAL_POLICY: Diciembre
+  area_action: >-
+    <ul>
+      <li>Crear comunidad de antiguo alumnado (alumni)</li>
+    </ul>
 
 4-3-4:
   SDG_INDICATOR_INFO: Medir satisfacción global del alumnado con la UPO
@@ -128,6 +218,16 @@
     0 - muy mala
   OTHER_DOC: >-
     <b><a style="text-decoration: underline;" href="https://upo-usd.github.io/scorecard-site/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
+  SOURCE_TYPE: Datos resultantes de Encuesta anual de satisfacción https://www.upo.es/area-calidad/servicios/Evaluacion-Docente-del-Profesorado/satisfaccion-alumnado-docencia/informes-globales/
+  DATA_SOURCE: Área de Calidad
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: Septiembre
+  area_action: >-
+    <ul>
+      <li>Realización de encuesta</li>
+      <li>Campañas de difusión de encuesta</li>
+      <li>Análisis y plan de mejora en base a encuestas anteriores</li>
+    </ul>
 
 4-3-5:
   SDG_INDICATOR_INFO: Asegurar una ratio que garantiza la calidad de la enseñanza impartida.
@@ -139,6 +239,18 @@
     Para el denominado se contabilizará el personal PDI a tiempo completo, tanto personal funcionario como contratado.
   OTHER_DOC: >-
     <b><a style="text-decoration: underline;" href="https://upo-usd.github.io/scorecard-site/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
+  SOURCE_TYPE: >-
+    <ul>
+      <li>Informe del Área de Recursos Humanos.</li>
+      <li>Informe del Área de Gestión de Matrícula y Expediente Académico de Grado.</li>
+    </ul>
+  DATA_SOURCE: Delegación del Campus Sostenible tras publicación de las memorias
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: Septiembre
+  area_action: >-
+    <ul>
+      <li>Procesos de ampliación y consolidación de PDI.</li>
+    </ul>
 
 4-3-6:
   SDG_INDICATOR_INFO: Medir un aspecto de la calidad de la enseñanza impartida
@@ -148,6 +260,11 @@
     El Índice de Saturación Docente constituye un indicador de calidad en la educación, pues relaciona la capacidad de impartir docencia y los créditos efectivos que se imparten. El profesorado no puede invertir el 100% de su tiempo en docencia, pues existen otras actividades, como investigación, dirección de tesis, gestión, etc. que requieren dedicación.
   OTHER_DOC: >-
     <b><a style="text-decoration: underline;" href="https://upo-usd.github.io/scorecard-site/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
+  SOURCE_TYPE:
+  DATA_SOURCE:
+  FREQ_COLL:
+  REL_CAL_POLICY:
+  area_action: >-
 
 4-3-7:
   SDG_INDICATOR_INFO: Promover que haya estudiantes de primera generación familiar en el ámbito universitario
@@ -159,6 +276,14 @@
     Nuevo ingreso: número de estudiantes que se matriculan por primera vez en un año académico en la totalidad de grados y postgrado ofertados en la UPO
   OTHER_DOC: >-
     <b><a style="text-decoration: underline;" href="https://upo-usd.github.io/scorecard-site/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
+  SOURCE_TYPE: Cuadro de mando del Perfil del Alumnado de Nuevo Ingreso disponible en la web https://www.upo.es/area-calidad/servicios/Elaboracion-de-Estudios-e-Informes-Tecnicos/Informes-de-Perfil-Nuevo-Ingreso/
+  DATA_SOURCE: Anual (año académico)
+  FREQ_COLL: Septiembre
+  REL_CAL_POLICY: Área de Calidad
+  area_action: >-
+    <ul>
+      <li>Aumento de becas propias. Mejora de la oferta académica</li>
+    </ul>
 
 4-4-1:
   SDG_INDICATOR_INFO: Medir la capacidad de la UPO de desarrollar las competencias profesionales requeridas para la obtención de una titulación entre los estudiantes matriculados
@@ -170,6 +295,14 @@
     Se calcula para Grado y Doble Grado
   OTHER_DOC: >-
     <b><a style="text-decoration: underline;" href="https://upo-usd.github.io/scorecard-site/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
+  SOURCE_TYPE: https://www.upo.es/transparencia/tema/docencia/tasa-de-exito/
+  DATA_SOURCE: Área de Calidad
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: Septiembre
+  area_action: >-
+    <ul>
+      <li>Mejora en la calidad de la enseñanza y motivación del alumnado</li>
+    </ul>
 4-4-2:
   SDG_INDICATOR_INFO: Medir la capacidad de la UPO de desarrollar las competencias profesionales requeridas para la obtención de una titulación entre los estudiantes matriculados
   DATA_COMP: >-
@@ -180,6 +313,14 @@
     Se calcula para Grado y Doble Grado
   OTHER_DOC: >-
     <b><a style="text-decoration: underline;" href="https://upo-usd.github.io/scorecard-site/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
+  SOURCE_TYPE: https://www.upo.es/transparencia/tema/docencia/tasa-de-exito/
+  DATA_SOURCE: Área de Calidad
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: Septiembre
+  area_action: >-
+    <ul>
+      <li>Mejora en la calidad de la enseñanza y motivación del alumnado</li>
+    </ul>
 4-4-3:
   SDG_INDICATOR_INFO: Medir la capacidad de la UPO de desarrollar las competencias profesionales requeridas para la obtención de una titulación entre los estudiantes matriculados
   DATA_COMP: >-
@@ -190,6 +331,14 @@
     Se calcula para Grado y Doble Grado
   OTHER_DOC: >-
     <b><a style="text-decoration: underline;" href="https://upo-usd.github.io/scorecard-site/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
+  SOURCE_TYPE: https://www.upo.es/transparencia/tema/docencia/tasa-de-abandono/
+  DATA_SOURCE: Área de Calidad
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: Septiembre
+  area_action: >-
+    <ul>
+      <li>Mejora en la calidad de la enseñanza y motivación del alumnado</li>
+    </ul>
 4-5-1:
   SDG_INDICATOR_INFO: Medir la capacidad de la UPO para asegurar apoyo a las personas con diversidad para promover una universidad más inclusiva.
   DATA_COMP: >-
@@ -199,6 +348,14 @@
     Aquellas sin certificado de discapacidad igual o mayor al 33 % o que no presenten un informe de diagnóstico o educativo que acredite las necesidades educativas especiales no las podrá atender el SADF.
   OTHER_DOC: >-
     <b><a style="text-decoration: underline;" href="https://upo-usd.github.io/scorecard-site/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
+  SOURCE_TYPE: Informe de la Unidad de Políticas Sociales, Igualdad y Cultura
+  DATA_SOURCE: Unidad de Políticas Sociales, Igualdad y Cultura
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: Septiembre
+  area_action: >-
+    <ul>
+      <li>Mejora paulatina de la accesibilidad de las infraestructuras</li>
+    </ul>
 4-5-2:
   SDG_INDICATOR_INFO: Conocer el nivel de éxito de los estudiantes con diversidad funcional en la UPO.
   DATA_COMP: >-
@@ -207,6 +364,14 @@
     Se contabilizarán los estudiantes con diversidad funcional que han obtenido el título de Grado/Doble Grado y Master Universitario/ Doctorado
   OTHER_DOC: >-
     <b><a style="text-decoration: underline;" href="https://upo-usd.github.io/scorecard-site/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
+  SOURCE_TYPE: Memoria anual de actividades
+  DATA_SOURCE: Unidad de Políticas Sociales, Igualdad y Cultura - SADF
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: Septiembre
+  area_action: >-
+    <ul>
+      <li>Mejora de la accesibilidad tanto en infraestructuras como en las herramientas pedagógicas utilizadas en las clases</li>
+    </ul>
 4-5-3:
   SDG_INDICATOR_INFO: Fomentar una comunidad universitaria inclusiva y diversa.
   DATA_COMP: >-
@@ -216,6 +381,15 @@
     Cursos de formación organizados por la SADF para el profesorado y el PAS
   OTHER_DOC: >-
     <b><a style="text-decoration: underline;" href="https://upo-usd.github.io/scorecard-site/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
+  SOURCE_TYPE: Informe de la Unidad de Políticas Sociales, Igualdad y Cultura
+  DATA_SOURCE: Unidad de Políticas Sociales, Igualdad y Cultura - SADF
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: Septiembre
+  area_action: >-
+    <ul>
+      <li>Organización de nuevos cursos de formación por la SADF</li>
+      <li>Incentivos para promover la matriculación en los cursos de la SADF</li>
+    </ul>
 4-7-1:
   SDG_INDICATOR_INFO: Contribuir a una ciudadanía comprometida con el desarrollo sostenible.
   DATA_COMP: >-
@@ -225,6 +399,15 @@
     Las actividades vinculadas a la educación para el desarrollo sostenible computables para este indicador son las reportadas por la Delegación del Rector para el Campus Sostenible en su memoria anual.
   OTHER_DOC: >-
     <b><a style="text-decoration: underline;" href="https://upo-usd.github.io/scorecard-site/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
+  SOURCE_TYPE: Registros de la Delegación del Campus Sostenible
+  DATA_SOURCE: Delegación del Campus Sostenible
+  FREQ_COLL: Anual
+  REL_CAL_POLICY: junio
+  area_action: >-
+    <ul>
+      <li>Nuevas actividades organizadas por la Delegación del Campus Sostenible</li>
+      <li>Campañas de difusión sobre actividades organizadas por la Delegación del Campus Sostenible</li>
+    </ul>
 4-7-2:
   SDG_INDICATOR_INFO: Contribuir a una ciudadanía comprometida con el desarrollo sostenible, los derechos humanos y la igualdad de género.
   DATA_COMP: >-
@@ -245,3 +428,783 @@
     - Intervención Social, Cultura y Diversidad
   OTHER_DOC: >-
     <b><a style="text-decoration: underline;" href="https://upo-usd.github.io/scorecard-site/assets/docs/Ficha_Indicadores_UPO_ODS_4_vDEF.docx" target="_blank">Información detallada</a></b>
+  SOURCE_TYPE: Informe anual del Área de Postgrado y Doctorado / Escuela de Doctorado que recoge las matriculaciones.
+  DATA_SOURCE: Área de Postgrado y Doctorado / Escuela de Doctorado
+  FREQ_COLL: Anual
+  REL_CAL_POLICY: octubre
+  area_action: >-
+    <ul>
+      <li>Aumento de número de plazas disponibles</li> 
+      <li>Aumento de la oferta de masters vinculados al Desarrollo Sostenible</li>
+    </ul>
+
+5-1-1:
+  SOURCE_TYPE: Registros del Área de Gestión de Matrícula y Expediente Académico de Grado
+  DATA_SOURCE: Área de Gestión de Matrícula y Expediente Académico de Grado
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: junio
+  area_action: >-
+    <ul>
+      <li>Campañas de difusión y sensibilización para fomentar la matriculación de mujeres en carreras tradicionalmente “masculinas”</li>
+      <li>Servicios de apoyo a mujeres estudiantes</li>
+      <li>Presupuestos con enfoque de género</li>
+      <li>Medidas para fomentar la equidad de género</li>
+      <li>Medidas contra el acoso sexual y por razón de sexo</li>
+    </ul>
+5-1-2:
+  SOURCE_TYPE: Cuadro de mando del Perfil del Alumnado de Nuevo Ingreso disponible en la web https://www.upo.es/area-calidad/servicios/Elaboracion-de-Estudios-e-Informes-Tecnicos/Informes-de-Perfil-Nuevo-Ingreso/
+  DATA_SOURCE: Área de Calidad
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: Septiembre
+  area_action: >-
+    <ul>
+      <li>Campañas de difusión y sensibilización sobre carreras tradicionalmente “masculinas”</li>
+      <li>Servicios de apoyo a mujeres estudiantes</li>
+      <li>Presupuestos con enfoque de género</li>
+      <li>Medidas para fomentar la equidad de género</li>
+      <li>Medidas contra el acoso sexual y por razón de sexo</li>
+    </ul>
+5-1-3:
+  SOURCE_TYPE: >-
+    <ul>
+      <li>Total de mujeres en el personal investigador en proyectos de investigación e innovación: Registros Área de Investigación</li>
+      <li>Total de personal investigador en proyectos de investigación e innovación: Registros Área de Investigación</li>
+    </ul>
+  DATA_SOURCE: Área de Investigación
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: junio
+  area_action: >-
+    <ul>
+      <li>Servicios de apoyo a mujeres estudiantes</li>
+      <li>Presupuestos con enfoque de género</li>
+      <li>Medidas para fomentar la equidad de género</li>
+      <li>Medidas contra el acoso sexual y por razón de sexo</li>
+    </ul>
+5-1-4:
+  SOURCE_TYPE: Informe Anual del Área de Recursos Humanos
+  DATA_SOURCE: Área de Recursos Humanos
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: junio
+  area_action: >-
+    <ul>
+      <li>Presupuestos con enfoque de género</li>
+      <li>Medidas para fomentar la equidad de género</li>
+      <li>Medidas contra el acoso sexual y por razón de sexo</li>
+    </ul>
+5-1-5:
+  SOURCE_TYPE: Informe Anual del Área de Recursos Humanos
+  DATA_SOURCE: Área de Recursos Humanos
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: junio
+  area_action: >-
+    <ul>
+      <li>Presupuestos con enfoque de género</li>
+      <li>Medidas para fomentar la equidad de género</li>
+      <li>Medidas contra el acoso sexual y por razón de sexo</li>
+    </ul>
+5-1-6:
+  SOURCE_TYPE: >-
+    <ul>
+      <li>Euros presupuestados en UPO para área de Igualdad: Vicegerencia Económica. En los distintos vicerrectorados aparecen partidas presupuestarias destinadas a igualdad (eso se puede ver en el informe de género del presupuesto)</li>
+      <li>Presupuesto anual total de la UPO: Área de Gestión Presupuestaria y Tesorería</li>
+    </ul>
+  DATA_SOURCE: Vicegerencia Económica
+  FREQ_COLL: Anual (año presupuestario)
+  REL_CAL_POLICY: Enero
+  area_action: >-
+    <ul>
+      <li>Ampliación de presupuesto destinado al área de igualdad</li>
+    </ul>
+5-1-7:
+  SOURCE_TYPE: Informe anual de la Delegación del Rector para la Igualdad de Género
+  DATA_SOURCE: Delegación del Rector para la Igualdad de Género
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: junio
+  area_action: >-
+    <ul>
+      <li>Desarrollo de nuevas acciones de formación y sensibilización sobre igualdad</li>
+      <li>Campañas de difusión de acciones de formación y sensibilización sobre igualdad</li>
+    </ul>
+5-2-1:
+  SOURCE_TYPE: >-
+    Registro de expedientes: área de prevención de riesgos laborales
+  DATA_SOURCE: Delegación del Rector para la Igualdad de Género
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: junio
+  area_action: >-
+    <ul>
+      <li>Desarrollo de nuevas acciones de formación y sensibilización sobre igualdad</li>
+      <li>Campañas de difusión sobre existencia y funcionamiento del protocolo</li>
+    </ul>
+5-4-1:
+  SOURCE_TYPE: Informe Área de Recursos Humanos
+  DATA_SOURCE: Área de Recursos Humanos
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: septiembre
+  area_action: >-
+    <ul>
+      <li>Campañas de difusión sobre existencia de planes de conciliación para personal de la UPO y de las características de las medidas incluidas</li>
+      <li>Ampliación de medidas de conciliación para favorecer la incorporación de nuevas personas a los planes</li>
+    </ul>
+5-5-1:
+  SOURCE_TYPE: Secretaría General. Delegación
+  DATA_SOURCE: Secretaría General. Delegación
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: junio
+  area_action: >-
+    <ul>
+      <li>Medidas para fomentar la equidad de género</li>
+      <li>Medidas contra el acoso sexual y por razón de sexo</li>
+    </ul>
+5-5-2:
+  SOURCE_TYPE: Registros del Área de Investigación. Memoria anual de actividades
+  DATA_SOURCE: Área de Investigación
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: junio
+  area_action: >-
+    <ul>
+      <li>Medidas para fomentar la equidad de género</li>
+      <li>Medidas contra el acoso sexual y por razón de sexo</li>
+    </ul>
+5-5-3:
+  SOURCE_TYPE: Memoria anual de actividades
+  DATA_SOURCE: Área de Recursos Humanos
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: junio
+  area_action: >-
+    <ul>
+      <li>Medidas para fomentar la equidad de género</li>
+      <li>Medidas contra el acoso sexual y por razón de sexo</li>
+    </ul>
+6-4-1:
+  SOURCE_TYPE: >-
+    <ul>
+      <li>Consumo de agua en un periodo anual: Registros de proveedor servicios de Agua</li>
+      <li>Ámbito: delimitación de instalaciones y espacios UPO que se incluyen en el cálculo</li>
+      <li>Comunidad universitaria: PDI y PAS de la UPO + estudiantes matriculados</li>
+    </ul>
+  DATA_SOURCE: Área de Infraestructuras, Mantenimiento y Eficiencia Energética
+  FREQ_COLL: Anual (año natural)
+  REL_CAL_POLICY: Enero
+  area_action: >-
+    <ul>
+      <li>Campañas de concienciación uso responsable de agua</li>
+      <li>Instalación de sistemas de riego eficiente</li>
+      <li>Instalación de sistemas de reutilización de agua</li>
+    </ul>
+6-4-2:
+  SOURCE_TYPE: Se publicará en la web del campus sostenible
+  DATA_SOURCE: Delegación del Campus Sostenible
+  FREQ_COLL: Año natural
+  REL_CAL_POLICY: Enero
+  area_action: >-
+    <ul>
+      <li>Campañas de concienciación uso responsable de agua</li>
+      <li>Instalación de sistemas de riego eficiente</li>
+      <li>Instalación de sistemas de reutilización de agua</li>
+      <li>Dotar a la Delegación del Campus Sostenible de recursos para poder asegurar el cálculo de este indicador</li>
+    </ul>
+6-6-1:
+  SOURCE_TYPE: >-
+    <ul>
+      <li>Euros presupuestados en UPO para gestión sostenible del agua y el cuidado de ecosistemas acuáticos</li>
+      <li>Presupuesto anual total de la UPO: Área de Gestión Presupuestaria y Tesorería</li>
+    </ul>
+  DATA_SOURCE: Área de Infraestructuras, Mantenimiento y Eficiencia Energética
+  FREQ_COLL: Anual (año presupuestario)
+  REL_CAL_POLICY: >-
+    Nota: No disponible actualmente, el objetivo es desglosar en un futuro esta partida presupuestaria
+  area_action: >-
+    <ul>
+      <li>Ampliación de presupuesto destinado a la gestión sostenible del agua y el cuidado de ecosistemas acuáticos</li>
+    </ul>
+7-2-1:
+  SOURCE_TYPE: >-
+    <ul>
+      <li>Lista de edificios e instalaciones de la UPO</li>
+      <li>Registro de Certificados en vigor</li>
+    </ul>
+  DATA_SOURCE: Área de Infraestructuras, Mantenimiento y Eficiencia Energética
+  FREQ_COLL: Anual (año natural)
+  REL_CAL_POLICY: julio
+  area_action: >-
+    <ul>
+      <li>Campañas de concienciación sobre consumo de energía</li>
+      <li>Instalación de sistemas de eficiencia energética</li>
+      <li>Programas de sustitución de ventanas, aislamientos, etc…</li>
+      <li>Realización de auditorías energéticas</li>
+    </ul>
+7-3-1:
+  SOURCE_TYPE: Actualmente suministrado por la factura eléctrica
+  DATA_SOURCE: Área de Infraestructuras, Mantenimiento y Eficiencia Energética
+  FREQ_COLL: Anual (año natural)
+  REL_CAL_POLICY: julio
+  area_action: >-
+    <ul>
+      <li>Instalación de sistemas de energía renovable</li>
+      <li>Renegociación con proveedores de energía 100% renovable</li>
+      <li></li>
+    </ul>
+7-3-2:
+  SOURCE_TYPE: >-
+    <ul>
+      <li>Kilovatios hora (KWh) consumidos en un año: Informe del Área de Infraestructuras, Mantenimiento y Eficiencia Energética.</li>
+      <li>Comunidad universitaria: Informe de la UPO en Cifras.</li>
+    </ul>
+  DATA_SOURCE: Área de Infraestructuras, Mantenimiento y Eficiencia Energética
+  FREQ_COLL: Anual (año natural)
+  REL_CAL_POLICY: julio
+  area_action: >-
+    <ul>
+      <li>Campañas de concienciación sobre consumo de energía</li>
+      <li>Instalación de sistemas de eficiencia energética</li>
+      <li>Programas de sustitución de ventanas, aislamientos, etc…</li>
+    </ul>
+8-5-1:
+  SOURCE_TYPE: >-
+    <ul>
+      <li>Registros Fundación Universitaria Pablo de Olavide. Área de Prácticas</li>
+      <li>Memoria anual de actividades</li>
+    </ul>
+  DATA_SOURCE: Fundación Universitaria Pablo de Olavide. Área de Prácticas
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: junio
+  area_action: >-
+    <ul>
+      <li>Establecer convenios con empresas y organizaciones.</li>
+      <li>Campañas para promover la realización de prácticas entre sus estudiantes.</li>
+      <li>Ofrecer información y orientación sobre las oportunidades de prácticas profesionales disponibles</li>
+    </ul>
+8-5-2:
+  SOURCE_TYPE: >-
+    <ul>
+      <li>Registros Fundación Universitaria Pablo de Olavide. Área de Prácticas</li>
+      <li>Memoria anual de actividades</li>
+      <li></li>
+    </ul>
+  DATA_SOURCE: Área de Empleabilidad y Emprendimiento de Fundación UPO
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: junio
+  area_action: >-
+    <ul>
+      <li>Campañas de información sobre ventajas y funcionamiento del servicio de orientación profesional</li>
+      <li>Mejorar oferta de servicios ofrecidos</li>
+    </ul>
+8-5-3:
+  SOURCE_TYPE: Observatorio ARGOS del Servicio Andaluz de Empleo de la Consejería de Empleo, Formación y Trabajo Autónomo
+  DATA_SOURCE: Observatorio ARGOS del Servicio Andaluz de Empleo de la Consejería de Empleo, Formación y Trabajo Autónomo
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: junio
+  area_action: >-
+    <ul>
+      <li>Programas de prácticas profesionales para estudiantes</li>
+      <li>Programas de orientación laboral para estudiantes</li>
+    </ul>
+8-5-4:
+  SOURCE_TYPE: >-
+    <ul>
+      <li>Registros Área de Recursos Humanos</li>
+      <li>Memoria anual de actividades</li>
+    </ul>
+  DATA_SOURCE: Área de Recursos Humanos
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: junio
+  area_action:
+8-8-1:
+  SOURCE_TYPE: >-
+    <ul>
+      <li>TIKA (a petición)</li>
+      <li>Área de Salud y Prevención. Sub-Área: Gestión de accidentes.</li>
+    </ul>
+  DATA_SOURCE: Área de Salud y Prevención
+  FREQ_COLL: Anual (año natural)
+  REL_CAL_POLICY: Bajo demanda a falta de establecer un procedimiento de recogida de datos
+  area_action: >-
+    <ul>
+      <li>Campañas de prevención</li>
+      <li>Análisis y evaluación de riesgos por centro/ puestos / espacios</li>
+    </ul>
+8-8-2:
+  SOURCE_TYPE: >-
+    <ul>
+      <li>Registros del Área de Salud y Prevención</li>
+      <li>Memoria de actividades</li>
+    </ul>
+  DATA_SOURCE: Área de Salud y Prevención
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: junio
+  area_action: >-
+    <ul>
+      <li>Campañas de difusión de las actividades formativas en seguridad y prevención de riesgos laborales</li>
+    </ul>
+9-5-1:
+  SOURCE_TYPE: Informe de la Oficina de Transferencia de resultados de investigación
+  DATA_SOURCE: Oficina de Transferencia de resultados de investigación
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: julio
+  area_action: >-
+    <ul>
+      <li>Fondos habilitados para financiar investigaciones.</li>
+      <li>Disponibilidad de oficinas de transferencia tecnológica o incubadoras de empresas</li>
+      <li>Acciones de apoyo a la generación de spin-off de la universidad</li>
+    </ul>
+9-5-2:
+  SOURCE_TYPE: >-
+    <ul>
+      <li>Euros presupuestados en UPO para investigación y desarrollo (I+D): Informe de la Oficina de Transferencia de resultados de investigación.</li>
+      <li>Presupuesto anual total de la UPO: Informe del Área de Gestión Presupuestaria y Tesorería.</li>
+    </ul>
+  DATA_SOURCE: Oficina de Transferencia de resultados de investigación
+  FREQ_COLL: Anual (año presupuestario)
+  REL_CAL_POLICY: diciembre
+  area_action: >-
+    <ul>
+      <li>Incremento de fondos habilitados para financiar investigaciones.</li>
+      <li>Nuevos proyectos de investigación y desarrollo aprobados</li>
+    </ul>
+9-5-3:
+  SOURCE_TYPE: Presupuesto anual desglosado del ejercicio en cuestión
+  DATA_SOURCE: Área de Gestión Presupuestaria y Tesorería Oficina de Transferencia de resultados de investigación
+  FREQ_COLL: Anual (año presupuestario)
+  REL_CAL_POLICY: diciembre
+  area_action: >-
+    <ul>
+      <li>Acciones de captación de fondos externos</li>
+      <li>Nuevos proyectos de investigación y desarrollo aprobados</li>
+    </ul>
+9-5-4:
+  SOURCE_TYPE: Presupuesto anual
+  DATA_SOURCE: Área de Gestión Presupuestaria y Tesorería
+  FREQ_COLL: Anual (año presupuestario)
+  REL_CAL_POLICY: diciembre
+  area_action: >-
+    <ul>
+      <li>Acciones de negociación de marcos presupuestarios con entidades públicas que financian la UPO</li>
+      <li>Acciones de captación de subvenciones públicas</li>
+      <li>Nuevos proyectos de investigación y desarrollo aprobados</li>
+    </ul>
+9-5-5:
+  SOURCE_TYPE: Presupuesto anual
+  DATA_SOURCE: >-
+    <ul>
+      <li>Área de Gestión Presupuestaria y Tesorería</li>
+      <li>Oficina de Transferencia de resultados de investigación</li>
+    </ul>
+  FREQ_COLL: Anual (año presupuestario)
+  REL_CAL_POLICY: diciembre
+  area_action: >-
+    <ul>
+      <li>Acciones de captación de financiación privada</li>
+      <li>Nuevos proyectos de investigación y desarrollo aprobados</li>
+    </ul>
+9-5-6:
+  SOURCE_TYPE: >-
+    <ul>
+      <li>Registro de Patentes de investigación: Informe de la OTRI</li>
+      <li>Registro de licencia de explotación Informe de la OTRI</li>
+      <li></li>
+    </ul>
+  DATA_SOURCE: Oficina de Transferencia de resultados de investigación
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: julio
+  area_action: >-
+    <ul>
+      <li>Acciones de registro de patentes</li>
+    </ul>
+10-2-1:
+  SOURCE_TYPE: >-
+    Área de RRHH
+  DATA_SOURCE: RRHH Unidad de PAS y RRHH Unidad de PDI
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: junio
+  area_action: >-
+    <ul>
+      <li>Establecer políticas de inclusión que promuevan la contratación de personas con discapacidad y la creación de un ambiente de trabajo inclusivo.</li>
+      <li>Programas de sensibilización y capacitación para la promoción de la igualdad de oportunidades y la eliminación de estereotipos y prejuicios, así como políticas de diversidad y la promoción para la inclusión de la diversidad en la cultura organizacional de la UPO</li>
+      <li>Mejoras de accesibilidad física con adecuaciones necesarias para asegurar que las personas con discapacidad puedan acceder y desempeñarse en el ambiente laboral en la UPO.</li>
+      <li>Publicación de ofertas de trabajo en portales especializados en discapacidad, así como promocionarlas en asociaciones y organizaciones que trabajen con personas con discapacidad.</li>
+      <li>Adaptaciones laborales incluyendo adaptación de horarios, modalidad de trabajo a distancia, la adaptación de tareas y puesta a disposición de equipamiento especializado.</li>
+    </ul>
+10-2-2:
+  SOURCE_TYPE: Área de Gestión Académica
+  DATA_SOURCE: Unidad de Políticas Sociales, Igualdad y Cultura. Área de Gestión Académica
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: junio
+  area_action: >-
+    <ul>
+      <li>Mejorar accesibilidad física con instalación de rampas, elevadores, baños accesibles, etc.</li>
+      <li>Ofrecer información clara y accesible sobre programas y servicios de la UPO para estudiantes con discapacidad.</li>
+      <li>Establecer procesos de admisión y matrícula accesibles para estudiantes con discapacidad.</li>
+      <li>Adaptaciones académicas: adaptación de materiales de estudio, la adaptación de evaluaciones y la posibilidad de realizar exámenes en formatos alternativos.</li>
+      <li>Servicios de apoyo y asesoramiento a estudiantes con discapacidad para ayudarles a enfrentar los retos académicos y de vida diaria.</li>
+    </ul>
+10-2-3:
+  SOURCE_TYPE: >-
+    <ul>
+      <li>Listado de edificios Plano/Documentación gráfica de la UPO. Publicado por Infraestructuras, Mantenimiento y Eficiencia Energética (IMEE)</li>
+      <li>Registro de certificados de accesibilidad en vigor</li>
+    </ul>
+  DATA_SOURCE: Infraestructuras, Mantenimiento y Eficiencia Energética (IMEE)
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: junio
+  area_action: >-
+    <ul>
+      <li>Contratación de servicios de certificación de edificios.</li>
+      <li>Presupuesto para adaptación de edificios, espacios o servicios para cumplir con normas de accesibilidad</li>
+      <li>Auditoría o diagnóstico de accesibilidad</li>
+    </ul>
+10-2-4:
+  SOURCE_TYPE: Memoria anual de actividades
+  DATA_SOURCE: Unidad de Políticas Sociales, Igualdad y Cultura
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: junio
+  area_action: >-
+    <ul>
+      <li>Actividades de divulgación del Programa.</li>
+    </ul>
+10-2-5:
+  SOURCE_TYPE: Memoria anual de actividades
+  DATA_SOURCE: Unidad de Políticas Sociales, Igualdad y Cultura
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: junio
+  area_action: >-
+    <ul>
+      <li>Firma de acuerdos y alianzas con entidades del Tercer sector locales</li>
+    </ul>
+10-2-6:
+  SOURCE_TYPE: Memoria anual de actividades
+  DATA_SOURCE: Unidad de Políticas Sociales, Igualdad y Cultura
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: junio
+  area_action: >-
+    <ul>
+      <li>Crear programas de voluntariado que involucren a estudiantes, docentes y personal de la institución.</li>
+      <li>Firma de acuerdos y alianzas con entidades del Tercer sector locales</li>
+      <li>Promocionar oportunidades de voluntariado a través de su sitio web o con charlas y eventos para concienciar.</li>
+      <li>Realizar ferias de voluntariado para conectar a las organizaciones que buscan personas voluntarias con la comunidad universitaria.</li>
+      <li>Ofrecer incentivos para fomentar el voluntariado, como créditos académicos, horas de servicio comunitario, reconocimientos o premios.</li>
+    </ul>
+11-2-1:
+  SOURCE_TYPE: >-
+    <ul>
+      <li>Número de plazas disponibles</li>
+      <li>Número de integrantes de comunidad universitaria en un año académico (promedio)</li>
+    </ul>
+  DATA_SOURCE: Área de Infraestructuras
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: diciembre
+  area_action: >-
+    <ul>
+      <li>Instalación de nuevas plazas de aparcamiento</li>
+      <li>Mantenimiento de plazas existentes</li>
+      <li>Campañas de concienciación para favorecer el uso de la bicicleta para acceder al campus</li>
+    </ul>
+11-2-2:
+  SOURCE_TYPE: Encuesta sobre movilidad realizada a la comunidad universitaria
+  DATA_SOURCE: Delegación de Campus Sostenible
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: Diciembre
+  area_action: >-
+    <ul>
+      <li>Divulgación de encuesta de movilidad</li>
+      <li>Campañas de concienciación para favorecer el uso modos de transporte sostenibles</li>
+      <li>Incremento y mantenimiento de plazas de aparcamientos de bicicletas en el campus</li>
+      <li>Negociación con administraciones públicas para mejorar medios, frecuencia y franjas horarias de transporte público</li>
+    </ul>
+11-3-1:
+  SOURCE_TYPE: Registros de Residencia Flora Tristán.
+  DATA_SOURCE: Vicerrectorado de Cultura y Políticas Sociales
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: Julio
+  area_action: >-
+    <ul>
+      <li>Divulgación de plazas libres de la Residencia para cubrirlas</li>
+      <li>Campañas de concienciación sobre beneficios de residir en la residencia Flora Tristán</li>
+      <li>Ayudas económicas para hacer más asequible el coste de la residencia</li>
+    </ul>
+11-3-2:
+  SOURCE_TYPE: Registros del programa “Alojamiento Compartido”
+  DATA_SOURCE: Unidad de Políticas Sociales, Igualdad y Cultura - Oficina del Voluntariado y Compromiso Social
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: julio
+  area_action: >-
+    <ul>
+      <li>Divulgación de existencia del Programa</li>
+      <li>Campañas de concienciación sobre beneficios participar en el programa</li>
+    </ul>
+11-7-1:
+  SOURCE_TYPE: >-
+    <ul>
+      <li>Registros y datos sobre la superficie del campus</li>
+      <li>Mapa de vegetación (cartografía)</li>
+    </ul>
+  DATA_SOURCE: Delegación de Campus sostenible
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: julio
+  area_action: >-
+    <ul>
+      <li>Creación de nuevas zonas verdes y jardines</li>
+      <li>Incorporación de vegetación o plantas en zonas donde ahora no existen</li>
+    </ul>
+12-3-1:
+  SOURCE_TYPE: >-
+    Actualmente no disponible pero se considera un indicador estratégico para el Plan de Acción próximo, que incluirá los medios necesarios para medirlo (Registros de proveedores de servicios alimentarios, Encuestas a comunidad universitaria, Herramienta calculadora de desperdicio alimentario)
+  DATA_SOURCE: Proveedores de servicios alimentarios
+  FREQ_COLL: Anual académico
+  REL_CAL_POLICY: julio
+  area_action: >-
+    <ul>
+      <li>Educación y sensibilización para reducir los desperdicios alimentarios, a través de campañas de concienciación, carteles informativos, charlas y talleres.</li>
+      <li>Planificación y gestión de la oferta alimentaria para reducir los desperdicios. Esto puede incluir ofrecer porciones más pequeñas, opciones vegetarianas y veganas, y opciones para llevar para aquellos que no puedan terminar su comida en el comedor.</li>
+      <li>Compostaje para reducir significativamente los desperdicios alimentarios. Los restos de comida pueden ser compostados y utilizados para fertilizar el suelo en los jardines del campus.</li>
+      <li>Donaciones de alimentos: En lugar de tirar la comida sobrante, se puede donar a organizaciones benéficas locales. Esto no solo reduce los desperdicios, sino que también ayuda a las personas necesitadas.</li>
+      <li>Referencia: FAO. 2022. Código de conducta voluntario para la reducción de las pérdidas y el desperdicio de alimentos. Roma. https://doi.org/10.4060/cb9433es</li>
+    </ul>
+12-4-1:
+  SOURCE_TYPE: Memoria anual del Área de Salud y prevención
+  DATA_SOURCE: Área de Salud y Prevención
+  FREQ_COLL: Anual Académico
+  REL_CAL_POLICY: julio
+  area_action: >-
+    <ul>
+      <li>Protocolos de control de residuos peligrosos.</li>
+      <li>Formación a personal sobre tratamiento y flujo de recogida de residuos peligroso.</li>
+      <li>Identificar y etiquetar adecuadamente los residuos peligrosos para que sean tratados y eliminados correctamente.</li>
+      <li>Medidas para garantizar el almacenamiento en contenedores adecuados para evitar riesgos y peligros a la salud.</li>
+      <li>Contratación de empresas gestoras especializadas para que los residuos peligrosos sean tratados y eliminados de forma adecuada y segura.</li>
+    </ul>
+12-4-2:
+  SOURCE_TYPE: Certificado que el CIC pide a la empresa que recoge la basura electrónica
+  DATA_SOURCE: CIC, pero este dato hay que sistematizarlo ya que esta disponible pero se pide actualmente de forma aleatoria y sin marco temporal específico
+  FREQ_COLL: Anual Académico
+  REL_CAL_POLICY: julio
+  area_action: >-
+    <ul>
+      <li>Protocolos de recogida de Residuos Eléctricos y Electrónicos</li>
+      <li>Formación a personal y contratas sobre tratamiento y flujo de recogida de Residuos Eléctricos y Electrónicos</li>
+      <li>Campañas de concienciación y reciclaje para comunidad universitaria</li>
+      <li>Contratación de empresas gestoras especializadas para que estos residuos sean tratados y eliminados de forma adecuada y segura</li>
+      <li></li>
+    </ul>
+12-4-3:
+  SOURCE_TYPE: A diseñar en el futuro Plan de Acción
+  DATA_SOURCE: NO EXISTE EL DATO, el reciclaje lo hace el Ayuntamiento de Dos Hermanas, que es el ayuntamiento que recoge los residuos urbanos
+  FREQ_COLL: Anual
+  REL_CAL_POLICY: Por decidir
+  area_action: >-
+    <ul>
+      <li>Sensibilización y educación de la comunidad universitaria sobre el impacto ambiental de los plásticos de un solo uso</li>
+      <li>Ofrecer alternativas más sostenibles a los plásticos de un solo uso, como bolsas de tela, botellas de agua reutilizables, cubiertos de metal, y otros productos sostenibles.</li>
+      <li>Reducción de envases de plástico en el servicio de alimentación y en las tiendas universitarias, utilizando envases más sostenibles y fomentando el consumo de alimentos y bebidas sin envases.</li>
+      <li>Campañas de concienciación y reciclaje para comunidad universitaria</li>
+      <li>Instalación de contenedores de reciclaje en lugares accesibles</li>
+      <li>Establecer una política de reducción de plásticos de un solo uso, y trabajar con proveedores y contratas para garantizar que se cumpla con la política.</li>
+    </ul>
+12-4-4:
+  SOURCE_TYPE: Registro de residuos recogidos Área de Administración de Campus. Control de reciclaje de papel y cartón.
+  DATA_SOURCE: Área de Administración de Campus. Control de reciclaje de papel y cartón.
+  FREQ_COLL: Anual natural
+  REL_CAL_POLICY: enero
+  area_action: >-
+    <ul>
+      <li>Instalación de contenedores de reciclaje en lugares accesibles.</li>
+      <li>Programas de incentivos: ofrecer descuentos o promociones especiales a las personas que lleven su papel usado a los puntos de reciclaje</li>
+      <li>Fomentar el uso de papel sostenible en el campus, que provenga de fuentes responsables y que tenga un menor impacto ambiental.</li>
+    </ul>
+12-4-5:
+  SOURCE_TYPE: A diseñar en el futuro Plan de Acción
+  DATA_SOURCE: NO EXISTE EL DATO, el reciclaje lo hace el Ayuntamiento de Dos Hermanas, que es el ayuntamiento que recoge los residuos urbanos
+  FREQ_COLL: Anual
+  REL_CAL_POLICY: Por decidir
+  area_action: >-
+    <ul>
+      <li>Campañas de concienciación y fomento del reciclaje para comunidad universitaria</li>
+      <li>Instalación de contenedores de reciclaje en lugares accesibles.</li>
+      <li>Programas de incentivos: ofrecer descuentos o promociones especiales a las personas que lleven su vidrio usado a los puntos de reciclaje</li>
+      <li>Iniciativas para fomentar la economía circular para la reutilización de botellas y envases de vidrio en lugar de desecharlos</li>
+    </ul>
+12-7-1:
+  SOURCE_TYPE: Registro de licitaciones - Área de contratación. Aún no está disponible. La metodología y medios se decidirán en el futuro Plan de Acción
+  DATA_SOURCE: Area de contratación
+  FREQ_COLL: Anual
+  REL_CAL_POLICY: Por decidir
+  area_action: >-
+    <ul>
+      <li>Inclusión de cláusulas éticas, sociales y ambientales en licitaciones</li>
+      <li>Sensibilizar a los responsables de las licitaciones y a los licitadores sobre la importancia y beneficios de incluir cláusulas sociales y medioambientales en las licitaciones públicas.</li>
+      <li>Capacitar a los responsables de las licitaciones sobre cómo incorporar cláusulas sociales y medioambientales.</li>
+      <li>Establecer requisitos específicos.</li>
+      <li>Incluir criterios de evaluación que tomen en cuenta aspectos sociales y medioambientales en la evaluación de las propuestas, puede ser una forma efectiva de promover la incorporación de estas cláusulas en las licitaciones públicas.</li>
+      <li>Revisión de cumplimiento de cláusulas éticas, sociales y ambientales en contratos en vigor</li>
+      <li></li>
+    </ul>
+13-2-1:
+  SOURCE_TYPE: Facturas de consumo de los diversos suministros de la UPO vinculados a emisiones de gases de efecto invernadero
+  DATA_SOURCE: Delegación del Rector para el Campus Sostenible
+  FREQ_COLL: Año natural
+  REL_CAL_POLICY: junio
+  area_action: >-
+    <ul>
+      <li>Establecer objetivos y desarrollar planes de acción para la reducción de emisiones en los diferentes centros/áreas de la UPO</li>
+      <li>Mejorar la eficiencia energética en edificios, equipos e instalaciones</li>
+      <li>Promover alternativas de transporte sostenible</li>
+      <li>Instalar sistemas de energía renovable</li>
+      <li>Reducir la cantidad de residuos producidos en la universidad y aumentar la tasa de reciclaje</li>
+      <li>Favorecer que la universidad compre productos y servicios sostenibles</li>
+      <li>Acciones de sensibilización para promover una cultura de sostenibilidad en toda la universidad</li>
+    </ul>
+13-3-1:
+  SOURCE_TYPE: >-
+    <ul>
+      <li>Registro de nombres de asistentes o número de personas asistentes en actividades de sensibilización sobre el cambio climático en un año</li>
+      <li>Listado de actividades que se consideran vinculadas al cambio climático en un año</li>
+    </ul>
+  DATA_SOURCE: Delegación del Rector para el Campus Sostenible
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: junio
+  area_action: >-
+    <ul>
+      <li>Organización de actividades de sensibilización</li>
+      <li>Campañas de difusión de actividades de sensibilización</li>
+    </ul>
+13-3-2:
+  SOURCE_TYPE: SCOPUS y/o DIMENSIONS
+  DATA_SOURCE: Biblioteca CRAI
+  FREQ_COLL: Anual (año natural)
+  REL_CAL_POLICY: Bajo demanda
+  area_action: >-
+    <ul>
+      <li>Creación de incentivos para los investigadores</li>
+      <li>Asignación de recursos y presupuestos para la investigación</li>
+      <li>Establecimiento de programas de becas y ayudas para los estudiantes</li>
+      <li>Establecer programas de divulgación científica</li>
+      <li>Crear y fomentar la colaboración entre investigadores</li>
+    </ul>
+13-3-3:
+  SOURCE_TYPE: Listado de la oferta académica de grado y posgrado
+  DATA_SOURCE: Delegación del Rector para el Campus Sostenible
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: junio
+  area_action: >-
+    <ul>
+      <li>Creación de nuevos estudios de grado o posgrado en los que se incluye materias/asignaturas cuyo contenido esté centrado en el estudio del cambio climático</li>
+      <li>Ampliación o reorientación de estudios de grado o posgrado ya existentes para la incorporación de materias/asignaturas centradas en el estudio del cambio climático</li>
+    </ul>
+14-2-1:
+  SOURCE_TYPE: SCOPUS y/o DIMENSIONS
+  DATA_SOURCE: Biblioteca CRAI
+  FREQ_COLL: Anual (año natural)
+  REL_CAL_POLICY: Bajo demanda
+  area_action: >-
+    <ul>
+      <li>Creación de incentivos para los investigadores</li>
+      <li>Asignación de recursos y presupuestos para la investigación</li>
+      <li>Establecimiento de programas de becas y ayudas para los estudiantes</li>
+      <li>Establecer programas de divulgación científica</li>
+      <li>Crear y fomentar la colaboración entre investigadores</li>
+    </ul>
+14-2-2:
+  SOURCE_TYPE: >-
+    Oferta Académica
+    https://www.upo.es/planificacion-academica/oferta-academica/
+    https://www.upo.es/postgrado/es/master/
+  DATA_SOURCE: Área de Planificación Académica y Ordenación Docente. CEDEP
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: Continuo, en la web
+  area_action: >-
+    <ul>
+      <li>Creación de nuevos estudios de grado o posgrado en los que se incluye materias/asignaturas cuyo contenido esté centrado en el estudio de los ecosistemas acuáticos</li>
+      <li>Ampliación o reorientación de estudios de grado o posgrado ya existentes para la incorporación de materias/asignaturas centradas en el estudio de los ecosistemas acuáticos</li>
+    </ul>
+15-5-1:
+  SOURCE_TYPE: Observaciones durante el Bioblitz anual
+  DATA_SOURCE: Delegación del Rector para el Campus Sostenible
+  FREQ_COLL: Año académico
+  REL_CAL_POLICY: Julio
+  area_action: >-
+    <ul>
+      <li>Auditorías, mapeos, diagnósticos, etc… de especies presentes en el campus</li>
+      <li>Acciones para la reintroducción de especies</li>
+      <li>Campañas de sensibilización para la protección de la biodiversidad</li>
+      <li>Creación de comité científico de vigilancia y control</li>
+      <li></li>
+    </ul>
+15-5-2:
+  SOURCE_TYPE: SCOPUS y/o DIMENSIONS
+  DATA_SOURCE: Biblioteca CRAI
+  FREQ_COLL: Anual (año natural)
+  REL_CAL_POLICY: Bajo demanda
+  area_action: >-
+    <ul>
+      <li>Creación de incentivos para los investigadores</li>
+      <li>Asignación de recursos y presupuestos para la investigación</li>
+      <li>Establecimiento de programas de becas y ayudas para los estudiantes</li>
+      <li>Establecer programas de divulgación científica</li>
+      <li>Crear y fomentar la colaboración entre investigadores</li>
+    </ul>
+15-5-3:
+  SOURCE_TYPE: >-
+    Oferta Académica
+    https://www.upo.es/planificacion-academica/oferta-academica/
+    https://www.upo.es/postgrado/es/master/
+  DATA_SOURCE: Área de Planificación Académica y Ordenación Docente. CEDEP
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: Continuo, en la web
+  area_action: >-
+    <ul>
+      <li>Creación de nuevos estudios de grado o posgrado en los que se incluye materias/asignaturas cuyo contenido esté centrado en el estudio de los ecosistemas terrestres</li>
+      <li>Ampliación o reorientación de estudios de grado o posgrado ya existentes para la incorporación de materias/asignaturas centradas en el estudio de los ecosistemas terrestres</li>
+    </ul>
+16-10-1:
+  SOURCE_TYPE: Índice DYNTRA - Dynamic Transparency Index
+  DATA_SOURCE: Área de Calidad
+  FREQ_COLL: Anual
+  REL_CAL_POLICY: Julio
+  area_action: >-
+    <ul>
+      <li>Acciones de mejora y ampliación de la información publicada en la web de la UPO</li>
+      <li>Preparación de planes de acción para mejorar los resultados obtenidos en el índice</li>
+    </ul>
+16-6-1:
+  SOURCE_TYPE: https://www.dyntra.org/poi/universidad-pablo-de-olavide/?prev=indices/universidades
+  DATA_SOURCE: Area de Calidad
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: julio
+  area_action: >-
+    <ul>
+      <li>Establecer nuevos canales de participación y representación.</li>
+      <li>Fomentar la formación y la capacitación para participar de manera efectiva en los órganos de gobierno y en otros procesos de participación y representación.</li>
+      <li>Reconocer y valorar la participación con incentivos y reconocimientos específicos para aquellos que participen de manera activa y comprometida.</li>
+      <li>Fomentar la diversidad y la inclusión: promoviendo un ambiente inclusivo y respetuoso.</li>
+    </ul>
+16-7-1:
+  SOURCE_TYPE: >-
+    <ul>
+      <li>Registros de la Defensoría Universitaria.</li>
+      <li>Informe anual de actividades de la Defensoría Universitaria</li>
+    </ul>
+  DATA_SOURCE: Defensoría Universitaria
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: junio
+  area_action: >-
+    <ul>
+      <li>Campañas de difusión y comunicación sobre el servicio de defensoría universitaria.</li>
+    </ul>
+17-2-1:
+  SOURCE_TYPE: Registros Área de Relaciones Internacionales y Cooperación
+  DATA_SOURCE: Área de Relaciones Internacionales y Cooperación (ARIC)
+  FREQ_COLL: Anual (año académico)
+  REL_CAL_POLICY: enero
+  area_action: >-
+    <ul>
+      <li>Campañas y acciones de captación de fondos para proyectos de cooperación</li>
+    </ul>
+17-6-1:
+  SOURCE_TYPE: Registros Área de Relaciones Internacionales y Cooperación
+  DATA_SOURCE: Área de Relaciones Internacionales y Cooperación (ARIC)
+  FREQ_COLL: Anual (año natural)
+  REL_CAL_POLICY: enero
+  area_action: >-
+    <ul>
+      <li>Campañas y acciones para fomentar la participación en proyectos de cooperación</li>
+    </ul>

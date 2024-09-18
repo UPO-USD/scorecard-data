@@ -11,8 +11,8 @@ SDG_INDICATOR: >-
   global_indicators.1-4-1-title
 
 # optional
-CONTACT_ORGANISATION: >-
-  UPO
+# CONTACT_ORGANISATION: >-
+#   UPO
 
 # optional
 ORGANISATION_UNIT: >-
@@ -40,21 +40,31 @@ UNIT_MEASURE: >-
 COVERAGE: >-
 
 # optional
-indicator_level: >-
-  metadata_values.result
+# indicator_level: >-
+#   metadata_values.result
 
 # optional
-indicator_type: >-
-  metadata_values.interest_groups
+# indicator_type: >-
+#   metadata_values.interest_groups
 
 # optional
-area_action: >-
-  metadata_values.grants_student_support
+area_action: meta.1-4-1.area_action
+# optional
+# five_ps: >-
+#   metadata_values.people
 
 # optional
-five_ps: >-
-  metadata_values.people
+# main_activity: >-
+#   metadata_values.management
 
-# optional
-main_activity: >-
-  metadata_values.management
+SOURCE_TYPE: >-
+  meta.1-4-1.SOURCE_TYPE
+
+DATA_SOURCE: >-
+  meta.1-4-1.DATA_SOURCE
+
+FREQ_COLL: >-
+  meta.1-4-1.FREQ_COLL
+
+REL_CAL_POLICY: >-
+  meta.1-4-1.REL_CAL_POLICY

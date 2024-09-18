@@ -14,8 +14,8 @@ SDG_INDICATOR: >-
 SDG_INDICATOR_INFO: >-
 
 # optional
-CONTACT_ORGANISATION: >-
-  UPO
+# CONTACT_ORGANISATION: >-
+#   UPO
 
 # optional
 ORGANISATION_UNIT: >-
@@ -31,21 +31,31 @@ UNIT_MEASURE: >-
 COVERAGE: >-
 
 # optional
-indicator_level: >-
-  metadata_values.result
+# indicator_level: >-
+#   metadata_values.result
 
 # optional
-indicator_type: >-
-  metadata_values.institutional_policy
+# indicator_type: >-
+#   metadata_values.institutional_policy
 
 # optional
-area_action: >-
-  metadata_values.climate_action
+area_action: meta.13-2-1.area_action
+# optional
+# five_ps: >-
+#   metadata_values.planet
 
 # optional
-five_ps: >-
-  metadata_values.planet
+# main_activity: >-
+#   metadata_values.management
 
-# optional
-main_activity: >-
-  metadata_values.management
+SOURCE_TYPE: >-
+  meta.13-2-1.SOURCE_TYPE
+
+DATA_SOURCE: >-
+  meta.13-2-1.DATA_SOURCE
+
+FREQ_COLL: >-
+  meta.13-2-1.FREQ_COLL
+  
+REL_CAL_POLICY: >-
+  meta.13-2-1.REL_CAL_POLICY

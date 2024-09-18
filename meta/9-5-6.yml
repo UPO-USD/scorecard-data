@@ -14,8 +14,8 @@ SDG_INDICATOR: >-
 SDG_INDICATOR_INFO: >-
 
 # optional
-CONTACT_ORGANISATION: >-
-  UPO
+# CONTACT_ORGANISATION: >-
+#   UPO
 
 # optional
 ORGANISATION_UNIT: >-
@@ -31,21 +31,31 @@ UNIT_MEASURE: >-
 COVERAGE: >-
 
 # optional
-indicator_level: >-
-  metadata_values.result
+# indicator_level: >-
+#   metadata_values.result
 
 # optional
-indicator_type: >-
-  metadata_values.teaching_research
+# indicator_type: >-
+#   metadata_values.teaching_research
 
 # optional
-area_action: >-
-  metadata_values.research_capacity
+area_action: meta.9-5-6.area_action
+# optional
+# five_ps: >-
+#   metadata_values.prosperity
 
 # optional
-five_ps: >-
-  metadata_values.prosperity
+# main_activity: >-
+#   metadata_values.community_services
 
-# optional
-main_activity: >-
-  metadata_values.community_services
+SOURCE_TYPE: >-
+  meta.9-5-6.SOURCE_TYPE
+
+DATA_SOURCE: >-
+  meta.9-5-6.DATA_SOURCE
+
+FREQ_COLL: >-
+  meta.9-5-6.FREQ_COLL
+  
+REL_CAL_POLICY: >-
+  meta.9-5-6.REL_CAL_POLICY
