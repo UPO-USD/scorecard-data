@@ -16,8 +16,33 @@
             "title": "Year"
           },
           {
-            "name": "Value",
+            "name": "Study_level",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Degree and Double Degree",
+                "Master",
+                "Doctorate",
+                ""
+              ]
+            },
+            "title": "Study level"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Momen",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]

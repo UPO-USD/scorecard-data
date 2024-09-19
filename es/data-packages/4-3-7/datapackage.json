@@ -16,8 +16,33 @@
             "title": "Año"
           },
           {
-            "name": "Value",
+            "name": "Study_level",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Grado y Doble Grado",
+                "Master",
+                "Doctorado",
+                ""
+              ]
+            },
+            "title": "Nivel de estudios"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]

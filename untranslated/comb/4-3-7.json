@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":["2022-2023","2022-2023","2022-2023","2022-2023","2022-2023","2022-2023"],"Study_level":["degree_and_double","degree_and_double","master","master","doctorate","doctorate"],"Sex":["men","women","men","women","men","women"],"Value":[54.1,48.0,66.79,63.32,59.67,58.56]},"edges":{"From":["Study_level"],"To":["Sex"]}}

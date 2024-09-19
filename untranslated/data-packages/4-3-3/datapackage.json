@@ -21,6 +21,7 @@
               "enum": [
                 "degree_and_double",
                 "master",
+                "doctorate",
                 ""
               ]
             }
@@ -32,6 +33,7 @@
               "enum": [
                 "men",
                 "women",
+                "woman",
                 ""
               ]
             }

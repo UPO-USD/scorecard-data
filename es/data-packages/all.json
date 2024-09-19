@@ -9,7 +9,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "mac-roman",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -151,7 +151,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -165,7 +165,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "iso8859-1",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -175,11 +175,9 @@
           },
           {
             "name": "Fund",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "Público",
-                "Privado",
                 ""
               ]
             },
@@ -191,7 +189,6 @@
             "constraints": {
               "enum": [
                 "Porcentaje del presupuesto anual de la UPO dedicado a I+D",
-                "Porcentaje de ingresos de I+D derivados de fondos externos respecto al presupuesto total de la universidad destinado a I+D",
                 ""
               ]
             },
@@ -223,7 +220,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -277,6 +274,7 @@
                 "Grado",
                 "Doble Grado",
                 "Master",
+                "Doctorado",
                 ""
               ]
             },
@@ -620,7 +618,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -740,7 +738,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -754,7 +752,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "gb2312",
       "schema": {
         "fields": [
           {
@@ -826,7 +824,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "iso8859-1",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -836,11 +834,9 @@
           },
           {
             "name": "Fund",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "Público",
-                "Privado",
                 ""
               ]
             },
@@ -852,7 +848,6 @@
             "constraints": {
               "enum": [
                 "Porcentaje del presupuesto anual de la UPO dedicado a I+D",
-                "Porcentaje de ingresos de I+D derivados de fondos externos respecto al presupuesto total de la universidad destinado a I+D",
                 ""
               ]
             },
@@ -914,6 +909,7 @@
                 "Grado",
                 "Doble Grado",
                 "Master",
+                "Doctorado",
                 ""
               ]
             },
@@ -982,7 +978,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -1116,7 +1112,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "iso8859-1",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -1126,11 +1122,9 @@
           },
           {
             "name": "Fund",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "Público",
-                "Privado",
                 ""
               ]
             },
@@ -1142,7 +1136,6 @@
             "constraints": {
               "enum": [
                 "Porcentaje del presupuesto anual de la UPO dedicado a I+D",
-                "Porcentaje de ingresos de I+D derivados de fondos externos respecto al presupuesto total de la universidad destinado a I+D",
                 ""
               ]
             },
@@ -1164,7 +1157,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "gb2312",
       "schema": {
         "fields": [
           {
@@ -1270,7 +1263,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -1294,7 +1287,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -1342,7 +1335,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -1414,7 +1407,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -1437,8 +1430,33 @@
             "title": "Año"
           },
           {
-            "name": "Value",
+            "name": "Study_level",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Grado y Doble Grado",
+                "Master",
+                "Doctorado",
+                ""
+              ]
+            },
+            "title": "Nivel de estudios"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -1467,6 +1485,7 @@
               "enum": [
                 "Grado y Doble Grado",
                 "Master",
+                "Doctorado",
                 ""
               ]
             },
@@ -1479,6 +1498,7 @@
               "enum": [
                 "Hombres",
                 "Mujeres",
+                "woman",
                 ""
               ]
             },
@@ -1656,7 +1676,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "iso8859-1",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -1666,11 +1686,9 @@
           },
           {
             "name": "Fund",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "Público",
-                "Privado",
                 ""
               ]
             },
@@ -1682,7 +1700,6 @@
             "constraints": {
               "enum": [
                 "Porcentaje del presupuesto anual de la UPO dedicado a I+D",
-                "Porcentaje de ingresos de I+D derivados de fondos externos respecto al presupuesto total de la universidad destinado a I+D",
                 ""
               ]
             },
@@ -1720,6 +1737,7 @@
                 "Grado",
                 "Doble Grado",
                 "Master",
+                "Doctorado",
                 ""
               ]
             },
@@ -1846,8 +1864,20 @@
             "title": "Año"
           },
           {
-            "name": "Value",
+            "name": "Units",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Kg totales de residuos peligrosos generados×año",
+                "Kg de residuos peligrosos generados/(pax×año)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -1895,7 +1925,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -1967,7 +1997,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -2111,7 +2141,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -2521,7 +2551,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "iso8859-1",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {

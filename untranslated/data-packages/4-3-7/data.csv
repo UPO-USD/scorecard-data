@@ -1,1 +1,7 @@
-Year,Value
+Year,Study_level,Sex,Value
+2022-2023,degree_and_double,men,54.1
+2022-2023,degree_and_double,women,48.0
+2022-2023,master,men,66.79
+2022-2023,master,women,63.32
+2022-2023,doctorate,men,59.67
+2022-2023,doctorate,women,58.56

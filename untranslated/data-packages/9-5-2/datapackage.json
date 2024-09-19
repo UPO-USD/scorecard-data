@@ -16,11 +16,9 @@
           },
           {
             "name": "Fund",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "public",
-                "private",
                 ""
               ]
             }
@@ -31,7 +29,6 @@
             "constraints": {
               "enum": [
                 "percentage_total_rd",
-                "percentage_rd_external_funds",
                 ""
               ]
             }

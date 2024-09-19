@@ -151,7 +151,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -175,11 +175,9 @@
           },
           {
             "name": "Fund",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "Public",
-                "Private",
                 ""
               ]
             },
@@ -191,7 +189,6 @@
             "constraints": {
               "enum": [
                 "Percentage of the annual budget of the UPO dedicated to R&D",
-                "Percentage of R&D income derived from external funds with respect to the total budget of the university allocated to R&D",
                 ""
               ]
             },
@@ -223,7 +220,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -277,6 +274,7 @@
                 "Degree",
                 "Double Degree",
                 "Master",
+                "Doctorate",
                 ""
               ]
             },
@@ -406,7 +404,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "mac-roman",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -620,7 +618,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -740,7 +738,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -836,11 +834,9 @@
           },
           {
             "name": "Fund",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "Public",
-                "Private",
                 ""
               ]
             },
@@ -852,7 +848,6 @@
             "constraints": {
               "enum": [
                 "Percentage of the annual budget of the UPO dedicated to R&D",
-                "Percentage of R&D income derived from external funds with respect to the total budget of the university allocated to R&D",
                 ""
               ]
             },
@@ -914,6 +909,7 @@
                 "Degree",
                 "Double Degree",
                 "Master",
+                "Doctorate",
                 ""
               ]
             },
@@ -982,7 +978,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -1126,11 +1122,9 @@
           },
           {
             "name": "Fund",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "Public",
-                "Private",
                 ""
               ]
             },
@@ -1142,7 +1136,6 @@
             "constraints": {
               "enum": [
                 "Percentage of the annual budget of the UPO dedicated to R&D",
-                "Percentage of R&D income derived from external funds with respect to the total budget of the university allocated to R&D",
                 ""
               ]
             },
@@ -1270,7 +1263,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -1294,7 +1287,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -1342,7 +1335,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -1414,7 +1407,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -1437,8 +1430,33 @@
             "title": "Year"
           },
           {
-            "name": "Value",
+            "name": "Study_level",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Degree and Double Degree",
+                "Master",
+                "Doctorate",
+                ""
+              ]
+            },
+            "title": "Study level"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Momen",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -1467,6 +1485,7 @@
               "enum": [
                 "Degree and Double Degree",
                 "Master",
+                "Doctorate",
                 ""
               ]
             },
@@ -1479,6 +1498,7 @@
               "enum": [
                 "Men",
                 "Momen",
+                "woman",
                 ""
               ]
             },
@@ -1666,11 +1686,9 @@
           },
           {
             "name": "Fund",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "Public",
-                "Private",
                 ""
               ]
             },
@@ -1682,7 +1700,6 @@
             "constraints": {
               "enum": [
                 "Percentage of the annual budget of the UPO dedicated to R&D",
-                "Percentage of R&D income derived from external funds with respect to the total budget of the university allocated to R&D",
                 ""
               ]
             },
@@ -1720,6 +1737,7 @@
                 "Degree",
                 "Double Degree",
                 "Master",
+                "Doctorate",
                 ""
               ]
             },
@@ -1846,8 +1864,20 @@
             "title": "Year"
           },
           {
-            "name": "Value",
+            "name": "Units",
             "type": "string",
+            "constraints": {
+              "enum": [
+                "Total kg of hazardous waste generated×year",
+                "Kg of hazardous waste generated/(pax×year)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -1895,7 +1925,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -1967,7 +1997,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -2111,7 +2141,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
