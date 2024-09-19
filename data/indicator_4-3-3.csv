@@ -5,3 +5,12 @@ Year,Study_level,Sex,Value
 2021-2022,degree_and_double,women,912
 2021-2022,master,men,417
 2021-2022,master,women,678
+2022-2023,degree_and_double,,1340
+2022-2023,master,,1002
+2022-2023,doctorate,,94
+2022-2023,degree_and_double,men,518
+2022-2023,degree_and_double,women,822
+2022-2023,master,men,420
+2022-2023,master,women,582
+2022-2023,doctorate,men,58
+2022-2023,doctorate,woman,36
