@@ -1036,7 +1036,6 @@
       <li>Establecer requisitos específicos.</li>
       <li>Incluir criterios de evaluación que tomen en cuenta aspectos sociales y medioambientales en la evaluación de las propuestas, puede ser una forma efectiva de promover la incorporación de estas cláusulas en las licitaciones públicas.</li>
       <li>Revisión de cumplimiento de cláusulas éticas, sociales y ambientales en contratos en vigor</li>
-      <li></li>
     </ul>
 13-2-1:
   SOURCE_TYPE: Facturas de consumo de los diversos suministros de la UPO vinculados a emisiones de gases de efecto invernadero
@@ -1200,6 +1199,15 @@
       <li>Campañas y acciones de captación de fondos para proyectos de cooperación</li>
     </ul>
 17-6-1:
+  SOURCE_TYPE: Registros Área de Relaciones Internacionales y Cooperación
+  DATA_SOURCE: Área de Relaciones Internacionales y Cooperación (ARIC)
+  FREQ_COLL: Anual (año natural)
+  REL_CAL_POLICY: enero
+  area_action: >-
+    <ul>
+      <li>Campañas y acciones para fomentar la participación en proyectos de cooperación</li>
+    </ul>
+17-6-2:
   SOURCE_TYPE: Registros Área de Relaciones Internacionales y Cooperación
   DATA_SOURCE: Área de Relaciones Internacionales y Cooperación (ARIC)
   FREQ_COLL: Anual (año natural)

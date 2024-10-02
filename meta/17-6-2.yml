@@ -8,7 +8,7 @@ SDG_TARGET: >-
 
 # required
 SDG_INDICATOR: >-
-  global_indicators.17-6-1-title
+  global_indicators.17-6-2-title
 
 # optional
 SDG_INDICATOR_INFO: >-
@@ -25,7 +25,7 @@ STAT_CONC_DEF: |
 
 # optional
 UNIT_MEASURE: >-
-  units.total_number
+  units.percentage
 
 # optional
 COVERAGE: >-
@@ -39,7 +39,7 @@ COVERAGE: >-
 #   metadata_values.interest_groups
 
 # optional
-area_action: meta.17-6-1.area_action
+area_action: meta.17-6-2.area_action
 # optional
 # five_ps: >-
 #   metadata_values.partnerships
@@ -49,13 +49,13 @@ area_action: meta.17-6-1.area_action
 #   metadata_values.community_services
 
 SOURCE_TYPE: >-
-  meta.17-6-1.SOURCE_TYPE
+  meta.17-6-2.SOURCE_TYPE
 
 DATA_SOURCE: >-
-  meta.17-6-1.DATA_SOURCE
+  meta.17-6-2.DATA_SOURCE
 
 FREQ_COLL: >-
-  meta.17-6-1.FREQ_COLL
+  meta.17-6-2.FREQ_COLL
 
 REL_CAL_POLICY: >-
-  meta.17-6-1.REL_CAL_POLICY
+  meta.17-6-2.REL_CAL_POLICY
