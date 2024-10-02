@@ -1,3 +1,7 @@
-Year,Value
-2021-2022,1.08
-2022-2023,0.80
+Year,Study_level,Sex,Series,Value
+2021-2022,,,Total,1.08
+2022-2023,,,Total,0.80
+2022-2023,degree,men,disaggregated,0.99
+2022-2023,doctorate,men,disaggregated,0.74
+2022-2023,degree,women,disaggregated,0.72
+2022-2023,doctorate,women,disaggregated,0.63
