@@ -15,25 +15,6 @@
             "type": "string"
           },
           {
-            "name": "Fund",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "percentage_total_rd",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }

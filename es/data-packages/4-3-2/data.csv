@@ -1,7 +1,13 @@
-Year,Nivel de estudios,Value
-2021-2022,Grado,2133
-2021-2022,Master,1184
-2021-2022,Doctorado,207
-2022-2023,Grado,2065
-2022-2023,Master,1103
-2022-2023,Doctorado,185
+Year,Nivel de estudios,Sexo,Series,Value
+2021-2022,Grado,,Total,2133
+2021-2022,Master,,Total,1184
+2021-2022,Doctorado,,Total,207
+2022-2023,Grado,,Total,2065
+2022-2023,Grado,Hombres,Desagregado,779
+2022-2023,Grado,Mujeres,Desagregado,1286
+2022-2023,Master,,Total,1103
+2022-2023,Master,Hombres,Desagregado,420
+2022-2023,Master,Mujeres,Desagregado,582
+2022-2023,Doctorado,,Total,185
+2022-2023,Doctorado,Hombres,Desagregado,58
+2022-2023,Doctorado,Mujeres,Desagregado,36

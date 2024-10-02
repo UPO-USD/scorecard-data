@@ -30,6 +30,30 @@
             "title": "University members"
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Disaggregated",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -37,6 +61,30 @@
         ]
       },
       "title": "Percentage of UPO personnel with a permanent employment contract or civil servants"
+    },
+    {
+      "path": "17-6-2/data.csv",
+      "name": "17-6-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Participants in mobility programs."
     },
     {
       "path": "16-6-1/data.csv",
@@ -107,7 +155,7 @@
             "constraints": {
               "enum": [
                 "Men",
-                "Momen",
+                "Women",
                 ""
               ]
             },
@@ -172,27 +220,6 @@
             "name": "Year",
             "type": "string",
             "title": "Year"
-          },
-          {
-            "name": "Fund",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Fund type"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage of the annual budget of the UPO dedicated to R&D",
-                ""
-              ]
-            },
-            "title": "Series"
           },
           {
             "name": "Value",
@@ -346,7 +373,7 @@
             "constraints": {
               "enum": [
                 "Men",
-                "Momen",
+                "Women",
                 ""
               ]
             },
@@ -550,7 +577,7 @@
             "constraints": {
               "enum": [
                 "Men",
-                "Momen",
+                "Women",
                 ""
               ]
             },
@@ -713,6 +740,31 @@
             "title": "Year"
           },
           {
+            "name": "Study_level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Degree",
+                "Master",
+                "Doctorate",
+                ""
+              ]
+            },
+            "title": "Study level"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Disaggregated",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -778,7 +830,7 @@
             "constraints": {
               "enum": [
                 "Men",
-                "Momen",
+                "Women",
                 ""
               ]
             },
@@ -833,27 +885,6 @@
             "title": "Year"
           },
           {
-            "name": "Fund",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Fund type"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage of the annual budget of the UPO dedicated to R&D",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -861,30 +892,6 @@
         ]
       },
       "title": "Percentage of Income from R&D derived of external funds over the total budget of the university allocated to R&D"
-    },
-    {
-      "path": "17-16-1/data.csv",
-      "name": "17-16-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "17-16-1"
     },
     {
       "path": "13-3-3/data.csv",
@@ -953,6 +960,30 @@
             "title": "Study level"
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Disaggregated",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -1006,7 +1037,7 @@
             "constraints": {
               "enum": [
                 "Men",
-                "Momen",
+                "Women",
                 ""
               ]
             },
@@ -1183,7 +1214,7 @@
             "constraints": {
               "enum": [
                 "Men",
-                "Momen",
+                "Women",
                 ""
               ]
             },
@@ -1219,7 +1250,7 @@
             "constraints": {
               "enum": [
                 "Men",
-                "Momen",
+                "Women",
                 ""
               ]
             },
@@ -1260,6 +1291,30 @@
             "name": "Year",
             "type": "string",
             "title": "Year"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Disaggregated",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -1340,7 +1395,7 @@
           }
         ]
       },
-      "title": "Percentage of people who participate in international cooperation and development activities with respect to the total university community"
+      "title": "People who participate in international cooperation and development activities"
     },
     {
       "path": "7-2-1/data.csv",
@@ -1406,6 +1461,30 @@
             "title": "Year"
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Disaggregated",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -1448,7 +1527,7 @@
             "constraints": {
               "enum": [
                 "Men",
-                "Momen",
+                "Women",
                 ""
               ]
             },
@@ -1497,7 +1576,7 @@
             "constraints": {
               "enum": [
                 "Men",
-                "Momen",
+                "Women",
                 "woman",
                 ""
               ]
@@ -1575,6 +1654,30 @@
             "name": "Year",
             "type": "string",
             "title": "Year"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Disaggregated",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
@@ -1683,27 +1786,6 @@
             "name": "Year",
             "type": "string",
             "title": "Year"
-          },
-          {
-            "name": "Fund",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Fund type"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percentage of the annual budget of the UPO dedicated to R&D",
-                ""
-              ]
-            },
-            "title": "Series"
           },
           {
             "name": "Value",
@@ -2049,7 +2131,7 @@
             "constraints": {
               "enum": [
                 "Men",
-                "Momen",
+                "Women",
                 ""
               ]
             },
@@ -2164,6 +2246,42 @@
             "title": "Year"
           },
           {
+            "name": "Study_level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Degree",
+                "Doctorate",
+                ""
+              ]
+            },
+            "title": "Study level"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Disaggregated",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -2229,7 +2347,7 @@
             "constraints": {
               "enum": [
                 "Men",
-                "Momen",
+                "Women",
                 ""
               ]
             },
@@ -2397,7 +2515,7 @@
             "constraints": {
               "enum": [
                 "Men",
-                "Momen",
+                "Women",
                 ""
               ]
             },
@@ -2488,6 +2606,30 @@
             "title": "Year"
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Disaggregated",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -2565,7 +2707,7 @@
             "constraints": {
               "enum": [
                 "Men",
-                "Momen",
+                "Women",
                 ""
               ]
             },

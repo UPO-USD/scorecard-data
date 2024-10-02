@@ -1,7 +1,13 @@
-Year,Study level,Value
-2021-2022,Degree,2133
-2021-2022,Master,1184
-2021-2022,Doctorate,207
-2022-2023,Degree,2065
-2022-2023,Master,1103
-2022-2023,Doctorate,185
+Year,Study level,Sex,Series,Value
+2021-2022,Degree,,Total,2133
+2021-2022,Master,,Total,1184
+2021-2022,Doctorate,,Total,207
+2022-2023,Degree,,Total,2065
+2022-2023,Degree,Men,Disaggregated,779
+2022-2023,Degree,Women,Disaggregated,1286
+2022-2023,Master,,Total,1103
+2022-2023,Master,Men,Disaggregated,420
+2022-2023,Master,Women,Disaggregated,582
+2022-2023,Doctorate,,Total,185
+2022-2023,Doctorate,Men,Disaggregated,58
+2022-2023,Doctorate,Women,Disaggregated,36

@@ -16,27 +16,6 @@
             "title": "Año"
           },
           {
-            "name": "Fund",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Tipo de fondo"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Porcentaje del presupuesto anual de la UPO dedicado a I+D",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"

@@ -16,6 +16,31 @@
             "title": "Año"
           },
           {
+            "name": "Study_level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Grado",
+                "Master",
+                "Doctorado",
+                ""
+              ]
+            },
+            "title": "Nivel de estudios"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Desagregado",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

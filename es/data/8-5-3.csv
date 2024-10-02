@@ -1,3 +1,5 @@
-Year,Value
-2021-2022,41.29
-2022-2023,49.33
+Year,Nivel de estudios,Series,Value
+2021-2022,,Total,41.29
+2022-2023,Grado,Desagregado,49.33
+2022-2023,Master,Desagregado,67.55
+2022-2023,Doctorado,Desagregado,71.07

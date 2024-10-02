@@ -1,3 +1,7 @@
-Year,Value
-2021-2022,1.08
-2022-2023,0.8
+Year,Nivel de estudios,Sexo,Series,Value
+2021-2022,,,Total,1.08
+2022-2023,,,Total,0.8
+2022-2023,Grado,Hombres,Desagregado,0.99
+2022-2023,Doctorado,Hombres,Desagregado,0.74
+2022-2023,Grado,Mujeres,Desagregado,0.72
+2022-2023,Doctorado,Mujeres,Desagregado,0.63

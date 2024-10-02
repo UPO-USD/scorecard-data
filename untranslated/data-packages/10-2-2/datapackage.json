@@ -15,6 +15,39 @@
             "type": "string"
           },
           {
+            "name": "Study_level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "degree",
+                "doctorate",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "men",
+                "women",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "disaggregated",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

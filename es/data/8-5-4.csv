@@ -1,5 +1,13 @@
-Year,Miembros de la universidad,Value
-2021-2022,Personal de administración y servicios,94.8
-2021-2022,Personal docente e investigador,33.7
-2022-2023,Personal de administración y servicios,93.3
-2022-2023,Personal docente e investigador,35.6
+Year,Miembros de la universidad,Sexo,Series,Value
+2021-2022,Personal de administración y servicios,,Total,94.8
+2021-2022,Personal de administración y servicios,Hombres,Desagregado,32.37
+2021-2022,Personal de administración y servicios,Mujeres,Desagregado,62.43
+2021-2022,Personal docente e investigador,,Total,33.7
+2021-2022,Personal docente e investigador,Hombres,Desagregado,19.83
+2021-2022,Personal docente e investigador,Mujeres,Desagregado,13.86
+2022-2023,Personal de administración y servicios,,Total,93.3
+2022-2023,Personal de administración y servicios,Hombres,Desagregado,31.1
+2022-2023,Personal de administración y servicios,Mujeres,Desagregado,62.2
+2022-2023,Personal docente e investigador,,Total,14.92
+2022-2023,Personal docente e investigador,Hombres,Desagregado,20.71
+2022-2023,Personal docente e investigador,Mujeres,Desagregado,62.2

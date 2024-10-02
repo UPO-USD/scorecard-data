@@ -1,2 +1,4 @@
-Year,Value
-2022-2023,4
+Year,Sex,Series,Value
+2022-2023,,Total,4
+2022-2023,Men,Disaggregated,1
+2022-2023,Women,Disaggregated,3

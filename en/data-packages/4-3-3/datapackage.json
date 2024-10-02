@@ -34,7 +34,7 @@
             "constraints": {
               "enum": [
                 "Men",
-                "Momen",
+                "Women",
                 "woman",
                 ""
               ]

@@ -1,3 +1,5 @@
-Year,Value
-2021-2022,122
-2022-2023,126
+Year,Sexo,Series,Value
+2021-2022,,Total,122
+2022-2023,,Total,126
+2022-2023,Hombres,Desagregado,60
+2022-2023,Mujeres,Desagregado,66

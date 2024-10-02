@@ -1,1 +1,1 @@
-{"data":{"Year":["2021-2022","2022-2023"],"Value":[122,126]},"edges":[]}
+{"data":{"Year":["2021-2022","2022-2023","2022-2023","2022-2023"],"Sex":[null,null,"Men","Women"],"Series":["Total","Total","Disaggregated","Disaggregated"],"Value":[122,126,60,66]},"edges":[]}
