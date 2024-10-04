@@ -40,6 +40,18 @@
             "title": "Sex"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Disaggregated",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

@@ -1,1 +1,1 @@
-{"data":{"Year":["2021-2022","2022-2023","2022-2023","2022-2023"],"Study level":[null,"Degree","Master","Doctorate"],"Series":["Total","Disaggregated","Disaggregated","Disaggregated"],"Value":[41.29,49.33,67.55,71.07]},"edges":[]}
+{"data":{"Year":["2021-2022","2022-2023","2022-2023","2022-2023"],"Study level":["Degree","Degree","Master","Doctorate"],"Series":["Disaggregated","Disaggregated","Disaggregated","Disaggregated"],"Value":[41.29,49.33,67.55,71.07]},"edges":[]}

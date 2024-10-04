@@ -15,6 +15,27 @@
             "type": "string"
           },
           {
+            "name": "Ethical_clauses",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "includes_criteria",
+                "includes_special_conditions",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "disaggregated",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }

@@ -1,9 +1,11 @@
-Year,University members,Sex,Value
-2021-2022,Administrative and service personnel,Men,0.0
-2021-2022,Administrative and service personnel,Women,0.075
-2021-2022,Teaching and research personnel,Men,0.006
-2021-2022,Teaching and research personnel,Women,0.001
-2022-2023,Administrative and service personnel,Men,0.0
-2022-2023,Administrative and service personnel,Women,1.88
-2022-2023,Teaching and research personnel,Men,0.47
-2022-2023,Teaching and research personnel,Women,0.19
+Year,University members,Sex,Series,Value
+2021-2022,,,Total,0.7
+2021-2022,Administrative and service personnel,Men,Disaggregated,0.0
+2021-2022,Administrative and service personnel,Women,Disaggregated,0.75
+2021-2022,Teaching and research personnel,Men,Disaggregated,0.6
+2021-2022,Teaching and research personnel,Women,Disaggregated,0.1
+2022-2023,,,Total,0.62
+2022-2023,Administrative and service personnel,Men,Disaggregated,0.0
+2022-2023,Administrative and service personnel,Women,Disaggregated,1.88
+2022-2023,Teaching and research personnel,Men,Disaggregated,0.47
+2022-2023,Teaching and research personnel,Women,Disaggregated,0.19

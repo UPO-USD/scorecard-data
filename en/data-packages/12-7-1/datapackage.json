@@ -16,6 +16,29 @@
             "title": "Year"
           },
           {
+            "name": "Ethical_clauses",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Incluyen criterios de adjudicación sostenibles",
+                "Incluyen condiciones especiales de ejecución sostenibles",
+                ""
+              ]
+            },
+            "title": "Cláusulas éticas"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Disaggregated",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
