@@ -709,7 +709,7 @@
   DATA_SOURCE: Área de Recursos Humanos
   FREQ_COLL: Anual (año académico)
   REL_CAL_POLICY: junio
-  area_action:
+  area_action: ""
 8-8-1:
   SOURCE_TYPE: >-
     <ul>
@@ -1024,7 +1024,7 @@
       <li>Iniciativas para fomentar la economía circular para la reutilización de botellas y envases de vidrio en lugar de desecharlos</li>
     </ul>
 12-7-1:
-  SOURCE_TYPE: Registro de licitaciones - Área de contratación. Aún no está disponible. La metodología y medios se decidirán en el futuro Plan de Acción
+  SOURCE_TYPE: Registro de licitaciones - Área de contratación.
   DATA_SOURCE: Area de contratación
   FREQ_COLL: Anual
   REL_CAL_POLICY: Por decidir

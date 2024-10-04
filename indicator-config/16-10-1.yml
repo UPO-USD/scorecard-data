@@ -1,33 +1,33 @@
 # optional
-composite_breakdown_label: ''
+composite_breakdown_label: ""
 # required
 computation_units: units.percentage
 # optional
-copyright: ''
+copyright: ""
 # optional
-data_footnote: ''
+data_footnote: ""
 # required. Specify whether the indicator is statistical
 data_non_statistical: false
 # optional
-data_notice_class: ''
+data_notice_class: ""
 # optional
-data_notice_heading: ''
+data_notice_heading: ""
 # optional
-data_notice_text: ''
+data_notice_text: ""
 # optional. Show map tab if configured
 data_show_map: false
 # optional
 data_start_values: []
 # optional
-embedded_feature_footer: ''
+embedded_feature_footer: ""
 # optional. Required if using embedded feature and not using embedded_feature_url
-embedded_feature_html: ''
+embedded_feature_html: ""
 # optional
-embedded_feature_tab_title: ''
+embedded_feature_tab_title: ""
 # optional
-embedded_feature_title: ''
+embedded_feature_title: ""
 # optional. Required if using embedded feature and not using embedded_feature_html
-embedded_feature_url: ''
+embedded_feature_url: ""
 # optional
 expected_disaggregations: []
 # optional
@@ -35,7 +35,7 @@ graph_annotations: []
 # optional
 graph_limits: []
 # optional
-graph_stacked_disaggregation: ''
+graph_stacked_disaggregation: ""
 graph_target_lines:
   - value: 90
 # required
@@ -45,28 +45,28 @@ graph_titles: []
 # required
 graph_type: bar
 # optional. Alternate name for the indicator if it's name is not sufficiently precise
-indicator_available: ''
+indicator_available: ""
 # required
 indicator_name: global_indicators.16-10-1-title
 # required
-indicator_number: '16.10.1'
+indicator_number: "16.10.1"
 # optional
-national_geographical_coverage: ''
+national_geographical_coverage: ""
 # optional
-page_content: ''
+page_content: ""
 # optional
-permalink: ''
+permalink: ""
 # optional
 precision: []
 # required. Options: not_available, challenges_remain, approaching_target, target_achieved
-progress_status: not_available
+progress_status: approaching_target
 # optional. List of related indicators if any
 related_indicators: []
 # required. Options: complete, inprogress, notstarted, notapplicable
 reporting_status: complete
 # optional
-sort: ''
-# required 
+sort: ""
+# required
 source_active_1: true
 # optional
 source_organisation_1: UPO
