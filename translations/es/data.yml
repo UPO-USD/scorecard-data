@@ -7,6 +7,9 @@ Fund: Tipo de fondo
 university_members:
   pdi: Personal docente e investigador
   pas: Personal de administración y servicios
+Ethical_clauses: Cláusulas éticas
+includes_criteria: Incluyen criterios de adjudicación sostenibles
+includes_special_conditions: Incluyen condiciones especiales de ejecución sostenibles
 # Serie names
 disaggregated: Desagregado
 junta_andalucia: Becas generales concedidas por Junta de Andalucía
