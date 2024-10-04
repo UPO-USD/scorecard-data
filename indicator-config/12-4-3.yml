@@ -57,7 +57,7 @@ permalink: ""
 # optional
 precision: []
 # required. Options: not_available, challenges_remain, approaching_target, target_achieved
-progress_status: approaching_target
+progress_status: not_available
 # optional. List of related indicators if any
 related_indicators: []
 # required. Options: complete, inprogress, notstarted, notapplicable
