@@ -1,5 +1,5 @@
 Indicator,Disaggregations,Number of disaggregations
-#10-2-1,"University_members, Sex",2
+#10-2-1,"Sex, University_members",2
 #10-2-2,"Sex, Study_level",2
 #10-2-4,Sex,1
 #10-2-6,Sex,1
@@ -18,11 +18,11 @@ Indicator,Disaggregations,Number of disaggregations
 #4-3-7,"Sex, Study_level",2
 #4-5-1,Sex,1
 #4-5-2,Sex,1
-#4-5-3,"University_members, Sex",2
+#4-5-3,"Sex, University_members",2
 #4-7-2,Sex,1
 #5-1-7,Sex,1
-#5-4-1,"University_members, Sex",2
+#5-4-1,"Sex, University_members",2
 #8-5-1,Sex,1
 #8-5-2,Sex,1
 #8-5-3,Study_level,1
-#8-5-4,"University_members, Sex",2
+#8-5-4,"Sex, University_members",2
